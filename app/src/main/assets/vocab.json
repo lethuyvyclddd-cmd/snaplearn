@@ -1,0 +1,8002 @@
+[
+  {
+    "index": 0,
+    "label": "tench",
+    "en": "tench",
+    "vi": "cá tinca",
+    "phonetic": "/tentʃ/",
+    "example": "The tench lives in slow rivers."
+  },
+  {
+    "index": 1,
+    "label": "goldfish",
+    "en": "goldfish",
+    "vi": "cá vàng",
+    "phonetic": "/ˈɡəʊld.fɪʃ/",
+    "example": "We keep a goldfish in a bowl."
+  },
+  {
+    "index": 2,
+    "label": "great white shark",
+    "en": "great white shark",
+    "vi": "cá mập trắng lớn",
+    "phonetic": "/ɡreɪt waɪt ʃɑːk/",
+    "example": "The great white shark is a fast hunter."
+  },
+  {
+    "index": 3,
+    "label": "tiger shark",
+    "en": "tiger shark",
+    "vi": "cá mập hổ",
+    "phonetic": "/ˈtaɪ.ɡə ʃɑːk/",
+    "example": "A tiger shark swam past the boat."
+  },
+  {
+    "index": 4,
+    "label": "hammerhead",
+    "en": "hammerhead shark",
+    "vi": "cá mập đầu búa",
+    "phonetic": "/ˈhæm.ə.hed ʃɑːk/",
+    "example": "The hammerhead shark has a wide head."
+  },
+  {
+    "index": 5,
+    "label": "electric ray",
+    "en": "electric ray",
+    "vi": "cá đuối điện",
+    "phonetic": "/ɪˈlek.trɪk reɪ/",
+    "example": "An electric ray can shock its prey."
+  },
+  {
+    "index": 6,
+    "label": "stingray",
+    "en": "stingray",
+    "vi": "cá đuối gai độc",
+    "phonetic": "/ˈstɪŋ.reɪ/",
+    "example": "The stingray hid in the sand."
+  },
+  {
+    "index": 7,
+    "label": "cock",
+    "en": "rooster",
+    "vi": "gà trống",
+    "phonetic": "/ˈruː.stər/",
+    "example": "The rooster crows at dawn."
+  },
+  {
+    "index": 8,
+    "label": "hen",
+    "en": "hen",
+    "vi": "gà mái",
+    "phonetic": "/hen/",
+    "example": "The hen laid an egg."
+  },
+  {
+    "index": 9,
+    "label": "ostrich",
+    "en": "ostrich",
+    "vi": "đà điểu",
+    "phonetic": "/ˈɒs.trɪtʃ/",
+    "example": "An ostrich runs very fast."
+  },
+  {
+    "index": 10,
+    "label": "brambling",
+    "en": "brambling",
+    "vi": "chim sẻ thông",
+    "phonetic": "/ˈbræm.blɪŋ/",
+    "example": "The brambling visits in winter."
+  },
+  {
+    "index": 11,
+    "label": "goldfinch",
+    "en": "goldfinch",
+    "vi": "chim sẻ vàng",
+    "phonetic": "/ˈɡəʊld.fɪntʃ/",
+    "example": "A goldfinch sat on the branch."
+  },
+  {
+    "index": 12,
+    "label": "house finch",
+    "en": "house finch",
+    "vi": "chim sẻ nhà",
+    "phonetic": "/haʊs fɪntʃ/",
+    "example": "The house finch sings in the garden."
+  },
+  {
+    "index": 13,
+    "label": "junco",
+    "en": "junco",
+    "vi": "chim junco",
+    "phonetic": "/ˈdʒʌŋ.kəʊ/",
+    "example": "A junco hopped in the snow."
+  },
+  {
+    "index": 14,
+    "label": "indigo bunting",
+    "en": "indigo bunting",
+    "vi": "chim sẻ chàm",
+    "phonetic": "/ˈɪn.dɪ.ɡəʊ ˈbʌn.tɪŋ/",
+    "example": "The indigo bunting is bright blue."
+  },
+  {
+    "index": 15,
+    "label": "robin",
+    "en": "robin",
+    "vi": "chim cổ đỏ",
+    "phonetic": "/ˈrɒb.ɪn/",
+    "example": "A robin built a nest in the tree."
+  },
+  {
+    "index": 16,
+    "label": "bulbul",
+    "en": "bulbul",
+    "vi": "chim chào mào",
+    "phonetic": "/ˈbʊl.bʊl/",
+    "example": "The bulbul sings in the morning."
+  },
+  {
+    "index": 17,
+    "label": "jay",
+    "en": "jay",
+    "vi": "chim giẻ cùi",
+    "phonetic": "/dʒeɪ/",
+    "example": "A jay stole the nuts."
+  },
+  {
+    "index": 18,
+    "label": "magpie",
+    "en": "magpie",
+    "vi": "chim ác là",
+    "phonetic": "/ˈmæɡ.paɪ/",
+    "example": "The magpie has black and white feathers."
+  },
+  {
+    "index": 19,
+    "label": "chickadee",
+    "en": "chickadee",
+    "vi": "chim sẻ ngô",
+    "phonetic": "/ˈtʃɪk.ə.diː/",
+    "example": "A chickadee visited the feeder."
+  },
+  {
+    "index": 20,
+    "label": "water ouzel",
+    "en": "dipper",
+    "vi": "chim lội suối",
+    "phonetic": "/ˈdɪp.ər/",
+    "example": "The dipper walks under water."
+  },
+  {
+    "index": 21,
+    "label": "kite",
+    "en": "kite (bird)",
+    "vi": "diều hâu",
+    "phonetic": "/kaɪt/",
+    "example": "A kite circled above the field."
+  },
+  {
+    "index": 22,
+    "label": "bald eagle",
+    "en": "bald eagle",
+    "vi": "đại bàng đầu trắng",
+    "phonetic": "/bɔːld ˈiː.ɡəl/",
+    "example": "The bald eagle is a symbol of the USA."
+  },
+  {
+    "index": 23,
+    "label": "vulture",
+    "en": "vulture",
+    "vi": "kền kền",
+    "phonetic": "/ˈvʌl.tʃər/",
+    "example": "A vulture waited near the road."
+  },
+  {
+    "index": 24,
+    "label": "great grey owl",
+    "en": "great grey owl",
+    "vi": "cú xám lớn",
+    "phonetic": "/ɡreɪt ɡreɪ aʊl/",
+    "example": "The great grey owl hunts at night."
+  },
+  {
+    "index": 25,
+    "label": "European fire salamander",
+    "en": "fire salamander",
+    "vi": "kỳ nhông lửa",
+    "phonetic": "/ˈfaɪ.ə ˈsæl.ə.mæn.dər/",
+    "example": "The fire salamander is black and yellow."
+  },
+  {
+    "index": 26,
+    "label": "common newt",
+    "en": "newt",
+    "vi": "sa giông",
+    "phonetic": "/njuːt/",
+    "example": "A newt lives near the pond."
+  },
+  {
+    "index": 27,
+    "label": "eft",
+    "en": "eft",
+    "vi": "sa giông non",
+    "phonetic": "/eft/",
+    "example": "An eft is a young newt."
+  },
+  {
+    "index": 28,
+    "label": "spotted salamander",
+    "en": "spotted salamander",
+    "vi": "kỳ nhông đốm",
+    "phonetic": "/ˈspɒt.ɪd ˈsæl.ə.mæn.dər/",
+    "example": "The spotted salamander hides under logs."
+  },
+  {
+    "index": 29,
+    "label": "axolotl",
+    "en": "axolotl",
+    "vi": "kỳ nhông Mexico",
+    "phonetic": "/ˈæk.sə.lɒt.əl/",
+    "example": "The axolotl lives in water all its life."
+  },
+  {
+    "index": 30,
+    "label": "bullfrog",
+    "en": "bullfrog",
+    "vi": "ếch trâu",
+    "phonetic": "/ˈbʊl.frɒɡ/",
+    "example": "The bullfrog croaked loudly."
+  },
+  {
+    "index": 31,
+    "label": "tree frog",
+    "en": "tree frog",
+    "vi": "ếch cây",
+    "phonetic": "/triː frɒɡ/",
+    "example": "A tree frog sat on a leaf."
+  },
+  {
+    "index": 32,
+    "label": "tailed frog",
+    "en": "tailed frog",
+    "vi": "ếch có đuôi",
+    "phonetic": "/teɪld frɒɡ/",
+    "example": "The tailed frog lives in cold streams."
+  },
+  {
+    "index": 33,
+    "label": "loggerhead",
+    "en": "loggerhead turtle",
+    "vi": "rùa đầu to",
+    "phonetic": "/ˈlɒɡ.ə.hed ˈtɜː.təl/",
+    "example": "The loggerhead turtle swims far."
+  },
+  {
+    "index": 34,
+    "label": "leatherback turtle",
+    "en": "leatherback turtle",
+    "vi": "rùa da",
+    "phonetic": "/ˈleð.ə.bæk ˈtɜː.təl/",
+    "example": "The leatherback turtle is the largest turtle."
+  },
+  {
+    "index": 35,
+    "label": "mud turtle",
+    "en": "mud turtle",
+    "vi": "rùa bùn",
+    "phonetic": "/mʌd ˈtɜː.təl/",
+    "example": "A mud turtle crawled in the pond."
+  },
+  {
+    "index": 36,
+    "label": "terrapin",
+    "en": "terrapin",
+    "vi": "rùa nước ngọt",
+    "phonetic": "/ˈter.ə.pɪn/",
+    "example": "The terrapin sat on a rock."
+  },
+  {
+    "index": 37,
+    "label": "box turtle",
+    "en": "box turtle",
+    "vi": "rùa hộp",
+    "phonetic": "/bɒks ˈtɜː.təl/",
+    "example": "A box turtle closed its shell."
+  },
+  {
+    "index": 38,
+    "label": "banded gecko",
+    "en": "banded gecko",
+    "vi": "tắc kè vằn",
+    "phonetic": "/ˈbæn.dɪd ˈɡek.əʊ/",
+    "example": "The banded gecko comes out at night."
+  },
+  {
+    "index": 39,
+    "label": "common iguana",
+    "en": "iguana",
+    "vi": "cự đà",
+    "phonetic": "/ɪˈɡwɑː.nə/",
+    "example": "The iguana lay in the sun."
+  },
+  {
+    "index": 40,
+    "label": "American chameleon",
+    "en": "anole",
+    "vi": "thằn lằn anole",
+    "phonetic": "/ˈæn.əʊl/",
+    "example": "An anole changed its color."
+  },
+  {
+    "index": 41,
+    "label": "whiptail",
+    "en": "whiptail lizard",
+    "vi": "thằn lằn đuôi roi",
+    "phonetic": "/ˈwɪp.teɪl ˈlɪz.əd/",
+    "example": "The whiptail lizard runs fast."
+  },
+  {
+    "index": 42,
+    "label": "agama",
+    "en": "agama",
+    "vi": "nhông",
+    "phonetic": "/əˈɡɑː.mə/",
+    "example": "An agama sat on the wall."
+  },
+  {
+    "index": 43,
+    "label": "frilled lizard",
+    "en": "frilled lizard",
+    "vi": "thằn lằn cổ diềm",
+    "phonetic": "/frɪld ˈlɪz.əd/",
+    "example": "The frilled lizard opens its collar."
+  },
+  {
+    "index": 44,
+    "label": "alligator lizard",
+    "en": "alligator lizard",
+    "vi": "thằn lằn cá sấu",
+    "phonetic": "/ˈæl.ɪ.ɡeɪ.tər ˈlɪz.əd/",
+    "example": "An alligator lizard hid in the grass."
+  },
+  {
+    "index": 45,
+    "label": "Gila monster",
+    "en": "Gila monster",
+    "vi": "thằn lằn độc Gila",
+    "phonetic": "/ˈhiː.lə ˈmɒn.stər/",
+    "example": "The Gila monster is venomous."
+  },
+  {
+    "index": 46,
+    "label": "green lizard",
+    "en": "green lizard",
+    "vi": "thằn lằn xanh",
+    "phonetic": "/ɡriːn ˈlɪz.əd/",
+    "example": "A green lizard climbed the fence."
+  },
+  {
+    "index": 47,
+    "label": "African chameleon",
+    "en": "chameleon",
+    "vi": "tắc kè hoa",
+    "phonetic": "/kəˈmiː.li.ən/",
+    "example": "The chameleon changes color."
+  },
+  {
+    "index": 48,
+    "label": "Komodo dragon",
+    "en": "Komodo dragon",
+    "vi": "rồng Komodo",
+    "phonetic": "/kəˈməʊ.dəʊ ˈdræɡ.ən/",
+    "example": "The Komodo dragon is the biggest lizard."
+  },
+  {
+    "index": 49,
+    "label": "African crocodile",
+    "en": "crocodile",
+    "vi": "cá sấu",
+    "phonetic": "/ˈkrɒk.ə.daɪl/",
+    "example": "A crocodile lay by the river."
+  },
+  {
+    "index": 50,
+    "label": "American alligator",
+    "en": "alligator",
+    "vi": "cá sấu mõm ngắn",
+    "phonetic": "/ˈæl.ɪ.ɡeɪ.tər/",
+    "example": "The alligator swam slowly."
+  },
+  {
+    "index": 51,
+    "label": "triceratops",
+    "en": "triceratops",
+    "vi": "khủng long ba sừng",
+    "phonetic": "/traɪˈser.ə.tɒps/",
+    "example": "Triceratops had three horns."
+  },
+  {
+    "index": 52,
+    "label": "thunder snake",
+    "en": "thunder snake",
+    "vi": "rắn sấm",
+    "phonetic": "/ˈθʌn.də sneɪk/",
+    "example": "A thunder snake is harmless."
+  },
+  {
+    "index": 53,
+    "label": "ringneck snake",
+    "en": "ringneck snake",
+    "vi": "rắn cổ vòng",
+    "phonetic": "/ˈrɪŋ.nek sneɪk/",
+    "example": "The ringneck snake has a bright ring."
+  },
+  {
+    "index": 54,
+    "label": "hognose snake",
+    "en": "hognose snake",
+    "vi": "rắn mũi heo",
+    "phonetic": "/ˈhɒɡ.nəʊz sneɪk/",
+    "example": "The hognose snake plays dead."
+  },
+  {
+    "index": 55,
+    "label": "green snake",
+    "en": "green snake",
+    "vi": "rắn xanh",
+    "phonetic": "/ɡriːn sneɪk/",
+    "example": "A green snake hid in the leaves."
+  },
+  {
+    "index": 56,
+    "label": "king snake",
+    "en": "kingsnake",
+    "vi": "rắn vua",
+    "phonetic": "/ˈkɪŋ.sneɪk/",
+    "example": "The kingsnake eats other snakes."
+  },
+  {
+    "index": 57,
+    "label": "garter snake",
+    "en": "garter snake",
+    "vi": "rắn sọc",
+    "phonetic": "/ˈɡɑː.tə sneɪk/",
+    "example": "A garter snake crossed the path."
+  },
+  {
+    "index": 58,
+    "label": "water snake",
+    "en": "water snake",
+    "vi": "rắn nước",
+    "phonetic": "/ˈwɔː.tə sneɪk/",
+    "example": "The water snake swims well."
+  },
+  {
+    "index": 59,
+    "label": "vine snake",
+    "en": "vine snake",
+    "vi": "rắn dây",
+    "phonetic": "/vaɪn sneɪk/",
+    "example": "A vine snake looks like a vine."
+  },
+  {
+    "index": 60,
+    "label": "night snake",
+    "en": "night snake",
+    "vi": "rắn đêm",
+    "phonetic": "/naɪt sneɪk/",
+    "example": "The night snake hunts after dark."
+  },
+  {
+    "index": 61,
+    "label": "boa constrictor",
+    "en": "boa constrictor",
+    "vi": "trăn Nam Mỹ",
+    "phonetic": "/ˈbəʊ.ə kənˈstrɪk.tər/",
+    "example": "A boa constrictor squeezes its prey."
+  },
+  {
+    "index": 62,
+    "label": "rock python",
+    "en": "rock python",
+    "vi": "trăn đá",
+    "phonetic": "/rɒk ˈpaɪ.θən/",
+    "example": "The rock python is very long."
+  },
+  {
+    "index": 63,
+    "label": "Indian cobra",
+    "en": "cobra",
+    "vi": "rắn hổ mang",
+    "phonetic": "/ˈkəʊ.brə/",
+    "example": "The cobra raised its hood."
+  },
+  {
+    "index": 64,
+    "label": "green mamba",
+    "en": "green mamba",
+    "vi": "rắn mamba xanh",
+    "phonetic": "/ɡriːn ˈmæm.bə/",
+    "example": "A green mamba is fast and deadly."
+  },
+  {
+    "index": 65,
+    "label": "sea snake",
+    "en": "sea snake",
+    "vi": "rắn biển",
+    "phonetic": "/siː sneɪk/",
+    "example": "The sea snake lives in the ocean."
+  },
+  {
+    "index": 66,
+    "label": "horned viper",
+    "en": "horned viper",
+    "vi": "rắn lục có sừng",
+    "phonetic": "/hɔːnd ˈvaɪ.pər/",
+    "example": "The horned viper hides in sand."
+  },
+  {
+    "index": 67,
+    "label": "diamondback",
+    "en": "diamondback rattlesnake",
+    "vi": "rắn chuông lưng kim cương",
+    "phonetic": "/ˈdaɪ.mənd.bæk ˈræt.əl.sneɪk/",
+    "example": "The diamondback rattled its tail."
+  },
+  {
+    "index": 68,
+    "label": "sidewinder",
+    "en": "sidewinder",
+    "vi": "rắn chuông sa mạc",
+    "phonetic": "/ˈsaɪdˌwaɪn.dər/",
+    "example": "A sidewinder moves sideways on sand."
+  },
+  {
+    "index": 69,
+    "label": "trilobite",
+    "en": "trilobite",
+    "vi": "bọ ba thùy",
+    "phonetic": "/ˈtraɪ.lə.baɪt/",
+    "example": "A trilobite is an ancient fossil."
+  },
+  {
+    "index": 70,
+    "label": "harvestman",
+    "en": "harvestman",
+    "vi": "nhện chân dài",
+    "phonetic": "/ˈhɑː.vɪst.mən/",
+    "example": "A harvestman has very long legs."
+  },
+  {
+    "index": 71,
+    "label": "scorpion",
+    "en": "scorpion",
+    "vi": "bọ cạp",
+    "phonetic": "/ˈskɔː.pi.ən/",
+    "example": "The scorpion has a poisonous tail."
+  },
+  {
+    "index": 72,
+    "label": "black and gold garden spider",
+    "en": "garden spider",
+    "vi": "nhện vườn",
+    "phonetic": "/ˈɡɑː.dən ˈspaɪ.dər/",
+    "example": "A garden spider made a big web."
+  },
+  {
+    "index": 73,
+    "label": "barn spider",
+    "en": "barn spider",
+    "vi": "nhện chuồng",
+    "phonetic": "/bɑːn ˈspaɪ.dər/",
+    "example": "A barn spider lives in the barn."
+  },
+  {
+    "index": 74,
+    "label": "garden spider",
+    "en": "orb spider",
+    "vi": "nhện giăng tơ",
+    "phonetic": "/ɔːb ˈspaɪ.dər/",
+    "example": "The orb spider waited in its web."
+  },
+  {
+    "index": 75,
+    "label": "black widow",
+    "en": "black widow",
+    "vi": "nhện góa phụ đen",
+    "phonetic": "/blæk ˈwɪd.əʊ/",
+    "example": "The black widow is dangerous."
+  },
+  {
+    "index": 76,
+    "label": "tarantula",
+    "en": "tarantula",
+    "vi": "nhện lông",
+    "phonetic": "/təˈræn.tʃə.lə/",
+    "example": "The tarantula is large and hairy."
+  },
+  {
+    "index": 77,
+    "label": "wolf spider",
+    "en": "wolf spider",
+    "vi": "nhện sói",
+    "phonetic": "/wʊlf ˈspaɪ.dər/",
+    "example": "A wolf spider hunts on the ground."
+  },
+  {
+    "index": 78,
+    "label": "tick",
+    "en": "tick",
+    "vi": "con ve",
+    "phonetic": "/tɪk/",
+    "example": "A tick bit the dog."
+  },
+  {
+    "index": 79,
+    "label": "centipede",
+    "en": "centipede",
+    "vi": "con rết",
+    "phonetic": "/ˈsen.tɪ.piːd/",
+    "example": "A centipede has many legs."
+  },
+  {
+    "index": 80,
+    "label": "black grouse",
+    "en": "black grouse",
+    "vi": "gà gô đen",
+    "phonetic": "/blæk ɡraʊs/",
+    "example": "The black grouse lives on moors."
+  },
+  {
+    "index": 81,
+    "label": "ptarmigan",
+    "en": "ptarmigan",
+    "vi": "gà gô tuyết",
+    "phonetic": "/ˈtɑː.mɪ.ɡən/",
+    "example": "A ptarmigan turns white in winter."
+  },
+  {
+    "index": 82,
+    "label": "ruffed grouse",
+    "en": "ruffed grouse",
+    "vi": "gà gô cổ xù",
+    "phonetic": "/rʌft ɡraʊs/",
+    "example": "The ruffed grouse drums its wings."
+  },
+  {
+    "index": 83,
+    "label": "prairie chicken",
+    "en": "prairie chicken",
+    "vi": "gà đồng cỏ",
+    "phonetic": "/ˈpreə.ri ˈtʃɪk.ɪn/",
+    "example": "A prairie chicken danced in the field."
+  },
+  {
+    "index": 84,
+    "label": "peacock",
+    "en": "peacock",
+    "vi": "con công",
+    "phonetic": "/ˈpiː.kɒk/",
+    "example": "The peacock spread its tail."
+  },
+  {
+    "index": 85,
+    "label": "quail",
+    "en": "quail",
+    "vi": "chim cút",
+    "phonetic": "/kweɪl/",
+    "example": "We ate quail eggs."
+  },
+  {
+    "index": 86,
+    "label": "partridge",
+    "en": "partridge",
+    "vi": "gà gô",
+    "phonetic": "/ˈpɑː.trɪdʒ/",
+    "example": "A partridge ran across the road."
+  },
+  {
+    "index": 87,
+    "label": "African grey",
+    "en": "African grey parrot",
+    "vi": "vẹt xám châu Phi",
+    "phonetic": "/ˈæf.rɪ.kən ɡreɪ ˈpær.ət/",
+    "example": "The African grey parrot can talk."
+  },
+  {
+    "index": 88,
+    "label": "macaw",
+    "en": "macaw",
+    "vi": "vẹt đuôi dài",
+    "phonetic": "/məˈkɔː/",
+    "example": "The macaw has colorful feathers."
+  },
+  {
+    "index": 89,
+    "label": "sulphur-crested cockatoo",
+    "en": "cockatoo",
+    "vi": "vẹt mào",
+    "phonetic": "/ˌkɒk.əˈtuː/",
+    "example": "The cockatoo has a yellow crest."
+  },
+  {
+    "index": 90,
+    "label": "lorikeet",
+    "en": "lorikeet",
+    "vi": "vẹt lori",
+    "phonetic": "/ˈlɒr.ɪ.kiːt/",
+    "example": "A lorikeet drinks nectar."
+  },
+  {
+    "index": 91,
+    "label": "coucal",
+    "en": "coucal",
+    "vi": "chim cu cu",
+    "phonetic": "/ˈkuː.kəl/",
+    "example": "The coucal hid in the bushes."
+  },
+  {
+    "index": 92,
+    "label": "bee eater",
+    "en": "bee-eater",
+    "vi": "chim trảu",
+    "phonetic": "/ˈbiː.iː.tər/",
+    "example": "A bee-eater caught a bee."
+  },
+  {
+    "index": 93,
+    "label": "hornbill",
+    "en": "hornbill",
+    "vi": "chim hồng hoàng",
+    "phonetic": "/ˈhɔːn.bɪl/",
+    "example": "The hornbill has a big beak."
+  },
+  {
+    "index": 94,
+    "label": "hummingbird",
+    "en": "hummingbird",
+    "vi": "chim ruồi",
+    "phonetic": "/ˈhʌm.ɪŋ.bɜːd/",
+    "example": "A hummingbird hovered at the flower."
+  },
+  {
+    "index": 95,
+    "label": "jacamar",
+    "en": "jacamar",
+    "vi": "chim jacamar",
+    "phonetic": "/ˈdʒæk.ə.mɑː/",
+    "example": "The jacamar waits on a branch."
+  },
+  {
+    "index": 96,
+    "label": "toucan",
+    "en": "toucan",
+    "vi": "chim tu-căng",
+    "phonetic": "/ˈtuː.kæn/",
+    "example": "The toucan has a large colorful beak."
+  },
+  {
+    "index": 97,
+    "label": "drake",
+    "en": "drake",
+    "vi": "vịt đực",
+    "phonetic": "/dreɪk/",
+    "example": "The drake swam on the lake."
+  },
+  {
+    "index": 98,
+    "label": "red-breasted merganser",
+    "en": "merganser",
+    "vi": "vịt lặn mỏ nhọn",
+    "phonetic": "/mɜːˈɡæn.sər/",
+    "example": "A merganser dived for fish."
+  },
+  {
+    "index": 99,
+    "label": "goose",
+    "en": "goose",
+    "vi": "con ngỗng",
+    "phonetic": "/ɡuːs/",
+    "example": "The goose honked loudly."
+  },
+  {
+    "index": 100,
+    "label": "black swan",
+    "en": "black swan",
+    "vi": "thiên nga đen",
+    "phonetic": "/blæk swɒn/",
+    "example": "A black swan glided on the lake."
+  },
+  {
+    "index": 101,
+    "label": "tusker",
+    "en": "tusker",
+    "vi": "voi có ngà",
+    "phonetic": "/ˈtʌs.kər/",
+    "example": "The tusker walked slowly."
+  },
+  {
+    "index": 102,
+    "label": "echidna",
+    "en": "echidna",
+    "vi": "thú lông nhím",
+    "phonetic": "/ɪˈkɪd.nə/",
+    "example": "An echidna eats ants."
+  },
+  {
+    "index": 103,
+    "label": "platypus",
+    "en": "platypus",
+    "vi": "thú mỏ vịt",
+    "phonetic": "/ˈplæt.ɪ.pəs/",
+    "example": "The platypus lays eggs."
+  },
+  {
+    "index": 104,
+    "label": "wallaby",
+    "en": "wallaby",
+    "vi": "chuột túi nhỏ",
+    "phonetic": "/ˈwɒl.ə.bi/",
+    "example": "A wallaby jumped across the field."
+  },
+  {
+    "index": 105,
+    "label": "koala",
+    "en": "koala",
+    "vi": "gấu túi",
+    "phonetic": "/kəʊˈɑː.lə/",
+    "example": "The koala sleeps in a tree."
+  },
+  {
+    "index": 106,
+    "label": "wombat",
+    "en": "wombat",
+    "vi": "gấu túi mũi trần",
+    "phonetic": "/ˈwɒm.bæt/",
+    "example": "A wombat digs burrows."
+  },
+  {
+    "index": 107,
+    "label": "jellyfish",
+    "en": "jellyfish",
+    "vi": "con sứa",
+    "phonetic": "/ˈdʒel.i.fɪʃ/",
+    "example": "A jellyfish floated in the sea."
+  },
+  {
+    "index": 108,
+    "label": "sea anemone",
+    "en": "sea anemone",
+    "vi": "hải quỳ",
+    "phonetic": "/siː əˈnem.ə.ni/",
+    "example": "The sea anemone has soft tentacles."
+  },
+  {
+    "index": 109,
+    "label": "brain coral",
+    "en": "brain coral",
+    "vi": "san hô não",
+    "phonetic": "/breɪn ˈkɒr.əl/",
+    "example": "Brain coral looks like a brain."
+  },
+  {
+    "index": 110,
+    "label": "flatworm",
+    "en": "flatworm",
+    "vi": "giun dẹp",
+    "phonetic": "/ˈflæt.wɜːm/",
+    "example": "A flatworm is thin and flat."
+  },
+  {
+    "index": 111,
+    "label": "nematode",
+    "en": "nematode",
+    "vi": "giun tròn",
+    "phonetic": "/ˈnem.ə.təʊd/",
+    "example": "A nematode is a tiny worm."
+  },
+  {
+    "index": 112,
+    "label": "conch",
+    "en": "conch",
+    "vi": "ốc xà cừ",
+    "phonetic": "/kɒŋk/",
+    "example": "She heard the sea in a conch."
+  },
+  {
+    "index": 113,
+    "label": "snail",
+    "en": "snail",
+    "vi": "ốc sên",
+    "phonetic": "/sneɪl/",
+    "example": "The snail moves slowly."
+  },
+  {
+    "index": 114,
+    "label": "slug",
+    "en": "slug",
+    "vi": "sên trần",
+    "phonetic": "/slʌɡ/",
+    "example": "A slug ate the lettuce."
+  },
+  {
+    "index": 115,
+    "label": "sea slug",
+    "en": "sea slug",
+    "vi": "sên biển",
+    "phonetic": "/siː slʌɡ/",
+    "example": "The sea slug is colorful."
+  },
+  {
+    "index": 116,
+    "label": "chiton",
+    "en": "chiton",
+    "vi": "ốc mảng",
+    "phonetic": "/ˈkaɪ.tən/",
+    "example": "A chiton clings to rocks."
+  },
+  {
+    "index": 117,
+    "label": "chambered nautilus",
+    "en": "nautilus",
+    "vi": "ốc anh vũ",
+    "phonetic": "/ˈnɔː.tɪ.ləs/",
+    "example": "The nautilus has a spiral shell."
+  },
+  {
+    "index": 118,
+    "label": "Dungeness crab",
+    "en": "Dungeness crab",
+    "vi": "cua Dungeness",
+    "phonetic": "/ˈdʌn.dʒə.nes kræb/",
+    "example": "We ate Dungeness crab for dinner."
+  },
+  {
+    "index": 119,
+    "label": "rock crab",
+    "en": "rock crab",
+    "vi": "cua đá",
+    "phonetic": "/rɒk kræb/",
+    "example": "A rock crab hid under a rock."
+  },
+  {
+    "index": 120,
+    "label": "fiddler crab",
+    "en": "fiddler crab",
+    "vi": "cua càng ếch",
+    "phonetic": "/ˈfɪd.lə kræb/",
+    "example": "The fiddler crab waves one big claw."
+  },
+  {
+    "index": 121,
+    "label": "king crab",
+    "en": "king crab",
+    "vi": "cua hoàng đế",
+    "phonetic": "/kɪŋ kræb/",
+    "example": "King crab is expensive."
+  },
+  {
+    "index": 122,
+    "label": "American lobster",
+    "en": "lobster",
+    "vi": "tôm hùm",
+    "phonetic": "/ˈlɒb.stər/",
+    "example": "We ordered a lobster."
+  },
+  {
+    "index": 123,
+    "label": "spiny lobster",
+    "en": "spiny lobster",
+    "vi": "tôm hùm gai",
+    "phonetic": "/ˈspaɪ.ni ˈlɒb.stər/",
+    "example": "The spiny lobster has no big claws."
+  },
+  {
+    "index": 124,
+    "label": "crayfish",
+    "en": "crayfish",
+    "vi": "tôm càng",
+    "phonetic": "/ˈkreɪ.fɪʃ/",
+    "example": "A crayfish lives in the stream."
+  },
+  {
+    "index": 125,
+    "label": "hermit crab",
+    "en": "hermit crab",
+    "vi": "ghẹ ẩn sĩ",
+    "phonetic": "/ˈhɜː.mɪt kræb/",
+    "example": "The hermit crab lives in a shell."
+  },
+  {
+    "index": 126,
+    "label": "isopod",
+    "en": "isopod",
+    "vi": "giáp xác chân đều",
+    "phonetic": "/ˈaɪ.sə.pɒd/",
+    "example": "An isopod is a small crustacean."
+  },
+  {
+    "index": 127,
+    "label": "white stork",
+    "en": "white stork",
+    "vi": "cò trắng",
+    "phonetic": "/waɪt stɔːk/",
+    "example": "The white stork builds big nests."
+  },
+  {
+    "index": 128,
+    "label": "black stork",
+    "en": "black stork",
+    "vi": "cò đen",
+    "phonetic": "/blæk stɔːk/",
+    "example": "A black stork flew over the forest."
+  },
+  {
+    "index": 129,
+    "label": "spoonbill",
+    "en": "spoonbill",
+    "vi": "cò thìa",
+    "phonetic": "/ˈspuːn.bɪl/",
+    "example": "The spoonbill has a flat beak."
+  },
+  {
+    "index": 130,
+    "label": "flamingo",
+    "en": "flamingo",
+    "vi": "chim hồng hạc",
+    "phonetic": "/fləˈmɪŋ.ɡəʊ/",
+    "example": "A flamingo stands on one leg."
+  },
+  {
+    "index": 131,
+    "label": "little blue heron",
+    "en": "little blue heron",
+    "vi": "diệc xanh nhỏ",
+    "phonetic": "/ˈlɪt.əl bluː ˈher.ən/",
+    "example": "A little blue heron stood in the water."
+  },
+  {
+    "index": 132,
+    "label": "American egret",
+    "en": "egret",
+    "vi": "cò trắng nhỏ",
+    "phonetic": "/ˈiː.ɡret/",
+    "example": "The egret walked in the rice field."
+  },
+  {
+    "index": 133,
+    "label": "bittern",
+    "en": "bittern",
+    "vi": "vạc",
+    "phonetic": "/ˈbɪt.ən/",
+    "example": "A bittern hides in the reeds."
+  },
+  {
+    "index": 134,
+    "label": "crane",
+    "en": "crane (bird)",
+    "vi": "con sếu",
+    "phonetic": "/kreɪn/",
+    "example": "A crane stood in the lake."
+  },
+  {
+    "index": 135,
+    "label": "limpkin",
+    "en": "limpkin",
+    "vi": "chim limpkin",
+    "phonetic": "/ˈlɪmp.kɪn/",
+    "example": "The limpkin eats snails."
+  },
+  {
+    "index": 136,
+    "label": "European gallinule",
+    "en": "gallinule",
+    "vi": "gà nước",
+    "phonetic": "/ˈɡæl.ɪ.njuːl/",
+    "example": "A gallinule swam in the marsh."
+  },
+  {
+    "index": 137,
+    "label": "American coot",
+    "en": "coot",
+    "vi": "chim cuốc",
+    "phonetic": "/kuːt/",
+    "example": "The coot dived under water."
+  },
+  {
+    "index": 138,
+    "label": "bustard",
+    "en": "bustard",
+    "vi": "chim ô tác",
+    "phonetic": "/ˈbʌs.təd/",
+    "example": "A bustard walked across the plain."
+  },
+  {
+    "index": 139,
+    "label": "ruddy turnstone",
+    "en": "turnstone",
+    "vi": "chim choắt",
+    "phonetic": "/ˈtɜːn.stəʊn/",
+    "example": "A turnstone flipped over stones."
+  },
+  {
+    "index": 140,
+    "label": "red-backed sandpiper",
+    "en": "sandpiper",
+    "vi": "chim choắt cát",
+    "phonetic": "/ˈsænd.paɪ.pər/",
+    "example": "The sandpiper ran along the beach."
+  },
+  {
+    "index": 141,
+    "label": "redshank",
+    "en": "redshank",
+    "vi": "chim choắt chân đỏ",
+    "phonetic": "/ˈred.ʃæŋk/",
+    "example": "A redshank has bright red legs."
+  },
+  {
+    "index": 142,
+    "label": "dowitcher",
+    "en": "dowitcher",
+    "vi": "chim dowitcher",
+    "phonetic": "/ˈdaʊ.ɪ.tʃər/",
+    "example": "A dowitcher fed in the mud."
+  },
+  {
+    "index": 143,
+    "label": "oystercatcher",
+    "en": "oystercatcher",
+    "vi": "chim mỏ nhát",
+    "phonetic": "/ˈɔɪ.stəˌkætʃ.ər/",
+    "example": "An oystercatcher has an orange beak."
+  },
+  {
+    "index": 144,
+    "label": "pelican",
+    "en": "pelican",
+    "vi": "bồ nông",
+    "phonetic": "/ˈpel.ɪ.kən/",
+    "example": "The pelican caught a fish."
+  },
+  {
+    "index": 145,
+    "label": "king penguin",
+    "en": "king penguin",
+    "vi": "chim cánh cụt vua",
+    "phonetic": "/kɪŋ ˈpeŋ.ɡwɪn/",
+    "example": "A king penguin stood on the ice."
+  },
+  {
+    "index": 146,
+    "label": "albatross",
+    "en": "albatross",
+    "vi": "hải âu lớn",
+    "phonetic": "/ˈæl.bə.trɒs/",
+    "example": "The albatross flew over the ocean."
+  },
+  {
+    "index": 147,
+    "label": "grey whale",
+    "en": "grey whale",
+    "vi": "cá voi xám",
+    "phonetic": "/ɡreɪ weɪl/",
+    "example": "A grey whale migrates every year."
+  },
+  {
+    "index": 148,
+    "label": "killer whale",
+    "en": "killer whale",
+    "vi": "cá voi sát thủ",
+    "phonetic": "/ˈkɪl.ə weɪl/",
+    "example": "The killer whale jumped out of the water."
+  },
+  {
+    "index": 149,
+    "label": "dugong",
+    "en": "dugong",
+    "vi": "bò biển",
+    "phonetic": "/ˈduː.ɡɒŋ/",
+    "example": "The dugong eats sea grass."
+  },
+  {
+    "index": 150,
+    "label": "sea lion",
+    "en": "sea lion",
+    "vi": "sư tử biển",
+    "phonetic": "/siː ˈlaɪ.ən/",
+    "example": "A sea lion sat on the rock."
+  },
+  {
+    "index": 151,
+    "label": "Chihuahua",
+    "en": "Chihuahua",
+    "vi": "chó Chihuahua",
+    "phonetic": "/tʃɪˈwɑː.wɑː/",
+    "example": "The Chihuahua is a tiny dog."
+  },
+  {
+    "index": 152,
+    "label": "Japanese spaniel",
+    "en": "Japanese Chin",
+    "vi": "chó Nhật Chin",
+    "phonetic": "/dʒæp.ənˈiːz tʃɪn/",
+    "example": "The Japanese Chin is a small dog."
+  },
+  {
+    "index": 153,
+    "label": "Maltese dog",
+    "en": "Maltese",
+    "vi": "chó Maltese",
+    "phonetic": "/mɔːlˈtiːz/",
+    "example": "The Maltese has long white hair."
+  },
+  {
+    "index": 154,
+    "label": "Pekinese",
+    "en": "Pekingese",
+    "vi": "chó Bắc Kinh",
+    "phonetic": "/ˌpiː.kɪˈniːz/",
+    "example": "The Pekingese has a flat face."
+  },
+  {
+    "index": 155,
+    "label": "Shih-Tzu",
+    "en": "Shih Tzu",
+    "vi": "chó Shih Tzu",
+    "phonetic": "/ˌʃiː ˈtsuː/",
+    "example": "My Shih Tzu loves to cuddle."
+  },
+  {
+    "index": 156,
+    "label": "Blenheim spaniel",
+    "en": "Cavalier King Charles spaniel",
+    "vi": "chó spaniel Blenheim",
+    "phonetic": "/ˈblen.ɪm ˈspæn.jəl/",
+    "example": "The Blenheim spaniel is friendly."
+  },
+  {
+    "index": 157,
+    "label": "papillon",
+    "en": "papillon",
+    "vi": "chó Papillon",
+    "phonetic": "/ˈpæp.ɪ.ɒn/",
+    "example": "A papillon has ears like butterfly wings."
+  },
+  {
+    "index": 158,
+    "label": "toy terrier",
+    "en": "toy terrier",
+    "vi": "chó sục cảnh",
+    "phonetic": "/tɔɪ ˈter.i.ər/",
+    "example": "The toy terrier is very small."
+  },
+  {
+    "index": 159,
+    "label": "Rhodesian ridgeback",
+    "en": "Rhodesian ridgeback",
+    "vi": "chó Ridgeback",
+    "phonetic": "/rəʊˈdiː.ʒən ˈrɪdʒ.bæk/",
+    "example": "The Rhodesian ridgeback is strong."
+  },
+  {
+    "index": 160,
+    "label": "Afghan hound",
+    "en": "Afghan hound",
+    "vi": "chó săn Afghan",
+    "phonetic": "/ˈæf.ɡæn haʊnd/",
+    "example": "An Afghan hound has silky hair."
+  },
+  {
+    "index": 161,
+    "label": "basset",
+    "en": "basset hound",
+    "vi": "chó basset",
+    "phonetic": "/ˈbæs.ɪt haʊnd/",
+    "example": "The basset hound has long ears."
+  },
+  {
+    "index": 162,
+    "label": "beagle",
+    "en": "beagle",
+    "vi": "chó beagle",
+    "phonetic": "/ˈbiː.ɡəl/",
+    "example": "The beagle follows every smell."
+  },
+  {
+    "index": 163,
+    "label": "bloodhound",
+    "en": "bloodhound",
+    "vi": "chó đánh hơi",
+    "phonetic": "/ˈblʌd.haʊnd/",
+    "example": "A bloodhound can track a person."
+  },
+  {
+    "index": 164,
+    "label": "bluetick",
+    "en": "bluetick coonhound",
+    "vi": "chó săn bluetick",
+    "phonetic": "/ˈbluː.tɪk ˈkuːn.haʊnd/",
+    "example": "The bluetick has blue spots."
+  },
+  {
+    "index": 165,
+    "label": "black-and-tan coonhound",
+    "en": "black-and-tan coonhound",
+    "vi": "chó săn đen nâu",
+    "phonetic": "/blæk ənd tæn ˈkuːn.haʊnd/",
+    "example": "The coonhound howled at night."
+  },
+  {
+    "index": 166,
+    "label": "Walker hound",
+    "en": "Walker hound",
+    "vi": "chó săn Walker",
+    "phonetic": "/ˈwɔː.kə haʊnd/",
+    "example": "The Walker hound ran through the woods."
+  },
+  {
+    "index": 167,
+    "label": "English foxhound",
+    "en": "English foxhound",
+    "vi": "chó săn cáo Anh",
+    "phonetic": "/ˈɪŋ.ɡlɪʃ ˈfɒks.haʊnd/",
+    "example": "An English foxhound runs fast."
+  },
+  {
+    "index": 168,
+    "label": "redbone",
+    "en": "redbone coonhound",
+    "vi": "chó săn lông đỏ",
+    "phonetic": "/ˈred.bəʊn ˈkuːn.haʊnd/",
+    "example": "The redbone has a red coat."
+  },
+  {
+    "index": 169,
+    "label": "borzoi",
+    "en": "borzoi",
+    "vi": "chó săn Nga",
+    "phonetic": "/ˈbɔː.zɔɪ/",
+    "example": "The borzoi is tall and thin."
+  },
+  {
+    "index": 170,
+    "label": "Irish wolfhound",
+    "en": "Irish wolfhound",
+    "vi": "chó sói Ireland",
+    "phonetic": "/ˈaɪ.rɪʃ ˈwʊlf.haʊnd/",
+    "example": "The Irish wolfhound is a giant dog."
+  },
+  {
+    "index": 171,
+    "label": "Italian greyhound",
+    "en": "Italian greyhound",
+    "vi": "chó săn thỏ Ý",
+    "phonetic": "/ɪˈtæl.i.ən ˈɡreɪ.haʊnd/",
+    "example": "An Italian greyhound feels the cold."
+  },
+  {
+    "index": 172,
+    "label": "whippet",
+    "en": "whippet",
+    "vi": "chó whippet",
+    "phonetic": "/ˈwɪp.ɪt/",
+    "example": "The whippet ran around the park."
+  },
+  {
+    "index": 173,
+    "label": "Ibizan hound",
+    "en": "Ibizan hound",
+    "vi": "chó săn Ibiza",
+    "phonetic": "/ɪˈbiː.θən haʊnd/",
+    "example": "The Ibizan hound jumps very high."
+  },
+  {
+    "index": 174,
+    "label": "Norwegian elkhound",
+    "en": "Norwegian elkhound",
+    "vi": "chó săn nai Na Uy",
+    "phonetic": "/nɔːˈwiː.dʒən ˈelk.haʊnd/",
+    "example": "The elkhound has thick fur."
+  },
+  {
+    "index": 175,
+    "label": "otterhound",
+    "en": "otterhound",
+    "vi": "chó săn rái cá",
+    "phonetic": "/ˈɒt.ə.haʊnd/",
+    "example": "An otterhound likes to swim."
+  },
+  {
+    "index": 176,
+    "label": "Saluki",
+    "en": "Saluki",
+    "vi": "chó Saluki",
+    "phonetic": "/səˈluː.ki/",
+    "example": "The Saluki is an ancient breed."
+  },
+  {
+    "index": 177,
+    "label": "Scottish deerhound",
+    "en": "Scottish deerhound",
+    "vi": "chó săn nai Scotland",
+    "phonetic": "/ˈskɒt.ɪʃ ˈdɪə.haʊnd/",
+    "example": "The deerhound is tall and rough-coated."
+  },
+  {
+    "index": 178,
+    "label": "Weimaraner",
+    "en": "Weimaraner",
+    "vi": "chó Weimaraner",
+    "phonetic": "/ˈvaɪ.mə.rɑː.nər/",
+    "example": "The Weimaraner has a grey coat."
+  },
+  {
+    "index": 179,
+    "label": "Staffordshire bullterrier",
+    "en": "Staffordshire bull terrier",
+    "vi": "chó bull Staffordshire",
+    "phonetic": "/ˈstæf.əd.ʃər ˈbʊl ˈter.i.ər/",
+    "example": "The Staffordshire bull terrier is strong."
+  },
+  {
+    "index": 180,
+    "label": "American Staffordshire terrier",
+    "en": "American Staffordshire terrier",
+    "vi": "chó sục Staffordshire Mỹ",
+    "phonetic": "/əˈmer.ɪ.kən ˈstæf.əd.ʃər ˈter.i.ər/",
+    "example": "It is a muscular dog."
+  },
+  {
+    "index": 181,
+    "label": "Bedlington terrier",
+    "en": "Bedlington terrier",
+    "vi": "chó sục Bedlington",
+    "phonetic": "/ˈbed.lɪŋ.tən ˈter.i.ər/",
+    "example": "A Bedlington terrier looks like a lamb."
+  },
+  {
+    "index": 182,
+    "label": "Border terrier",
+    "en": "Border terrier",
+    "vi": "chó sục Border",
+    "phonetic": "/ˈbɔː.də ˈter.i.ər/",
+    "example": "The Border terrier is small and tough."
+  },
+  {
+    "index": 183,
+    "label": "Kerry blue terrier",
+    "en": "Kerry blue terrier",
+    "vi": "chó sục Kerry xanh",
+    "phonetic": "/ˈker.i bluː ˈter.i.ər/",
+    "example": "The Kerry blue terrier has a curly coat."
+  },
+  {
+    "index": 184,
+    "label": "Irish terrier",
+    "en": "Irish terrier",
+    "vi": "chó sục Ireland",
+    "phonetic": "/ˈaɪ.rɪʃ ˈter.i.ər/",
+    "example": "The Irish terrier has a red coat."
+  },
+  {
+    "index": 185,
+    "label": "Norfolk terrier",
+    "en": "Norfolk terrier",
+    "vi": "chó sục Norfolk",
+    "phonetic": "/ˈnɔː.fək ˈter.i.ər/",
+    "example": "The Norfolk terrier is lively."
+  },
+  {
+    "index": 186,
+    "label": "Norwich terrier",
+    "en": "Norwich terrier",
+    "vi": "chó sục Norwich",
+    "phonetic": "/ˈnɒr.ɪtʃ ˈter.i.ər/",
+    "example": "A Norwich terrier has pointed ears."
+  },
+  {
+    "index": 187,
+    "label": "Yorkshire terrier",
+    "en": "Yorkshire terrier",
+    "vi": "chó Yorkshire",
+    "phonetic": "/ˈjɔːk.ʃər ˈter.i.ər/",
+    "example": "The Yorkshire terrier is very small."
+  },
+  {
+    "index": 188,
+    "label": "wire-haired fox terrier",
+    "en": "wire fox terrier",
+    "vi": "chó sục cáo lông cứng",
+    "phonetic": "/waɪə fɒks ˈter.i.ər/",
+    "example": "The wire fox terrier is playful."
+  },
+  {
+    "index": 189,
+    "label": "Lakeland terrier",
+    "en": "Lakeland terrier",
+    "vi": "chó sục Lakeland",
+    "phonetic": "/ˈleɪk.lənd ˈter.i.ər/",
+    "example": "The Lakeland terrier is brave."
+  },
+  {
+    "index": 190,
+    "label": "Sealyham terrier",
+    "en": "Sealyham terrier",
+    "vi": "chó sục Sealyham",
+    "phonetic": "/ˈsiː.li.əm ˈter.i.ər/",
+    "example": "A Sealyham terrier has white fur."
+  },
+  {
+    "index": 191,
+    "label": "Airedale",
+    "en": "Airedale terrier",
+    "vi": "chó sục Airedale",
+    "phonetic": "/ˈeə.deɪl/",
+    "example": "The Airedale is the biggest terrier."
+  },
+  {
+    "index": 192,
+    "label": "cairn",
+    "en": "Cairn terrier",
+    "vi": "chó sục Cairn",
+    "phonetic": "/keən ˈter.i.ər/",
+    "example": "The Cairn terrier is small and brave."
+  },
+  {
+    "index": 193,
+    "label": "Australian terrier",
+    "en": "Australian terrier",
+    "vi": "chó sục Úc",
+    "phonetic": "/ɒˈstreɪ.li.ən ˈter.i.ər/",
+    "example": "The Australian terrier is friendly."
+  },
+  {
+    "index": 194,
+    "label": "Dandie Dinmont",
+    "en": "Dandie Dinmont terrier",
+    "vi": "chó sục Dandie Dinmont",
+    "phonetic": "/ˈdæn.di ˈdɪn.mɒnt/",
+    "example": "A Dandie Dinmont has a fluffy head."
+  },
+  {
+    "index": 195,
+    "label": "Boston bull",
+    "en": "Boston terrier",
+    "vi": "chó Boston",
+    "phonetic": "/ˈbɒs.tən ˈter.i.ər/",
+    "example": "The Boston terrier has a short nose."
+  },
+  {
+    "index": 196,
+    "label": "miniature schnauzer",
+    "en": "miniature schnauzer",
+    "vi": "chó schnauzer mini",
+    "phonetic": "/ˈmɪn.ɪ.tʃər ˈʃnaʊ.zər/",
+    "example": "A miniature schnauzer has a beard."
+  },
+  {
+    "index": 197,
+    "label": "giant schnauzer",
+    "en": "giant schnauzer",
+    "vi": "chó schnauzer khổng lồ",
+    "phonetic": "/ˈdʒaɪ.ənt ˈʃnaʊ.zər/",
+    "example": "The giant schnauzer is large."
+  },
+  {
+    "index": 198,
+    "label": "standard schnauzer",
+    "en": "standard schnauzer",
+    "vi": "chó schnauzer tiêu chuẩn",
+    "phonetic": "/ˈstæn.dəd ˈʃnaʊ.zər/",
+    "example": "The standard schnauzer is smart."
+  },
+  {
+    "index": 199,
+    "label": "Scotch terrier",
+    "en": "Scottish terrier",
+    "vi": "chó sục Scotland",
+    "phonetic": "/ˈskɒt.ɪʃ ˈter.i.ər/",
+    "example": "The Scottish terrier is black."
+  },
+  {
+    "index": 200,
+    "label": "Tibetan terrier",
+    "en": "Tibetan terrier",
+    "vi": "chó sục Tây Tạng",
+    "phonetic": "/tɪˈbet.ən ˈter.i.ər/",
+    "example": "The Tibetan terrier has long hair."
+  },
+  {
+    "index": 201,
+    "label": "silky terrier",
+    "en": "silky terrier",
+    "vi": "chó sục lông mượt",
+    "phonetic": "/ˈsɪl.ki ˈter.i.ər/",
+    "example": "A silky terrier has soft hair."
+  },
+  {
+    "index": 202,
+    "label": "soft-coated wheaten terrier",
+    "en": "wheaten terrier",
+    "vi": "chó sục lông lúa mì",
+    "phonetic": "/ˈwiː.tən ˈter.i.ər/",
+    "example": "The wheaten terrier has a soft coat."
+  },
+  {
+    "index": 203,
+    "label": "West Highland white terrier",
+    "en": "West Highland white terrier",
+    "vi": "chó sục trắng Tây Highland",
+    "phonetic": "/west ˈhaɪ.lənd waɪt ˈter.i.ər/",
+    "example": "The Westie is small and white."
+  },
+  {
+    "index": 204,
+    "label": "Lhasa",
+    "en": "Lhasa Apso",
+    "vi": "chó Lhasa Apso",
+    "phonetic": "/ˈlɑː.sə ˈæp.səʊ/",
+    "example": "The Lhasa Apso has long hair."
+  },
+  {
+    "index": 205,
+    "label": "flat-coated retriever",
+    "en": "flat-coated retriever",
+    "vi": "chó tha mồi lông phẳng",
+    "phonetic": "/flæt ˈkəʊ.tɪd rɪˈtriː.vər/",
+    "example": "The flat-coated retriever is black."
+  },
+  {
+    "index": 206,
+    "label": "curly-coated retriever",
+    "en": "curly-coated retriever",
+    "vi": "chó tha mồi lông xoăn",
+    "phonetic": "/ˈkɜː.li ˈkəʊ.tɪd rɪˈtriː.vər/",
+    "example": "It has tight curls."
+  },
+  {
+    "index": 207,
+    "label": "golden retriever",
+    "en": "golden retriever",
+    "vi": "chó tha mồi vàng",
+    "phonetic": "/ˈɡəʊl.dən rɪˈtriː.vər/",
+    "example": "The golden retriever is very friendly."
+  },
+  {
+    "index": 208,
+    "label": "Labrador retriever",
+    "en": "Labrador retriever",
+    "vi": "chó Labrador",
+    "phonetic": "/ˈlæb.rə.dɔː rɪˈtriː.vər/",
+    "example": "The Labrador loves to swim."
+  },
+  {
+    "index": 209,
+    "label": "Chesapeake Bay retriever",
+    "en": "Chesapeake Bay retriever",
+    "vi": "chó tha mồi Chesapeake",
+    "phonetic": "/ˈtʃes.ə.piːk beɪ rɪˈtriː.vər/",
+    "example": "It likes cold water."
+  },
+  {
+    "index": 210,
+    "label": "German short-haired pointer",
+    "en": "German shorthaired pointer",
+    "vi": "chó chỉ điểm Đức",
+    "phonetic": "/ˈdʒɜː.mən ˈʃɔːt.heəd ˈpɔɪn.tər/",
+    "example": "The pointer hunts birds."
+  },
+  {
+    "index": 211,
+    "label": "vizsla",
+    "en": "Vizsla",
+    "vi": "chó Vizsla",
+    "phonetic": "/ˈvɪʒ.lə/",
+    "example": "The Vizsla has a red-gold coat."
+  },
+  {
+    "index": 212,
+    "label": "English setter",
+    "en": "English setter",
+    "vi": "chó setter Anh",
+    "phonetic": "/ˈɪŋ.ɡlɪʃ ˈset.ər/",
+    "example": "The English setter is gentle."
+  },
+  {
+    "index": 213,
+    "label": "Irish setter",
+    "en": "Irish setter",
+    "vi": "chó setter Ireland",
+    "phonetic": "/ˈaɪ.rɪʃ ˈset.ər/",
+    "example": "The Irish setter has a red coat."
+  },
+  {
+    "index": 214,
+    "label": "Gordon setter",
+    "en": "Gordon setter",
+    "vi": "chó setter Gordon",
+    "phonetic": "/ˈɡɔː.dən ˈset.ər/",
+    "example": "The Gordon setter is black and tan."
+  },
+  {
+    "index": 215,
+    "label": "Brittany spaniel",
+    "en": "Brittany spaniel",
+    "vi": "chó spaniel Brittany",
+    "phonetic": "/ˈbrɪt.ən.i ˈspæn.jəl/",
+    "example": "The Brittany is energetic."
+  },
+  {
+    "index": 216,
+    "label": "clumber",
+    "en": "Clumber spaniel",
+    "vi": "chó Clumber",
+    "phonetic": "/ˈklʌm.bər ˈspæn.jəl/",
+    "example": "The Clumber spaniel is heavy and calm."
+  },
+  {
+    "index": 217,
+    "label": "English springer",
+    "en": "English springer spaniel",
+    "vi": "chó springer Anh",
+    "phonetic": "/ˈɪŋ.ɡlɪʃ ˈsprɪŋ.ər/",
+    "example": "The springer is full of energy."
+  },
+  {
+    "index": 218,
+    "label": "Welsh springer spaniel",
+    "en": "Welsh springer spaniel",
+    "vi": "chó springer xứ Wales",
+    "phonetic": "/welʃ ˈsprɪŋ.ər ˈspæn.jəl/",
+    "example": "It has a red and white coat."
+  },
+  {
+    "index": 219,
+    "label": "cocker spaniel",
+    "en": "cocker spaniel",
+    "vi": "chó cocker",
+    "phonetic": "/ˈkɒk.ə ˈspæn.jəl/",
+    "example": "The cocker spaniel has long ears."
+  },
+  {
+    "index": 220,
+    "label": "Sussex spaniel",
+    "en": "Sussex spaniel",
+    "vi": "chó spaniel Sussex",
+    "phonetic": "/ˈsʌs.ɪks ˈspæn.jəl/",
+    "example": "The Sussex spaniel is golden brown."
+  },
+  {
+    "index": 221,
+    "label": "Irish water spaniel",
+    "en": "Irish water spaniel",
+    "vi": "chó spaniel nước Ireland",
+    "phonetic": "/ˈaɪ.rɪʃ ˈwɔː.tə ˈspæn.jəl/",
+    "example": "It has a curly coat."
+  },
+  {
+    "index": 222,
+    "label": "kuvasz",
+    "en": "Kuvasz",
+    "vi": "chó Kuvasz",
+    "phonetic": "/ˈkuː.vɒs/",
+    "example": "The Kuvasz guards the sheep."
+  },
+  {
+    "index": 223,
+    "label": "schipperke",
+    "en": "schipperke",
+    "vi": "chó Schipperke",
+    "phonetic": "/ˈskɪp.ə.kə/",
+    "example": "The schipperke is small and black."
+  },
+  {
+    "index": 224,
+    "label": "groenendael",
+    "en": "Groenendael",
+    "vi": "chó chăn cừu Bỉ đen",
+    "phonetic": "/ˈɡruː.nən.dɑːl/",
+    "example": "The Groenendael is a Belgian sheepdog."
+  },
+  {
+    "index": 225,
+    "label": "malinois",
+    "en": "Belgian Malinois",
+    "vi": "chó chăn cừu Malinois",
+    "phonetic": "/ˈmæl.ɪ.nwɑː/",
+    "example": "The Malinois works with police."
+  },
+  {
+    "index": 226,
+    "label": "briard",
+    "en": "Briard",
+    "vi": "chó chăn cừu Briard",
+    "phonetic": "/ˈbriː.ɑːd/",
+    "example": "The Briard has long, shaggy hair."
+  },
+  {
+    "index": 227,
+    "label": "kelpie",
+    "en": "kelpie",
+    "vi": "chó chăn cừu Úc",
+    "phonetic": "/ˈkel.pi/",
+    "example": "The kelpie herds sheep."
+  },
+  {
+    "index": 228,
+    "label": "komondor",
+    "en": "Komondor",
+    "vi": "chó Komondor",
+    "phonetic": "/ˈkɒm.ən.dɔː/",
+    "example": "The Komondor has a cord-like coat."
+  },
+  {
+    "index": 229,
+    "label": "Old English sheepdog",
+    "en": "Old English sheepdog",
+    "vi": "chó chăn cừu Anh cổ",
+    "phonetic": "/əʊld ˈɪŋ.ɡlɪʃ ˈʃiːp.dɒɡ/",
+    "example": "It has thick grey and white fur."
+  },
+  {
+    "index": 230,
+    "label": "Shetland sheepdog",
+    "en": "Shetland sheepdog",
+    "vi": "chó chăn cừu Shetland",
+    "phonetic": "/ˈʃet.lənd ˈʃiːp.dɒɡ/",
+    "example": "The Sheltie looks like a small collie."
+  },
+  {
+    "index": 231,
+    "label": "collie",
+    "en": "collie",
+    "vi": "chó collie",
+    "phonetic": "/ˈkɒl.i/",
+    "example": "The collie guards the farm."
+  },
+  {
+    "index": 232,
+    "label": "Border collie",
+    "en": "Border collie",
+    "vi": "chó Border Collie",
+    "phonetic": "/ˈbɔː.də ˈkɒl.i/",
+    "example": "The Border collie is very smart."
+  },
+  {
+    "index": 233,
+    "label": "Bouvier des Flandres",
+    "en": "Bouvier des Flandres",
+    "vi": "chó chăn bò Flandres",
+    "phonetic": "/ˌbuː.vi.eɪ deɪ ˈflɒndrə/",
+    "example": "It is a large herding dog."
+  },
+  {
+    "index": 234,
+    "label": "Rottweiler",
+    "en": "Rottweiler",
+    "vi": "chó Rottweiler",
+    "phonetic": "/ˈrɒt.waɪ.lər/",
+    "example": "The Rottweiler is strong and loyal."
+  },
+  {
+    "index": 235,
+    "label": "German shepherd",
+    "en": "German shepherd",
+    "vi": "chó chăn cừu Đức",
+    "phonetic": "/ˈdʒɜː.mən ˈʃep.əd/",
+    "example": "The German shepherd protects the house."
+  },
+  {
+    "index": 236,
+    "label": "Doberman",
+    "en": "Doberman",
+    "vi": "chó Doberman",
+    "phonetic": "/ˈdəʊ.bə.mən/",
+    "example": "The Doberman is fast and alert."
+  },
+  {
+    "index": 237,
+    "label": "miniature pinscher",
+    "en": "miniature pinscher",
+    "vi": "chó pinscher mini",
+    "phonetic": "/ˈmɪn.ɪ.tʃər ˈpɪn.ʃər/",
+    "example": "It is small but brave."
+  },
+  {
+    "index": 238,
+    "label": "Greater Swiss Mountain dog",
+    "en": "Greater Swiss Mountain dog",
+    "vi": "chó núi Thụy Sĩ lớn",
+    "phonetic": "/ˈɡreɪ.tər swɪs ˈmaʊn.tɪn dɒɡ/",
+    "example": "It pulls carts."
+  },
+  {
+    "index": 239,
+    "label": "Bernese mountain dog",
+    "en": "Bernese mountain dog",
+    "vi": "chó núi Bernese",
+    "phonetic": "/bɜːˈniːz ˈmaʊn.tɪn dɒɡ/",
+    "example": "The Bernese is big and gentle."
+  },
+  {
+    "index": 240,
+    "label": "Appenzeller",
+    "en": "Appenzeller",
+    "vi": "chó núi Appenzeller",
+    "phonetic": "/ˈæp.ənˌzel.ər/",
+    "example": "The Appenzeller herds cattle."
+  },
+  {
+    "index": 241,
+    "label": "EntleBucher",
+    "en": "Entlebucher",
+    "vi": "chó núi Entlebucher",
+    "phonetic": "/ˈent.lə.bʊk.ər/",
+    "example": "The Entlebucher is a small mountain dog."
+  },
+  {
+    "index": 242,
+    "label": "boxer",
+    "en": "boxer (dog)",
+    "vi": "chó boxer",
+    "phonetic": "/ˈbɒk.sər/",
+    "example": "The boxer is playful."
+  },
+  {
+    "index": 243,
+    "label": "bull mastiff",
+    "en": "bullmastiff",
+    "vi": "chó bullmastiff",
+    "phonetic": "/ˈbʊl.mæs.tɪf/",
+    "example": "The bullmastiff guards the home."
+  },
+  {
+    "index": 244,
+    "label": "Tibetan mastiff",
+    "en": "Tibetan mastiff",
+    "vi": "chó ngao Tây Tạng",
+    "phonetic": "/tɪˈbet.ən ˈmæs.tɪf/",
+    "example": "The Tibetan mastiff is huge."
+  },
+  {
+    "index": 245,
+    "label": "French bulldog",
+    "en": "French bulldog",
+    "vi": "chó bulldog Pháp",
+    "phonetic": "/frentʃ ˈbʊl.dɒɡ/",
+    "example": "The French bulldog has big ears."
+  },
+  {
+    "index": 246,
+    "label": "Great Dane",
+    "en": "Great Dane",
+    "vi": "chó Great Dane",
+    "phonetic": "/ɡreɪt deɪn/",
+    "example": "A Great Dane is very tall."
+  },
+  {
+    "index": 247,
+    "label": "Saint Bernard",
+    "en": "Saint Bernard",
+    "vi": "chó Saint Bernard",
+    "phonetic": "/seɪnt ˈbɜː.nəd/",
+    "example": "The Saint Bernard rescues people."
+  },
+  {
+    "index": 248,
+    "label": "Eskimo dog",
+    "en": "Eskimo dog",
+    "vi": "chó Eskimo",
+    "phonetic": "/ˈes.kɪ.məʊ dɒɡ/",
+    "example": "The Eskimo dog pulls sleds."
+  },
+  {
+    "index": 249,
+    "label": "malamute",
+    "en": "Alaskan malamute",
+    "vi": "chó Alaska",
+    "phonetic": "/ˈmæl.ə.mjuːt/",
+    "example": "The malamute is big and strong."
+  },
+  {
+    "index": 250,
+    "label": "Siberian husky",
+    "en": "Siberian husky",
+    "vi": "chó husky Siberia",
+    "phonetic": "/saɪˈbɪə.ri.ən ˈhʌs.ki/",
+    "example": "The husky has blue eyes."
+  },
+  {
+    "index": 251,
+    "label": "dalmatian",
+    "en": "Dalmatian",
+    "vi": "chó đốm",
+    "phonetic": "/dælˈmeɪ.ʃən/",
+    "example": "The Dalmatian has black spots."
+  },
+  {
+    "index": 252,
+    "label": "affenpinscher",
+    "en": "affenpinscher",
+    "vi": "chó khỉ Affenpinscher",
+    "phonetic": "/ˈæf.ənˌpɪn.ʃər/",
+    "example": "The affenpinscher looks like a monkey."
+  },
+  {
+    "index": 253,
+    "label": "basenji",
+    "en": "basenji",
+    "vi": "chó Basenji",
+    "phonetic": "/bəˈsen.dʒi/",
+    "example": "The basenji does not bark."
+  },
+  {
+    "index": 254,
+    "label": "pug",
+    "en": "pug",
+    "vi": "chó pug",
+    "phonetic": "/pʌɡ/",
+    "example": "The pug has a wrinkled face."
+  },
+  {
+    "index": 255,
+    "label": "Leonberg",
+    "en": "Leonberger",
+    "vi": "chó Leonberger",
+    "phonetic": "/ˈleɪ.ɒn.bɜː.ɡər/",
+    "example": "The Leonberger is a giant dog."
+  },
+  {
+    "index": 256,
+    "label": "Newfoundland",
+    "en": "Newfoundland dog",
+    "vi": "chó Newfoundland",
+    "phonetic": "/ˈnjuː.fənd.lənd/",
+    "example": "The Newfoundland is a great swimmer."
+  },
+  {
+    "index": 257,
+    "label": "Great Pyrenees",
+    "en": "Great Pyrenees",
+    "vi": "chó núi Pyrenees",
+    "phonetic": "/ɡreɪt ˈpɪr.ə.niːz/",
+    "example": "It is a big white dog."
+  },
+  {
+    "index": 258,
+    "label": "Samoyed",
+    "en": "Samoyed",
+    "vi": "chó Samoyed",
+    "phonetic": "/ˌsæm.ɔɪˈed/",
+    "example": "The Samoyed always seems to smile."
+  },
+  {
+    "index": 259,
+    "label": "Pomeranian",
+    "en": "Pomeranian",
+    "vi": "chó Phốc sóc",
+    "phonetic": "/ˌpɒm.əˈreɪ.ni.ən/",
+    "example": "The Pomeranian is small and fluffy."
+  },
+  {
+    "index": 260,
+    "label": "chow",
+    "en": "chow chow",
+    "vi": "chó Chow Chow",
+    "phonetic": "/ˈtʃaʊ tʃaʊ/",
+    "example": "The chow chow has a blue tongue."
+  },
+  {
+    "index": 261,
+    "label": "keeshond",
+    "en": "Keeshond",
+    "vi": "chó Keeshond",
+    "phonetic": "/ˈkeɪs.hɒnd/",
+    "example": "The Keeshond has a fox-like face."
+  },
+  {
+    "index": 262,
+    "label": "Brabancon griffon",
+    "en": "Brussels griffon",
+    "vi": "chó Griffon Bỉ",
+    "phonetic": "/ˈbrʌs.əlz ˈɡrɪf.ən/",
+    "example": "The griffon has a human-like face."
+  },
+  {
+    "index": 263,
+    "label": "Pembroke",
+    "en": "Pembroke corgi",
+    "vi": "chó corgi Pembroke",
+    "phonetic": "/ˈpem.brʊk ˈkɔː.ɡi/",
+    "example": "The corgi has short legs."
+  },
+  {
+    "index": 264,
+    "label": "Cardigan",
+    "en": "Cardigan corgi",
+    "vi": "chó corgi Cardigan",
+    "phonetic": "/ˈkɑː.dɪ.ɡən ˈkɔː.ɡi/",
+    "example": "The Cardigan corgi has a long tail."
+  },
+  {
+    "index": 265,
+    "label": "toy poodle",
+    "en": "toy poodle",
+    "vi": "chó poodle tí hon",
+    "phonetic": "/tɔɪ ˈpuː.dəl/",
+    "example": "The toy poodle is tiny."
+  },
+  {
+    "index": 266,
+    "label": "miniature poodle",
+    "en": "miniature poodle",
+    "vi": "chó poodle mini",
+    "phonetic": "/ˈmɪn.ɪ.tʃər ˈpuː.dəl/",
+    "example": "A miniature poodle is clever."
+  },
+  {
+    "index": 267,
+    "label": "standard poodle",
+    "en": "standard poodle",
+    "vi": "chó poodle tiêu chuẩn",
+    "phonetic": "/ˈstæn.dəd ˈpuː.dəl/",
+    "example": "The standard poodle is tall."
+  },
+  {
+    "index": 268,
+    "label": "Mexican hairless",
+    "en": "Xoloitzcuintli",
+    "vi": "chó không lông Mexico",
+    "phonetic": "/ˌʃəʊ.ləʊ.iːtsˈkwɪnt.li/",
+    "example": "The Mexican hairless dog has no fur."
+  },
+  {
+    "index": 269,
+    "label": "timber wolf",
+    "en": "timber wolf",
+    "vi": "sói xám",
+    "phonetic": "/ˈtɪm.bə wʊlf/",
+    "example": "A timber wolf howled at the moon."
+  },
+  {
+    "index": 270,
+    "label": "white wolf",
+    "en": "white wolf",
+    "vi": "sói trắng",
+    "phonetic": "/waɪt wʊlf/",
+    "example": "The white wolf lives in the Arctic."
+  },
+  {
+    "index": 271,
+    "label": "red wolf",
+    "en": "red wolf",
+    "vi": "sói đỏ",
+    "phonetic": "/red wʊlf/",
+    "example": "The red wolf is rare."
+  },
+  {
+    "index": 272,
+    "label": "coyote",
+    "en": "coyote",
+    "vi": "chó sói đồng cỏ",
+    "phonetic": "/kaɪˈəʊ.ti/",
+    "example": "A coyote ran across the road."
+  },
+  {
+    "index": 273,
+    "label": "dingo",
+    "en": "dingo",
+    "vi": "chó hoang dingo",
+    "phonetic": "/ˈdɪŋ.ɡəʊ/",
+    "example": "The dingo lives in Australia."
+  },
+  {
+    "index": 274,
+    "label": "dhole",
+    "en": "dhole",
+    "vi": "chó sói đỏ châu Á",
+    "phonetic": "/dəʊl/",
+    "example": "A dhole hunts in a pack."
+  },
+  {
+    "index": 275,
+    "label": "African hunting dog",
+    "en": "African wild dog",
+    "vi": "chó hoang châu Phi",
+    "phonetic": "/ˈæf.rɪ.kən waɪld dɒɡ/",
+    "example": "African wild dogs hunt together."
+  },
+  {
+    "index": 276,
+    "label": "hyena",
+    "en": "hyena",
+    "vi": "linh cẩu",
+    "phonetic": "/haɪˈiː.nə/",
+    "example": "The hyena laughed in the night."
+  },
+  {
+    "index": 277,
+    "label": "red fox",
+    "en": "red fox",
+    "vi": "cáo đỏ",
+    "phonetic": "/red fɒks/",
+    "example": "A red fox crossed the field."
+  },
+  {
+    "index": 278,
+    "label": "kit fox",
+    "en": "kit fox",
+    "vi": "cáo kit",
+    "phonetic": "/kɪt fɒks/",
+    "example": "The kit fox lives in the desert."
+  },
+  {
+    "index": 279,
+    "label": "Arctic fox",
+    "en": "Arctic fox",
+    "vi": "cáo Bắc Cực",
+    "phonetic": "/ˈɑːk.tɪk fɒks/",
+    "example": "The Arctic fox has white fur in winter."
+  },
+  {
+    "index": 280,
+    "label": "grey fox",
+    "en": "grey fox",
+    "vi": "cáo xám",
+    "phonetic": "/ɡreɪ fɒks/",
+    "example": "A grey fox can climb trees."
+  },
+  {
+    "index": 281,
+    "label": "tabby",
+    "en": "tabby cat",
+    "vi": "mèo vằn",
+    "phonetic": "/ˈtæb.i kæt/",
+    "example": "The tabby cat sleeps on the sofa."
+  },
+  {
+    "index": 282,
+    "label": "tiger cat",
+    "en": "tiger cat",
+    "vi": "mèo vằn hổ",
+    "phonetic": "/ˈtaɪ.ɡə kæt/",
+    "example": "My tiger cat has stripes."
+  },
+  {
+    "index": 283,
+    "label": "Persian cat",
+    "en": "Persian cat",
+    "vi": "mèo Ba Tư",
+    "phonetic": "/ˈpɜː.ʒən kæt/",
+    "example": "The Persian cat has long fur."
+  },
+  {
+    "index": 284,
+    "label": "Siamese cat",
+    "en": "Siamese cat",
+    "vi": "mèo Xiêm",
+    "phonetic": "/ˌsaɪ.əˈmiːz kæt/",
+    "example": "The Siamese cat has blue eyes."
+  },
+  {
+    "index": 285,
+    "label": "Egyptian cat",
+    "en": "Egyptian Mau",
+    "vi": "mèo Ai Cập",
+    "phonetic": "/ɪˈdʒɪp.ʃən maʊ/",
+    "example": "The Egyptian Mau has spots."
+  },
+  {
+    "index": 286,
+    "label": "cougar",
+    "en": "cougar",
+    "vi": "báo sư tử",
+    "phonetic": "/ˈkuː.ɡər/",
+    "example": "A cougar hunts alone."
+  },
+  {
+    "index": 287,
+    "label": "lynx",
+    "en": "lynx",
+    "vi": "linh miêu",
+    "phonetic": "/lɪŋks/",
+    "example": "The lynx has tufted ears."
+  },
+  {
+    "index": 288,
+    "label": "leopard",
+    "en": "leopard",
+    "vi": "báo hoa mai",
+    "phonetic": "/ˈlep.əd/",
+    "example": "A leopard rested in the tree."
+  },
+  {
+    "index": 289,
+    "label": "snow leopard",
+    "en": "snow leopard",
+    "vi": "báo tuyết",
+    "phonetic": "/snəʊ ˈlep.əd/",
+    "example": "The snow leopard lives in the mountains."
+  },
+  {
+    "index": 290,
+    "label": "jaguar",
+    "en": "jaguar",
+    "vi": "báo đốm Mỹ",
+    "phonetic": "/ˈdʒæɡ.ju.ər/",
+    "example": "The jaguar swims well."
+  },
+  {
+    "index": 291,
+    "label": "lion",
+    "en": "lion",
+    "vi": "sư tử",
+    "phonetic": "/ˈlaɪ.ən/",
+    "example": "The lion is the king of the jungle."
+  },
+  {
+    "index": 292,
+    "label": "tiger",
+    "en": "tiger",
+    "vi": "con hổ",
+    "phonetic": "/ˈtaɪ.ɡər/",
+    "example": "The tiger has orange stripes."
+  },
+  {
+    "index": 293,
+    "label": "cheetah",
+    "en": "cheetah",
+    "vi": "báo săn",
+    "phonetic": "/ˈtʃiː.tə/",
+    "example": "The cheetah runs very fast."
+  },
+  {
+    "index": 294,
+    "label": "brown bear",
+    "en": "brown bear",
+    "vi": "gấu nâu",
+    "phonetic": "/braʊn beər/",
+    "example": "A brown bear caught a fish."
+  },
+  {
+    "index": 295,
+    "label": "American black bear",
+    "en": "black bear",
+    "vi": "gấu đen",
+    "phonetic": "/blæk beər/",
+    "example": "The black bear ate berries."
+  },
+  {
+    "index": 296,
+    "label": "ice bear",
+    "en": "polar bear",
+    "vi": "gấu Bắc Cực",
+    "phonetic": "/ˈpəʊ.lə beər/",
+    "example": "The polar bear lives on the ice."
+  },
+  {
+    "index": 297,
+    "label": "sloth bear",
+    "en": "sloth bear",
+    "vi": "gấu lợn",
+    "phonetic": "/sləʊθ beər/",
+    "example": "The sloth bear eats termites."
+  },
+  {
+    "index": 298,
+    "label": "mongoose",
+    "en": "mongoose",
+    "vi": "cầy mangut",
+    "phonetic": "/ˈmɒŋ.ɡuːs/",
+    "example": "A mongoose fights snakes."
+  },
+  {
+    "index": 299,
+    "label": "meerkat",
+    "en": "meerkat",
+    "vi": "cầy meerkat",
+    "phonetic": "/ˈmɪə.kæt/",
+    "example": "The meerkat stands on guard."
+  },
+  {
+    "index": 300,
+    "label": "tiger beetle",
+    "en": "tiger beetle",
+    "vi": "bọ cánh cứng hổ",
+    "phonetic": "/ˈtaɪ.ɡə ˈbiː.təl/",
+    "example": "A tiger beetle runs fast."
+  },
+  {
+    "index": 301,
+    "label": "ladybug",
+    "en": "ladybug",
+    "vi": "bọ rùa",
+    "phonetic": "/ˈleɪ.di.bʌɡ/",
+    "example": "A ladybug landed on my hand."
+  },
+  {
+    "index": 302,
+    "label": "ground beetle",
+    "en": "ground beetle",
+    "vi": "bọ cánh cứng đất",
+    "phonetic": "/ɡraʊnd ˈbiː.təl/",
+    "example": "The ground beetle hunts at night."
+  },
+  {
+    "index": 303,
+    "label": "long-horned beetle",
+    "en": "longhorn beetle",
+    "vi": "bọ sừng dài",
+    "phonetic": "/ˈlɒŋ.hɔːn ˈbiː.təl/",
+    "example": "The longhorn beetle has long antennae."
+  },
+  {
+    "index": 304,
+    "label": "leaf beetle",
+    "en": "leaf beetle",
+    "vi": "bọ lá",
+    "phonetic": "/liːf ˈbiː.təl/",
+    "example": "A leaf beetle ate the leaf."
+  },
+  {
+    "index": 305,
+    "label": "dung beetle",
+    "en": "dung beetle",
+    "vi": "bọ hung",
+    "phonetic": "/dʌŋ ˈbiː.təl/",
+    "example": "The dung beetle rolls a ball."
+  },
+  {
+    "index": 306,
+    "label": "rhinoceros beetle",
+    "en": "rhinoceros beetle",
+    "vi": "bọ cánh cứng tê giác",
+    "phonetic": "/raɪˈnɒs.ər.əs ˈbiː.təl/",
+    "example": "It has a big horn."
+  },
+  {
+    "index": 307,
+    "label": "weevil",
+    "en": "weevil",
+    "vi": "mọt",
+    "phonetic": "/ˈwiː.vəl/",
+    "example": "A weevil ruined the rice."
+  },
+  {
+    "index": 308,
+    "label": "fly",
+    "en": "fly",
+    "vi": "con ruồi",
+    "phonetic": "/flaɪ/",
+    "example": "A fly is in the room."
+  },
+  {
+    "index": 309,
+    "label": "bee",
+    "en": "bee",
+    "vi": "con ong",
+    "phonetic": "/biː/",
+    "example": "The bee collects honey."
+  },
+  {
+    "index": 310,
+    "label": "ant",
+    "en": "ant",
+    "vi": "con kiến",
+    "phonetic": "/ænt/",
+    "example": "An ant carries food."
+  },
+  {
+    "index": 311,
+    "label": "grasshopper",
+    "en": "grasshopper",
+    "vi": "châu chấu",
+    "phonetic": "/ˈɡrɑːsˌhɒp.ər/",
+    "example": "The grasshopper jumped away."
+  },
+  {
+    "index": 312,
+    "label": "cricket",
+    "en": "cricket (insect)",
+    "vi": "con dế",
+    "phonetic": "/ˈkrɪk.ɪt/",
+    "example": "A cricket sang all night."
+  },
+  {
+    "index": 313,
+    "label": "walking stick",
+    "en": "stick insect",
+    "vi": "bọ que",
+    "phonetic": "/stɪk ˈɪn.sekt/",
+    "example": "A stick insect looks like a twig."
+  },
+  {
+    "index": 314,
+    "label": "cockroach",
+    "en": "cockroach",
+    "vi": "con gián",
+    "phonetic": "/ˈkɒk.rəʊtʃ/",
+    "example": "There is a cockroach in the kitchen."
+  },
+  {
+    "index": 315,
+    "label": "mantis",
+    "en": "praying mantis",
+    "vi": "bọ ngựa",
+    "phonetic": "/ˈpreɪ.ɪŋ ˈmæn.tɪs/",
+    "example": "The mantis waited for its prey."
+  },
+  {
+    "index": 316,
+    "label": "cicada",
+    "en": "cicada",
+    "vi": "ve sầu",
+    "phonetic": "/sɪˈkɑː.də/",
+    "example": "The cicada sings in summer."
+  },
+  {
+    "index": 317,
+    "label": "leafhopper",
+    "en": "leafhopper",
+    "vi": "rầy lá",
+    "phonetic": "/ˈliːfˌhɒp.ər/",
+    "example": "A leafhopper sat on the plant."
+  },
+  {
+    "index": 318,
+    "label": "lacewing",
+    "en": "lacewing",
+    "vi": "bọ cánh lưới",
+    "phonetic": "/ˈleɪs.wɪŋ/",
+    "example": "The lacewing has delicate wings."
+  },
+  {
+    "index": 319,
+    "label": "dragonfly",
+    "en": "dragonfly",
+    "vi": "chuồn chuồn",
+    "phonetic": "/ˈdræɡ.ən.flaɪ/",
+    "example": "A dragonfly flew over the pond."
+  },
+  {
+    "index": 320,
+    "label": "damselfly",
+    "en": "damselfly",
+    "vi": "chuồn chuồn kim",
+    "phonetic": "/ˈdæm.zəl.flaɪ/",
+    "example": "The damselfly is thin and blue."
+  },
+  {
+    "index": 321,
+    "label": "admiral",
+    "en": "red admiral butterfly",
+    "vi": "bướm đô đốc",
+    "phonetic": "/red ˈæd.mər.əl/",
+    "example": "A red admiral landed on a flower."
+  },
+  {
+    "index": 322,
+    "label": "ringlet",
+    "en": "ringlet butterfly",
+    "vi": "bướm vòng",
+    "phonetic": "/ˈrɪŋ.lət/",
+    "example": "A ringlet flew in the meadow."
+  },
+  {
+    "index": 323,
+    "label": "monarch",
+    "en": "monarch butterfly",
+    "vi": "bướm vua",
+    "phonetic": "/ˈmɒn.ək/",
+    "example": "The monarch butterfly migrates far."
+  },
+  {
+    "index": 324,
+    "label": "cabbage butterfly",
+    "en": "cabbage butterfly",
+    "vi": "bướm cải",
+    "phonetic": "/ˈkæb.ɪdʒ ˈbʌt.ə.flaɪ/",
+    "example": "A cabbage butterfly visited the garden."
+  },
+  {
+    "index": 325,
+    "label": "sulphur butterfly",
+    "en": "sulphur butterfly",
+    "vi": "bướm vàng",
+    "phonetic": "/ˈsʌl.fə ˈbʌt.ə.flaɪ/",
+    "example": "The sulphur butterfly is yellow."
+  },
+  {
+    "index": 326,
+    "label": "lycaenid",
+    "en": "lycaenid butterfly",
+    "vi": "bướm xanh nhỏ",
+    "phonetic": "/laɪˈsiː.nɪd/",
+    "example": "A lycaenid is a small butterfly."
+  },
+  {
+    "index": 327,
+    "label": "starfish",
+    "en": "starfish",
+    "vi": "sao biển",
+    "phonetic": "/ˈstɑː.fɪʃ/",
+    "example": "We found a starfish on the beach."
+  },
+  {
+    "index": 328,
+    "label": "sea urchin",
+    "en": "sea urchin",
+    "vi": "nhím biển",
+    "phonetic": "/siː ˈɜː.tʃɪn/",
+    "example": "Don't step on the sea urchin."
+  },
+  {
+    "index": 329,
+    "label": "sea cucumber",
+    "en": "sea cucumber",
+    "vi": "hải sâm",
+    "phonetic": "/siː ˈkjuː.kʌm.bər/",
+    "example": "A sea cucumber lies on the seabed."
+  },
+  {
+    "index": 330,
+    "label": "wood rabbit",
+    "en": "wild rabbit",
+    "vi": "thỏ rừng",
+    "phonetic": "/waɪld ˈræb.ɪt/",
+    "example": "A wild rabbit ran into the bushes."
+  },
+  {
+    "index": 331,
+    "label": "hare",
+    "en": "hare",
+    "vi": "thỏ rừng tai dài",
+    "phonetic": "/heər/",
+    "example": "The hare ran across the field."
+  },
+  {
+    "index": 332,
+    "label": "Angora",
+    "en": "Angora rabbit",
+    "vi": "thỏ Angora",
+    "phonetic": "/æŋˈɡɔː.rə ˈræb.ɪt/",
+    "example": "The Angora rabbit has soft wool."
+  },
+  {
+    "index": 333,
+    "label": "hamster",
+    "en": "hamster",
+    "vi": "chuột hamster",
+    "phonetic": "/ˈhæm.stər/",
+    "example": "My hamster runs on a wheel."
+  },
+  {
+    "index": 334,
+    "label": "porcupine",
+    "en": "porcupine",
+    "vi": "nhím",
+    "phonetic": "/ˈpɔː.kjʊ.paɪn/",
+    "example": "The porcupine has sharp quills."
+  },
+  {
+    "index": 335,
+    "label": "fox squirrel",
+    "en": "fox squirrel",
+    "vi": "sóc cáo",
+    "phonetic": "/fɒks ˈskwɪr.əl/",
+    "example": "A fox squirrel ate an acorn."
+  },
+  {
+    "index": 336,
+    "label": "marmot",
+    "en": "marmot",
+    "vi": "marmot",
+    "phonetic": "/ˈmɑː.mət/",
+    "example": "The marmot sleeps all winter."
+  },
+  {
+    "index": 337,
+    "label": "beaver",
+    "en": "beaver",
+    "vi": "hải ly",
+    "phonetic": "/ˈbiː.vər/",
+    "example": "A beaver built a dam."
+  },
+  {
+    "index": 338,
+    "label": "guinea pig",
+    "en": "guinea pig",
+    "vi": "chuột lang",
+    "phonetic": "/ˈɡɪn.i pɪɡ/",
+    "example": "The guinea pig eats vegetables."
+  },
+  {
+    "index": 339,
+    "label": "sorrel",
+    "en": "sorrel horse",
+    "vi": "ngựa nâu đỏ",
+    "phonetic": "/ˈsɒr.əl hɔːs/",
+    "example": "A sorrel horse stood in the field."
+  },
+  {
+    "index": 340,
+    "label": "zebra",
+    "en": "zebra",
+    "vi": "ngựa vằn",
+    "phonetic": "/ˈzeb.rə/",
+    "example": "The zebra has black and white stripes."
+  },
+  {
+    "index": 341,
+    "label": "hog",
+    "en": "pig",
+    "vi": "con heo",
+    "phonetic": "/pɪɡ/",
+    "example": "The pig is in the mud."
+  },
+  {
+    "index": 342,
+    "label": "wild boar",
+    "en": "wild boar",
+    "vi": "lợn rừng",
+    "phonetic": "/waɪld bɔː/",
+    "example": "A wild boar ran through the forest."
+  },
+  {
+    "index": 343,
+    "label": "warthog",
+    "en": "warthog",
+    "vi": "lợn bướu",
+    "phonetic": "/ˈwɔːt.hɒɡ/",
+    "example": "The warthog has tusks."
+  },
+  {
+    "index": 344,
+    "label": "hippopotamus",
+    "en": "hippopotamus",
+    "vi": "hà mã",
+    "phonetic": "/ˌhɪp.əˈpɒt.ə.məs/",
+    "example": "The hippopotamus sat in the river."
+  },
+  {
+    "index": 345,
+    "label": "ox",
+    "en": "ox",
+    "vi": "con bò đực kéo",
+    "phonetic": "/ɒks/",
+    "example": "The ox pulls the cart."
+  },
+  {
+    "index": 346,
+    "label": "water buffalo",
+    "en": "water buffalo",
+    "vi": "con trâu",
+    "phonetic": "/ˈwɔː.tə ˈbʌf.ə.ləʊ/",
+    "example": "The water buffalo works in the rice field."
+  },
+  {
+    "index": 347,
+    "label": "bison",
+    "en": "bison",
+    "vi": "bò rừng",
+    "phonetic": "/ˈbaɪ.sən/",
+    "example": "A bison grazed on the prairie."
+  },
+  {
+    "index": 348,
+    "label": "ram",
+    "en": "ram",
+    "vi": "cừu đực",
+    "phonetic": "/ræm/",
+    "example": "The ram has curved horns."
+  },
+  {
+    "index": 349,
+    "label": "bighorn",
+    "en": "bighorn sheep",
+    "vi": "cừu sừng to",
+    "phonetic": "/ˈbɪɡ.hɔːn ʃiːp/",
+    "example": "Bighorn sheep climb cliffs."
+  },
+  {
+    "index": 350,
+    "label": "ibex",
+    "en": "ibex",
+    "vi": "dê núi",
+    "phonetic": "/ˈaɪ.beks/",
+    "example": "The ibex stands on steep rocks."
+  },
+  {
+    "index": 351,
+    "label": "hartebeest",
+    "en": "hartebeest",
+    "vi": "linh dương hartebeest",
+    "phonetic": "/ˈhɑː.tɪ.biːst/",
+    "example": "A hartebeest runs on the plain."
+  },
+  {
+    "index": 352,
+    "label": "impala",
+    "en": "impala",
+    "vi": "linh dương impala",
+    "phonetic": "/ɪmˈpɑː.lə/",
+    "example": "The impala jumps high."
+  },
+  {
+    "index": 353,
+    "label": "gazelle",
+    "en": "gazelle",
+    "vi": "linh dương gazelle",
+    "phonetic": "/ɡəˈzel/",
+    "example": "A gazelle ran from the lion."
+  },
+  {
+    "index": 354,
+    "label": "Arabian camel",
+    "en": "camel",
+    "vi": "lạc đà",
+    "phonetic": "/ˈkæm.əl/",
+    "example": "The camel crosses the desert."
+  },
+  {
+    "index": 355,
+    "label": "llama",
+    "en": "llama",
+    "vi": "lạc đà không bướu",
+    "phonetic": "/ˈlɑː.mə/",
+    "example": "The llama lives in the Andes."
+  },
+  {
+    "index": 356,
+    "label": "weasel",
+    "en": "weasel",
+    "vi": "chồn",
+    "phonetic": "/ˈwiː.zəl/",
+    "example": "A weasel ran into a hole."
+  },
+  {
+    "index": 357,
+    "label": "mink",
+    "en": "mink",
+    "vi": "chồn vizon",
+    "phonetic": "/mɪŋk/",
+    "example": "The mink swims in the river."
+  },
+  {
+    "index": 358,
+    "label": "polecat",
+    "en": "polecat",
+    "vi": "chồn hôi",
+    "phonetic": "/ˈpəʊl.kæt/",
+    "example": "A polecat hid in the barn."
+  },
+  {
+    "index": 359,
+    "label": "black-footed ferret",
+    "en": "black-footed ferret",
+    "vi": "chồn chân đen",
+    "phonetic": "/blæk ˈfʊt.ɪd ˈfer.ɪt/",
+    "example": "It is a rare animal."
+  },
+  {
+    "index": 360,
+    "label": "otter",
+    "en": "otter",
+    "vi": "rái cá",
+    "phonetic": "/ˈɒt.ər/",
+    "example": "The otter plays in the water."
+  },
+  {
+    "index": 361,
+    "label": "skunk",
+    "en": "skunk",
+    "vi": "chồn hôi sọc",
+    "phonetic": "/skʌŋk/",
+    "example": "A skunk sprayed the dog."
+  },
+  {
+    "index": 362,
+    "label": "badger",
+    "en": "badger",
+    "vi": "con lửng",
+    "phonetic": "/ˈbædʒ.ər/",
+    "example": "The badger lives underground."
+  },
+  {
+    "index": 363,
+    "label": "armadillo",
+    "en": "armadillo",
+    "vi": "tatu",
+    "phonetic": "/ˌɑː.məˈdɪl.əʊ/",
+    "example": "An armadillo curled into a ball."
+  },
+  {
+    "index": 364,
+    "label": "three-toed sloth",
+    "en": "sloth",
+    "vi": "con lười",
+    "phonetic": "/sləʊθ/",
+    "example": "The sloth moves very slowly."
+  },
+  {
+    "index": 365,
+    "label": "orangutan",
+    "en": "orangutan",
+    "vi": "đười ươi",
+    "phonetic": "/ɔːˈræŋ.ə.tæn/",
+    "example": "The orangutan swings in the trees."
+  },
+  {
+    "index": 366,
+    "label": "gorilla",
+    "en": "gorilla",
+    "vi": "khỉ đột",
+    "phonetic": "/ɡəˈrɪl.ə/",
+    "example": "The gorilla is very strong."
+  },
+  {
+    "index": 367,
+    "label": "chimpanzee",
+    "en": "chimpanzee",
+    "vi": "tinh tinh",
+    "phonetic": "/ˌtʃɪm.pænˈziː/",
+    "example": "The chimpanzee uses tools."
+  },
+  {
+    "index": 368,
+    "label": "gibbon",
+    "en": "gibbon",
+    "vi": "vượn",
+    "phonetic": "/ˈɡɪb.ən/",
+    "example": "A gibbon swings from branch to branch."
+  },
+  {
+    "index": 369,
+    "label": "siamang",
+    "en": "siamang",
+    "vi": "vượn siamang",
+    "phonetic": "/ˈsaɪ.ə.mæŋ/",
+    "example": "The siamang has a loud call."
+  },
+  {
+    "index": 370,
+    "label": "guenon",
+    "en": "guenon",
+    "vi": "khỉ guenon",
+    "phonetic": "/ɡəˈnɒn/",
+    "example": "A guenon lives in Africa."
+  },
+  {
+    "index": 371,
+    "label": "patas",
+    "en": "patas monkey",
+    "vi": "khỉ patas",
+    "phonetic": "/pəˈtɑː/",
+    "example": "The patas monkey runs fast."
+  },
+  {
+    "index": 372,
+    "label": "baboon",
+    "en": "baboon",
+    "vi": "khỉ đầu chó",
+    "phonetic": "/bəˈbuːn/",
+    "example": "The baboon has a red face."
+  },
+  {
+    "index": 373,
+    "label": "macaque",
+    "en": "macaque",
+    "vi": "khỉ macaca",
+    "phonetic": "/məˈkɑːk/",
+    "example": "A macaque sat by the temple."
+  },
+  {
+    "index": 374,
+    "label": "langur",
+    "en": "langur",
+    "vi": "voọc",
+    "phonetic": "/lʌŋˈɡʊər/",
+    "example": "The langur has a long tail."
+  },
+  {
+    "index": 375,
+    "label": "colobus",
+    "en": "colobus monkey",
+    "vi": "khỉ colobus",
+    "phonetic": "/ˈkɒl.ə.bəs/",
+    "example": "The colobus is black and white."
+  },
+  {
+    "index": 376,
+    "label": "proboscis monkey",
+    "en": "proboscis monkey",
+    "vi": "khỉ mũi dài",
+    "phonetic": "/prəʊˈbɒs.ɪs ˈmʌŋ.ki/",
+    "example": "The proboscis monkey has a big nose."
+  },
+  {
+    "index": 377,
+    "label": "marmoset",
+    "en": "marmoset",
+    "vi": "khỉ marmoset",
+    "phonetic": "/ˈmɑː.mə.zet/",
+    "example": "The marmoset is tiny."
+  },
+  {
+    "index": 378,
+    "label": "capuchin",
+    "en": "capuchin monkey",
+    "vi": "khỉ capuchin",
+    "phonetic": "/ˈkæp.jʊ.tʃɪn/",
+    "example": "A capuchin took the banana."
+  },
+  {
+    "index": 379,
+    "label": "howler monkey",
+    "en": "howler monkey",
+    "vi": "khỉ hú",
+    "phonetic": "/ˈhaʊ.lə ˈmʌŋ.ki/",
+    "example": "The howler monkey is very loud."
+  },
+  {
+    "index": 380,
+    "label": "titi",
+    "en": "titi monkey",
+    "vi": "khỉ titi",
+    "phonetic": "/ˈtiː.ti/",
+    "example": "A titi monkey lives in the rainforest."
+  },
+  {
+    "index": 381,
+    "label": "spider monkey",
+    "en": "spider monkey",
+    "vi": "khỉ nhện",
+    "phonetic": "/ˈspaɪ.də ˈmʌŋ.ki/",
+    "example": "The spider monkey has long arms."
+  },
+  {
+    "index": 382,
+    "label": "squirrel monkey",
+    "en": "squirrel monkey",
+    "vi": "khỉ sóc",
+    "phonetic": "/ˈskwɪr.əl ˈmʌŋ.ki/",
+    "example": "The squirrel monkey is small."
+  },
+  {
+    "index": 383,
+    "label": "Madagascar cat",
+    "en": "ring-tailed lemur",
+    "vi": "vượn cáo đuôi vòng",
+    "phonetic": "/rɪŋ teɪld ˈliː.mər/",
+    "example": "The lemur has a striped tail."
+  },
+  {
+    "index": 384,
+    "label": "indri",
+    "en": "indri",
+    "vi": "vượn cáo indri",
+    "phonetic": "/ˈɪn.dri/",
+    "example": "The indri is the largest lemur."
+  },
+  {
+    "index": 385,
+    "label": "Indian elephant",
+    "en": "Asian elephant",
+    "vi": "voi châu Á",
+    "phonetic": "/ˈeɪ.ʒən ˈel.ɪ.fənt/",
+    "example": "The Asian elephant has small ears."
+  },
+  {
+    "index": 386,
+    "label": "African elephant",
+    "en": "African elephant",
+    "vi": "voi châu Phi",
+    "phonetic": "/ˈæf.rɪ.kən ˈel.ɪ.fənt/",
+    "example": "The African elephant is huge."
+  },
+  {
+    "index": 387,
+    "label": "lesser panda",
+    "en": "red panda",
+    "vi": "gấu trúc đỏ",
+    "phonetic": "/red ˈpæn.də/",
+    "example": "The red panda eats bamboo."
+  },
+  {
+    "index": 388,
+    "label": "giant panda",
+    "en": "giant panda",
+    "vi": "gấu trúc",
+    "phonetic": "/ˈdʒaɪ.ənt ˈpæn.də/",
+    "example": "The giant panda eats bamboo."
+  },
+  {
+    "index": 389,
+    "label": "barracouta",
+    "en": "snoek",
+    "vi": "cá snoek",
+    "phonetic": "/snuːk/",
+    "example": "The snoek is a long thin fish."
+  },
+  {
+    "index": 390,
+    "label": "eel",
+    "en": "eel",
+    "vi": "con lươn",
+    "phonetic": "/iːl/",
+    "example": "An eel swam in the river."
+  },
+  {
+    "index": 391,
+    "label": "coho",
+    "en": "coho salmon",
+    "vi": "cá hồi coho",
+    "phonetic": "/ˈkəʊ.həʊ ˈsæm.ən/",
+    "example": "Coho salmon swim upstream."
+  },
+  {
+    "index": 392,
+    "label": "rock beauty",
+    "en": "rock beauty fish",
+    "vi": "cá thiên thần đá",
+    "phonetic": "/rɒk ˈbjuː.ti fɪʃ/",
+    "example": "The rock beauty lives on coral reefs."
+  },
+  {
+    "index": 393,
+    "label": "anemone fish",
+    "en": "clownfish",
+    "vi": "cá hề",
+    "phonetic": "/ˈklaʊn.fɪʃ/",
+    "example": "The clownfish lives in an anemone."
+  },
+  {
+    "index": 394,
+    "label": "sturgeon",
+    "en": "sturgeon",
+    "vi": "cá tầm",
+    "phonetic": "/ˈstɜː.dʒən/",
+    "example": "Caviar comes from the sturgeon."
+  },
+  {
+    "index": 395,
+    "label": "gar",
+    "en": "gar",
+    "vi": "cá nhái",
+    "phonetic": "/ɡɑːr/",
+    "example": "A gar has a long snout."
+  },
+  {
+    "index": 396,
+    "label": "lionfish",
+    "en": "lionfish",
+    "vi": "cá sư tử",
+    "phonetic": "/ˈlaɪ.ən.fɪʃ/",
+    "example": "The lionfish is venomous."
+  },
+  {
+    "index": 397,
+    "label": "puffer",
+    "en": "pufferfish",
+    "vi": "cá nóc",
+    "phonetic": "/ˈpʌf.ə.fɪʃ/",
+    "example": "The pufferfish inflates when scared."
+  },
+  {
+    "index": 398,
+    "label": "abacus",
+    "en": "abacus",
+    "vi": "bàn tính",
+    "phonetic": "/ˈæb.ə.kəs/",
+    "example": "He counts with an abacus."
+  },
+  {
+    "index": 399,
+    "label": "abaya",
+    "en": "abaya",
+    "vi": "áo choàng abaya",
+    "phonetic": "/əˈbaɪ.ə/",
+    "example": "She wore a black abaya."
+  },
+  {
+    "index": 400,
+    "label": "academic gown",
+    "en": "academic gown",
+    "vi": "áo cử nhân",
+    "phonetic": "/ˌæk.əˈdem.ɪk ɡaʊn/",
+    "example": "Students wear an academic gown at graduation."
+  },
+  {
+    "index": 401,
+    "label": "accordion",
+    "en": "accordion",
+    "vi": "đàn accordion",
+    "phonetic": "/əˈkɔː.di.ən/",
+    "example": "He plays the accordion."
+  },
+  {
+    "index": 402,
+    "label": "acoustic guitar",
+    "en": "acoustic guitar",
+    "vi": "đàn guitar thùng",
+    "phonetic": "/əˌkuː.stɪk ɡɪˈtɑːr/",
+    "example": "He plays the acoustic guitar every night."
+  },
+  {
+    "index": 403,
+    "label": "aircraft carrier",
+    "en": "aircraft carrier",
+    "vi": "tàu sân bay",
+    "phonetic": "/ˈeə.krɑːft ˈkær.i.ər/",
+    "example": "The aircraft carrier is huge."
+  },
+  {
+    "index": 404,
+    "label": "airliner",
+    "en": "airliner",
+    "vi": "máy bay chở khách",
+    "phonetic": "/ˈeəˌlaɪ.nər/",
+    "example": "The airliner landed at noon."
+  },
+  {
+    "index": 405,
+    "label": "airship",
+    "en": "airship",
+    "vi": "khí cầu",
+    "phonetic": "/ˈeə.ʃɪp/",
+    "example": "An airship floated in the sky."
+  },
+  {
+    "index": 406,
+    "label": "altar",
+    "en": "altar",
+    "vi": "bàn thờ",
+    "phonetic": "/ˈɒl.tər/",
+    "example": "Flowers are on the altar."
+  },
+  {
+    "index": 407,
+    "label": "ambulance",
+    "en": "ambulance",
+    "vi": "xe cứu thương",
+    "phonetic": "/ˈæm.bjə.ləns/",
+    "example": "The ambulance arrived quickly."
+  },
+  {
+    "index": 408,
+    "label": "amphibian",
+    "en": "amphibious vehicle",
+    "vi": "xe lưỡng cư",
+    "phonetic": "/æmˈfɪb.i.əs ˈviː.ə.kəl/",
+    "example": "The amphibious vehicle crossed the river."
+  },
+  {
+    "index": 409,
+    "label": "analog clock",
+    "en": "analog clock",
+    "vi": "đồng hồ kim",
+    "phonetic": "/ˈæn.ə.lɒɡ klɒk/",
+    "example": "The analog clock has two hands."
+  },
+  {
+    "index": 410,
+    "label": "apiary",
+    "en": "apiary",
+    "vi": "trại ong",
+    "phonetic": "/ˈeɪ.pi.ər.i/",
+    "example": "The apiary has many hives."
+  },
+  {
+    "index": 411,
+    "label": "apron",
+    "en": "apron",
+    "vi": "tạp dề",
+    "phonetic": "/ˈeɪ.prən/",
+    "example": "He wears an apron to cook."
+  },
+  {
+    "index": 412,
+    "label": "ashcan",
+    "en": "trash can",
+    "vi": "thùng rác",
+    "phonetic": "/træʃ kæn/",
+    "example": "Throw it in the trash can."
+  },
+  {
+    "index": 413,
+    "label": "assault rifle",
+    "en": "assault rifle",
+    "vi": "súng trường tấn công",
+    "phonetic": "/əˈsɔːlt ˈraɪ.fəl/",
+    "example": "A soldier carries an assault rifle."
+  },
+  {
+    "index": 414,
+    "label": "backpack",
+    "en": "backpack",
+    "vi": "ba lô",
+    "phonetic": "/ˈbæk.pæk/",
+    "example": "He carries his books in a backpack."
+  },
+  {
+    "index": 415,
+    "label": "bakery",
+    "en": "bakery",
+    "vi": "tiệm bánh",
+    "phonetic": "/ˈbeɪ.kər.i/",
+    "example": "The bakery smells of bread."
+  },
+  {
+    "index": 416,
+    "label": "balance beam",
+    "en": "balance beam",
+    "vi": "cầu thăng bằng",
+    "phonetic": "/ˈbæl.əns biːm/",
+    "example": "She walks on the balance beam."
+  },
+  {
+    "index": 417,
+    "label": "balloon",
+    "en": "balloon",
+    "vi": "bóng bay",
+    "phonetic": "/bəˈluːn/",
+    "example": "The child holds a balloon."
+  },
+  {
+    "index": 418,
+    "label": "ballpoint",
+    "en": "ballpoint pen",
+    "vi": "bút bi",
+    "phonetic": "/ˈbɔːl.pɔɪnt pen/",
+    "example": "Please sign here with a ballpoint pen."
+  },
+  {
+    "index": 419,
+    "label": "Band Aid",
+    "en": "band-aid",
+    "vi": "băng cá nhân",
+    "phonetic": "/ˈbænd.eɪd/",
+    "example": "Put a band-aid on the cut."
+  },
+  {
+    "index": 420,
+    "label": "banjo",
+    "en": "banjo",
+    "vi": "đàn banjo",
+    "phonetic": "/ˈbæn.dʒəʊ/",
+    "example": "He plays the banjo."
+  },
+  {
+    "index": 421,
+    "label": "bannister",
+    "en": "banister",
+    "vi": "tay vịn cầu thang",
+    "phonetic": "/ˈbæn.ɪ.stər/",
+    "example": "Hold the banister."
+  },
+  {
+    "index": 422,
+    "label": "barbell",
+    "en": "barbell",
+    "vi": "thanh tạ đòn",
+    "phonetic": "/ˈbɑː.bel/",
+    "example": "He lifts a heavy barbell at the gym."
+  },
+  {
+    "index": 423,
+    "label": "barber chair",
+    "en": "barber chair",
+    "vi": "ghế cắt tóc",
+    "phonetic": "/ˈbɑː.bə tʃeər/",
+    "example": "Sit in the barber chair."
+  },
+  {
+    "index": 424,
+    "label": "barbershop",
+    "en": "barbershop",
+    "vi": "tiệm cắt tóc",
+    "phonetic": "/ˈbɑː.bə.ʃɒp/",
+    "example": "He got a haircut at the barbershop."
+  },
+  {
+    "index": 425,
+    "label": "barn",
+    "en": "barn",
+    "vi": "nhà kho nông trại",
+    "phonetic": "/bɑːn/",
+    "example": "The cows are in the barn."
+  },
+  {
+    "index": 426,
+    "label": "barometer",
+    "en": "barometer",
+    "vi": "phong vũ biểu",
+    "phonetic": "/bəˈrɒm.ɪ.tər/",
+    "example": "The barometer shows the air pressure."
+  },
+  {
+    "index": 427,
+    "label": "barrel",
+    "en": "barrel",
+    "vi": "thùng gỗ tròn",
+    "phonetic": "/ˈbær.əl/",
+    "example": "The barrel is full of oil."
+  },
+  {
+    "index": 428,
+    "label": "barrow",
+    "en": "wheelbarrow",
+    "vi": "xe cút kít",
+    "phonetic": "/ˈwiːl.bær.əʊ/",
+    "example": "Push the wheelbarrow."
+  },
+  {
+    "index": 429,
+    "label": "baseball",
+    "en": "baseball",
+    "vi": "quả bóng chày",
+    "phonetic": "/ˈbeɪs.bɔːl/",
+    "example": "He threw the baseball."
+  },
+  {
+    "index": 430,
+    "label": "basketball",
+    "en": "basketball",
+    "vi": "quả bóng rổ",
+    "phonetic": "/ˈbɑː.skɪt.bɔːl/",
+    "example": "They play basketball after school."
+  },
+  {
+    "index": 431,
+    "label": "bassinet",
+    "en": "bassinet",
+    "vi": "nôi em bé",
+    "phonetic": "/ˌbæs.ɪˈnet/",
+    "example": "The baby sleeps in a bassinet."
+  },
+  {
+    "index": 432,
+    "label": "bassoon",
+    "en": "bassoon",
+    "vi": "kèn fagot",
+    "phonetic": "/bəˈsuːn/",
+    "example": "She plays the bassoon."
+  },
+  {
+    "index": 433,
+    "label": "bathing cap",
+    "en": "swimming cap",
+    "vi": "mũ bơi",
+    "phonetic": "/ˈswɪm.ɪŋ kæp/",
+    "example": "Wear a swimming cap in the pool."
+  },
+  {
+    "index": 434,
+    "label": "bath towel",
+    "en": "bath towel",
+    "vi": "khăn tắm",
+    "phonetic": "/ˈbɑːθ ˌtaʊ.əl/",
+    "example": "I dried myself with a bath towel."
+  },
+  {
+    "index": 435,
+    "label": "bathtub",
+    "en": "bathtub",
+    "vi": "bồn tắm",
+    "phonetic": "/ˈbɑːθ.tʌb/",
+    "example": "The bathtub is full."
+  },
+  {
+    "index": 436,
+    "label": "beach wagon",
+    "en": "station wagon",
+    "vi": "xe wagon",
+    "phonetic": "/ˈsteɪ.ʃən ˈwæɡ.ən/",
+    "example": "The station wagon is spacious."
+  },
+  {
+    "index": 437,
+    "label": "beacon",
+    "en": "lighthouse",
+    "vi": "ngọn hải đăng",
+    "phonetic": "/ˈlaɪt.haʊs/",
+    "example": "The lighthouse guides ships."
+  },
+  {
+    "index": 438,
+    "label": "beaker",
+    "en": "beaker",
+    "vi": "cốc thí nghiệm",
+    "phonetic": "/ˈbiː.kər/",
+    "example": "Pour the liquid into the beaker."
+  },
+  {
+    "index": 439,
+    "label": "bearskin",
+    "en": "bearskin hat",
+    "vi": "mũ lông gấu",
+    "phonetic": "/ˈbeə.skɪn hæt/",
+    "example": "The guard wears a bearskin hat."
+  },
+  {
+    "index": 440,
+    "label": "beer bottle",
+    "en": "beer bottle",
+    "vi": "chai bia",
+    "phonetic": "/ˈbɪə ˌbɒt.əl/",
+    "example": "The beer bottle is empty."
+  },
+  {
+    "index": 441,
+    "label": "beer glass",
+    "en": "beer glass",
+    "vi": "ly bia",
+    "phonetic": "/ˈbɪə ɡlɑːs/",
+    "example": "Fill the beer glass."
+  },
+  {
+    "index": 442,
+    "label": "bell cote",
+    "en": "bell cote",
+    "vi": "tháp chuông nhỏ",
+    "phonetic": "/bel kəʊt/",
+    "example": "The bell cote is on the roof."
+  },
+  {
+    "index": 443,
+    "label": "bib",
+    "en": "bib",
+    "vi": "yếm ăn dặm",
+    "phonetic": "/bɪb/",
+    "example": "The baby wears a bib."
+  },
+  {
+    "index": 444,
+    "label": "bicycle-built-for-two",
+    "en": "tandem bicycle",
+    "vi": "xe đạp đôi",
+    "phonetic": "/ˈtæn.dəm ˈbaɪ.sɪ.kəl/",
+    "example": "They rode a tandem bicycle."
+  },
+  {
+    "index": 445,
+    "label": "bikini",
+    "en": "bikini",
+    "vi": "bộ bikini",
+    "phonetic": "/bɪˈkiː.ni/",
+    "example": "She wore a bikini on the beach."
+  },
+  {
+    "index": 446,
+    "label": "binder",
+    "en": "binder",
+    "vi": "bìa còng",
+    "phonetic": "/ˈbaɪn.dər/",
+    "example": "Put the papers in the binder."
+  },
+  {
+    "index": 447,
+    "label": "binoculars",
+    "en": "binoculars",
+    "vi": "ống nhòm",
+    "phonetic": "/bɪˈnɒk.jʊ.ləz/",
+    "example": "She watches birds through binoculars."
+  },
+  {
+    "index": 448,
+    "label": "birdhouse",
+    "en": "birdhouse",
+    "vi": "nhà chim",
+    "phonetic": "/ˈbɜːd.haʊs/",
+    "example": "A bird lives in the birdhouse."
+  },
+  {
+    "index": 449,
+    "label": "boathouse",
+    "en": "boathouse",
+    "vi": "nhà thuyền",
+    "phonetic": "/ˈbəʊt.haʊs/",
+    "example": "The boat is in the boathouse."
+  },
+  {
+    "index": 450,
+    "label": "bobsled",
+    "en": "bobsled",
+    "vi": "xe trượt băng",
+    "phonetic": "/ˈbɒb.sled/",
+    "example": "The bobsled slid fast."
+  },
+  {
+    "index": 451,
+    "label": "bolo tie",
+    "en": "bolo tie",
+    "vi": "cà vạt dây",
+    "phonetic": "/ˈbəʊ.ləʊ taɪ/",
+    "example": "He wore a bolo tie."
+  },
+  {
+    "index": 452,
+    "label": "bonnet",
+    "en": "bonnet",
+    "vi": "mũ trùm đầu",
+    "phonetic": "/ˈbɒn.ɪt/",
+    "example": "The baby wears a bonnet."
+  },
+  {
+    "index": 453,
+    "label": "bookcase",
+    "en": "bookcase",
+    "vi": "tủ sách",
+    "phonetic": "/ˈbʊk.keɪs/",
+    "example": "The bookcase is full of novels."
+  },
+  {
+    "index": 454,
+    "label": "bookshop",
+    "en": "bookshop",
+    "vi": "hiệu sách",
+    "phonetic": "/ˈbʊk.ʃɒp/",
+    "example": "I bought a novel at the bookshop."
+  },
+  {
+    "index": 455,
+    "label": "bottlecap",
+    "en": "bottle cap",
+    "vi": "nắp chai",
+    "phonetic": "/ˈbɒt.əl kæp/",
+    "example": "Open the bottle cap."
+  },
+  {
+    "index": 456,
+    "label": "bow",
+    "en": "bow",
+    "vi": "cây cung",
+    "phonetic": "/bəʊ/",
+    "example": "He shot an arrow with a bow."
+  },
+  {
+    "index": 457,
+    "label": "bow tie",
+    "en": "bow tie",
+    "vi": "nơ cổ",
+    "phonetic": "/ˌbəʊ ˈtaɪ/",
+    "example": "He wore a bow tie."
+  },
+  {
+    "index": 458,
+    "label": "brass",
+    "en": "brass memorial",
+    "vi": "bia đồng",
+    "phonetic": "/brɑːs/",
+    "example": "The brass plate shines."
+  },
+  {
+    "index": 459,
+    "label": "brassiere",
+    "en": "bra",
+    "vi": "áo ngực",
+    "phonetic": "/brɑː/",
+    "example": "She bought a new bra."
+  },
+  {
+    "index": 460,
+    "label": "breakwater",
+    "en": "breakwater",
+    "vi": "đê chắn sóng",
+    "phonetic": "/ˈbreɪkˌwɔː.tər/",
+    "example": "The breakwater protects the harbor."
+  },
+  {
+    "index": 461,
+    "label": "breastplate",
+    "en": "breastplate",
+    "vi": "giáp ngực",
+    "phonetic": "/ˈbrest.pleɪt/",
+    "example": "The knight wore a breastplate."
+  },
+  {
+    "index": 462,
+    "label": "broom",
+    "en": "broom",
+    "vi": "cái chổi",
+    "phonetic": "/bruːm/",
+    "example": "Please sweep the floor with the broom."
+  },
+  {
+    "index": 463,
+    "label": "bucket",
+    "en": "bucket",
+    "vi": "cái xô",
+    "phonetic": "/ˈbʌk.ɪt/",
+    "example": "Fill the bucket with water."
+  },
+  {
+    "index": 464,
+    "label": "buckle",
+    "en": "buckle",
+    "vi": "khóa thắt lưng",
+    "phonetic": "/ˈbʌk.əl/",
+    "example": "Fasten the buckle."
+  },
+  {
+    "index": 465,
+    "label": "bulletproof vest",
+    "en": "bulletproof vest",
+    "vi": "áo chống đạn",
+    "phonetic": "/ˈbʊl.ɪt.pruːf vest/",
+    "example": "The officer wears a bulletproof vest."
+  },
+  {
+    "index": 466,
+    "label": "bullet train",
+    "en": "bullet train",
+    "vi": "tàu cao tốc",
+    "phonetic": "/ˈbʊl.ɪt treɪn/",
+    "example": "The bullet train is very fast."
+  },
+  {
+    "index": 467,
+    "label": "butcher shop",
+    "en": "butcher shop",
+    "vi": "cửa hàng thịt",
+    "phonetic": "/ˈbʊtʃ.ə ʃɒp/",
+    "example": "Buy meat at the butcher shop."
+  },
+  {
+    "index": 468,
+    "label": "cab",
+    "en": "taxi",
+    "vi": "xe taxi",
+    "phonetic": "/ˈtæk.si/",
+    "example": "Let's take a taxi."
+  },
+  {
+    "index": 469,
+    "label": "caldron",
+    "en": "cauldron",
+    "vi": "vạc lớn",
+    "phonetic": "/ˈkɔːl.drən/",
+    "example": "The witch stirred the cauldron."
+  },
+  {
+    "index": 470,
+    "label": "candle",
+    "en": "candle",
+    "vi": "cây nến",
+    "phonetic": "/ˈkæn.dəl/",
+    "example": "She lit a candle on the table."
+  },
+  {
+    "index": 471,
+    "label": "cannon",
+    "en": "cannon",
+    "vi": "khẩu đại bác",
+    "phonetic": "/ˈkæn.ən/",
+    "example": "The cannon fired."
+  },
+  {
+    "index": 472,
+    "label": "canoe",
+    "en": "canoe",
+    "vi": "xuồng",
+    "phonetic": "/kəˈnuː/",
+    "example": "We paddled the canoe."
+  },
+  {
+    "index": 473,
+    "label": "can opener",
+    "en": "can opener",
+    "vi": "cái mở hộp",
+    "phonetic": "/kæn ˈəʊ.pən.ər/",
+    "example": "Use a can opener."
+  },
+  {
+    "index": 474,
+    "label": "cardigan",
+    "en": "cardigan",
+    "vi": "áo len cài khuy",
+    "phonetic": "/ˈkɑː.dɪ.ɡən/",
+    "example": "She wore a warm cardigan."
+  },
+  {
+    "index": 475,
+    "label": "car mirror",
+    "en": "car mirror",
+    "vi": "gương xe hơi",
+    "phonetic": "/kɑː ˈmɪr.ər/",
+    "example": "Check the car mirror."
+  },
+  {
+    "index": 476,
+    "label": "carousel",
+    "en": "carousel",
+    "vi": "vòng quay ngựa gỗ",
+    "phonetic": "/ˌkær.əˈsel/",
+    "example": "Kids ride the carousel."
+  },
+  {
+    "index": 477,
+    "label": "carpenter's kit",
+    "en": "carpenter's tools",
+    "vi": "đồ nghề thợ mộc",
+    "phonetic": "/ˈkɑː.pɪn.təz tuːlz/",
+    "example": "He opened the carpenter's tools."
+  },
+  {
+    "index": 478,
+    "label": "carton",
+    "en": "carton",
+    "vi": "hộp giấy",
+    "phonetic": "/ˈkɑː.tən/",
+    "example": "Buy a carton of milk."
+  },
+  {
+    "index": 479,
+    "label": "car wheel",
+    "en": "car wheel",
+    "vi": "bánh xe hơi",
+    "phonetic": "/kɑː wiːl/",
+    "example": "The car wheel is flat."
+  },
+  {
+    "index": 480,
+    "label": "cash machine",
+    "en": "ATM",
+    "vi": "máy rút tiền",
+    "phonetic": "/ˌeɪ.tiːˈem/",
+    "example": "I withdrew cash from the ATM."
+  },
+  {
+    "index": 481,
+    "label": "cassette",
+    "en": "cassette",
+    "vi": "băng cassette",
+    "phonetic": "/kəˈset/",
+    "example": "He played an old cassette."
+  },
+  {
+    "index": 482,
+    "label": "cassette player",
+    "en": "cassette player",
+    "vi": "máy cassette",
+    "phonetic": "/kəˈset ˈpleɪ.ər/",
+    "example": "The cassette player is old."
+  },
+  {
+    "index": 483,
+    "label": "castle",
+    "en": "castle",
+    "vi": "lâu đài",
+    "phonetic": "/ˈkɑː.səl/",
+    "example": "The castle is on the hill."
+  },
+  {
+    "index": 484,
+    "label": "catamaran",
+    "en": "catamaran",
+    "vi": "thuyền hai thân",
+    "phonetic": "/ˌkæt.ə.məˈræn/",
+    "example": "We sailed on a catamaran."
+  },
+  {
+    "index": 485,
+    "label": "CD player",
+    "en": "CD player",
+    "vi": "máy phát đĩa CD",
+    "phonetic": "/ˌsiːˈdiː ˈpleɪ.ər/",
+    "example": "Put the disc in the CD player."
+  },
+  {
+    "index": 486,
+    "label": "cello",
+    "en": "cello",
+    "vi": "đàn cello",
+    "phonetic": "/ˈtʃel.əʊ/",
+    "example": "She plays the cello."
+  },
+  {
+    "index": 487,
+    "label": "cellular telephone",
+    "en": "mobile phone",
+    "vi": "điện thoại di động",
+    "phonetic": "/ˈməʊ.baɪl fəʊn/",
+    "example": "My mobile phone is on the desk."
+  },
+  {
+    "index": 488,
+    "label": "chain",
+    "en": "chain",
+    "vi": "dây xích",
+    "phonetic": "/tʃeɪn/",
+    "example": "The dog is on a chain."
+  },
+  {
+    "index": 489,
+    "label": "chainlink fence",
+    "en": "chain-link fence",
+    "vi": "hàng rào lưới thép",
+    "phonetic": "/ˈtʃeɪn.lɪŋk fens/",
+    "example": "A chain-link fence surrounds the yard."
+  },
+  {
+    "index": 490,
+    "label": "chain mail",
+    "en": "chain mail",
+    "vi": "áo giáp xích",
+    "phonetic": "/ˈtʃeɪn meɪl/",
+    "example": "The knight wore chain mail."
+  },
+  {
+    "index": 491,
+    "label": "chain saw",
+    "en": "chainsaw",
+    "vi": "cưa xích",
+    "phonetic": "/ˈtʃeɪn.sɔː/",
+    "example": "He cut the tree with a chainsaw."
+  },
+  {
+    "index": 492,
+    "label": "chest",
+    "en": "chest",
+    "vi": "rương",
+    "phonetic": "/tʃest/",
+    "example": "The treasure is in the chest."
+  },
+  {
+    "index": 493,
+    "label": "chiffonier",
+    "en": "chiffonier",
+    "vi": "tủ ngăn kéo cao",
+    "phonetic": "/ˌʃɪf.əˈnɪər/",
+    "example": "Clothes are in the chiffonier."
+  },
+  {
+    "index": 494,
+    "label": "chime",
+    "en": "wind chime",
+    "vi": "chuông gió",
+    "phonetic": "/waɪnd tʃaɪm/",
+    "example": "The wind chime rang."
+  },
+  {
+    "index": 495,
+    "label": "china cabinet",
+    "en": "china cabinet",
+    "vi": "tủ trưng bày chén đĩa",
+    "phonetic": "/ˈtʃaɪ.nə ˈkæb.ɪ.nət/",
+    "example": "Plates are in the china cabinet."
+  },
+  {
+    "index": 496,
+    "label": "Christmas stocking",
+    "en": "Christmas stocking",
+    "vi": "tất Giáng sinh",
+    "phonetic": "/ˈkrɪs.məs ˈstɒk.ɪŋ/",
+    "example": "Gifts are in the Christmas stocking."
+  },
+  {
+    "index": 497,
+    "label": "church",
+    "en": "church",
+    "vi": "nhà thờ",
+    "phonetic": "/tʃɜːtʃ/",
+    "example": "They go to church on Sunday."
+  },
+  {
+    "index": 498,
+    "label": "cinema",
+    "en": "cinema",
+    "vi": "rạp chiếu phim",
+    "phonetic": "/ˈsɪn.ə.mə/",
+    "example": "We went to the cinema."
+  },
+  {
+    "index": 499,
+    "label": "cleaver",
+    "en": "cleaver",
+    "vi": "dao phay",
+    "phonetic": "/ˈkliː.vər/",
+    "example": "The chef used a cleaver."
+  },
+  {
+    "index": 500,
+    "label": "cliff dwelling",
+    "en": "cliff dwelling",
+    "vi": "nhà vách đá",
+    "phonetic": "/klɪf ˈdwel.ɪŋ/",
+    "example": "A cliff dwelling is built in rock."
+  },
+  {
+    "index": 501,
+    "label": "cloak",
+    "en": "cloak",
+    "vi": "áo choàng",
+    "phonetic": "/kləʊk/",
+    "example": "He wore a long cloak."
+  },
+  {
+    "index": 502,
+    "label": "clog",
+    "en": "clog",
+    "vi": "guốc gỗ",
+    "phonetic": "/klɒɡ/",
+    "example": "She wore wooden clogs."
+  },
+  {
+    "index": 503,
+    "label": "cocktail shaker",
+    "en": "cocktail shaker",
+    "vi": "bình lắc cocktail",
+    "phonetic": "/ˈkɒk.teɪl ˈʃeɪ.kər/",
+    "example": "Shake it in the cocktail shaker."
+  },
+  {
+    "index": 504,
+    "label": "coffee mug",
+    "en": "mug",
+    "vi": "cái cốc (có quai)",
+    "phonetic": "/mʌɡ/",
+    "example": "I drink coffee from this mug."
+  },
+  {
+    "index": 505,
+    "label": "coffeepot",
+    "en": "coffee pot",
+    "vi": "bình cà phê",
+    "phonetic": "/ˈkɒf.i pɒt/",
+    "example": "The coffee pot is hot."
+  },
+  {
+    "index": 506,
+    "label": "coil",
+    "en": "coil",
+    "vi": "cuộn dây",
+    "phonetic": "/kɔɪl/",
+    "example": "A coil of rope lay on the deck."
+  },
+  {
+    "index": 507,
+    "label": "combination lock",
+    "en": "combination lock",
+    "vi": "khóa số",
+    "phonetic": "/ˌkɒm.bɪˈneɪ.ʃən lɒk/",
+    "example": "Turn the combination lock."
+  },
+  {
+    "index": 508,
+    "label": "computer keyboard",
+    "en": "keyboard",
+    "vi": "bàn phím",
+    "phonetic": "/ˈkiː.bɔːd/",
+    "example": "I type fast on this keyboard."
+  },
+  {
+    "index": 509,
+    "label": "confectionery",
+    "en": "candy shop",
+    "vi": "tiệm kẹo",
+    "phonetic": "/ˈkæn.di ʃɒp/",
+    "example": "Kids love the candy shop."
+  },
+  {
+    "index": 510,
+    "label": "container ship",
+    "en": "container ship",
+    "vi": "tàu container",
+    "phonetic": "/kənˈteɪ.nə ʃɪp/",
+    "example": "The container ship carries goods."
+  },
+  {
+    "index": 511,
+    "label": "convertible",
+    "en": "convertible car",
+    "vi": "xe mui trần",
+    "phonetic": "/kənˈvɜː.tə.bəl/",
+    "example": "He drives a convertible."
+  },
+  {
+    "index": 512,
+    "label": "corkscrew",
+    "en": "corkscrew",
+    "vi": "đồ khui rượu",
+    "phonetic": "/ˈkɔːk.skruː/",
+    "example": "Use a corkscrew to open the wine."
+  },
+  {
+    "index": 513,
+    "label": "cornet",
+    "en": "cornet",
+    "vi": "kèn cornet",
+    "phonetic": "/ˈkɔː.nɪt/",
+    "example": "He plays the cornet."
+  },
+  {
+    "index": 514,
+    "label": "cowboy boot",
+    "en": "cowboy boot",
+    "vi": "giày bốt cao bồi",
+    "phonetic": "/ˈkaʊ.bɔɪ buːt/",
+    "example": "He wears cowboy boots."
+  },
+  {
+    "index": 515,
+    "label": "cowboy hat",
+    "en": "cowboy hat",
+    "vi": "mũ cao bồi",
+    "phonetic": "/ˈkaʊ.bɔɪ hæt/",
+    "example": "The cowboy hat is big."
+  },
+  {
+    "index": 516,
+    "label": "cradle",
+    "en": "cradle",
+    "vi": "cái nôi",
+    "phonetic": "/ˈkreɪ.dəl/",
+    "example": "Rock the baby's cradle."
+  },
+  {
+    "index": 517,
+    "label": "crane",
+    "en": "crane (machine)",
+    "vi": "cần cẩu",
+    "phonetic": "/kreɪn/",
+    "example": "A crane lifted the steel beam."
+  },
+  {
+    "index": 518,
+    "label": "crash helmet",
+    "en": "helmet",
+    "vi": "mũ bảo hiểm",
+    "phonetic": "/ˈhel.mɪt/",
+    "example": "Wear a helmet when you ride."
+  },
+  {
+    "index": 519,
+    "label": "crate",
+    "en": "crate",
+    "vi": "thùng thưa",
+    "phonetic": "/kreɪt/",
+    "example": "Apples are in the crate."
+  },
+  {
+    "index": 520,
+    "label": "crib",
+    "en": "crib",
+    "vi": "cũi em bé",
+    "phonetic": "/krɪb/",
+    "example": "The baby is in the crib."
+  },
+  {
+    "index": 521,
+    "label": "Crock Pot",
+    "en": "slow cooker",
+    "vi": "nồi nấu chậm",
+    "phonetic": "/ˌsləʊ ˈkʊk.ər/",
+    "example": "Cook the stew in a slow cooker."
+  },
+  {
+    "index": 522,
+    "label": "croquet ball",
+    "en": "croquet ball",
+    "vi": "bóng croquet",
+    "phonetic": "/ˈkrəʊ.keɪ bɔːl/",
+    "example": "He hit the croquet ball."
+  },
+  {
+    "index": 523,
+    "label": "crutch",
+    "en": "crutch",
+    "vi": "cái nạng",
+    "phonetic": "/krʌtʃ/",
+    "example": "He walks with a crutch."
+  },
+  {
+    "index": 524,
+    "label": "cuirass",
+    "en": "cuirass",
+    "vi": "giáp che ngực",
+    "phonetic": "/kwɪˈræs/",
+    "example": "The soldier wore a cuirass."
+  },
+  {
+    "index": 525,
+    "label": "dam",
+    "en": "dam",
+    "vi": "đập nước",
+    "phonetic": "/dæm/",
+    "example": "The dam holds the river."
+  },
+  {
+    "index": 526,
+    "label": "desk",
+    "en": "desk",
+    "vi": "bàn làm việc",
+    "phonetic": "/desk/",
+    "example": "He does his homework at his desk."
+  },
+  {
+    "index": 527,
+    "label": "desktop computer",
+    "en": "desktop computer",
+    "vi": "máy tính để bàn",
+    "phonetic": "/ˈdesk.tɒp kəmˈpjuː.tər/",
+    "example": "The desktop computer is in my room."
+  },
+  {
+    "index": 528,
+    "label": "dial telephone",
+    "en": "rotary phone",
+    "vi": "điện thoại quay số",
+    "phonetic": "/ˈrəʊ.tər.i fəʊn/",
+    "example": "Grandma has a rotary phone."
+  },
+  {
+    "index": 529,
+    "label": "diaper",
+    "en": "diaper",
+    "vi": "tã em bé",
+    "phonetic": "/ˈdaɪ.pər/",
+    "example": "Change the baby's diaper."
+  },
+  {
+    "index": 530,
+    "label": "digital clock",
+    "en": "digital clock",
+    "vi": "đồng hồ điện tử",
+    "phonetic": "/ˈdɪdʒ.ɪ.təl klɒk/",
+    "example": "The digital clock shows 7:30."
+  },
+  {
+    "index": 531,
+    "label": "digital watch",
+    "en": "digital watch",
+    "vi": "đồng hồ đeo tay điện tử",
+    "phonetic": "/ˈdɪdʒ.ɪ.təl wɒtʃ/",
+    "example": "He checks his digital watch."
+  },
+  {
+    "index": 532,
+    "label": "dining table",
+    "en": "dining table",
+    "vi": "bàn ăn",
+    "phonetic": "/ˈdaɪ.nɪŋ ˈteɪ.bəl/",
+    "example": "The family sits at the dining table."
+  },
+  {
+    "index": 533,
+    "label": "dishrag",
+    "en": "dishcloth",
+    "vi": "giẻ rửa chén",
+    "phonetic": "/ˈdɪʃ.klɒθ/",
+    "example": "Wipe the plate with a dishcloth."
+  },
+  {
+    "index": 534,
+    "label": "dishwasher",
+    "en": "dishwasher",
+    "vi": "máy rửa chén",
+    "phonetic": "/ˈdɪʃˌwɒʃ.ər/",
+    "example": "Put the plates in the dishwasher."
+  },
+  {
+    "index": 535,
+    "label": "disk brake",
+    "en": "disc brake",
+    "vi": "phanh đĩa",
+    "phonetic": "/dɪsk breɪk/",
+    "example": "The disc brake stops the bike."
+  },
+  {
+    "index": 536,
+    "label": "dock",
+    "en": "dock",
+    "vi": "bến tàu",
+    "phonetic": "/dɒk/",
+    "example": "The boat is at the dock."
+  },
+  {
+    "index": 537,
+    "label": "dogsled",
+    "en": "dog sled",
+    "vi": "xe chó kéo",
+    "phonetic": "/dɒɡ sled/",
+    "example": "The dog sled raced over the snow."
+  },
+  {
+    "index": 538,
+    "label": "dome",
+    "en": "dome",
+    "vi": "mái vòm",
+    "phonetic": "/dəʊm/",
+    "example": "The dome is gold."
+  },
+  {
+    "index": 539,
+    "label": "doormat",
+    "en": "doormat",
+    "vi": "thảm chùi chân",
+    "phonetic": "/ˈdɔː.mæt/",
+    "example": "Wipe your feet on the doormat."
+  },
+  {
+    "index": 540,
+    "label": "drilling platform",
+    "en": "oil rig",
+    "vi": "giàn khoan dầu",
+    "phonetic": "/ɔɪl rɪɡ/",
+    "example": "The oil rig is in the sea."
+  },
+  {
+    "index": 541,
+    "label": "drum",
+    "en": "drum",
+    "vi": "cái trống",
+    "phonetic": "/drʌm/",
+    "example": "He beats the drum."
+  },
+  {
+    "index": 542,
+    "label": "drumstick",
+    "en": "drumstick",
+    "vi": "dùi trống",
+    "phonetic": "/ˈdrʌm.stɪk/",
+    "example": "He holds a drumstick."
+  },
+  {
+    "index": 543,
+    "label": "dumbbell",
+    "en": "dumbbell",
+    "vi": "tạ tay",
+    "phonetic": "/ˈdʌm.bel/",
+    "example": "He exercises with a dumbbell."
+  },
+  {
+    "index": 544,
+    "label": "Dutch oven",
+    "en": "Dutch oven",
+    "vi": "nồi gang",
+    "phonetic": "/dʌtʃ ˈʌv.ən/",
+    "example": "Cook the soup in a Dutch oven."
+  },
+  {
+    "index": 545,
+    "label": "electric fan",
+    "en": "electric fan",
+    "vi": "quạt điện",
+    "phonetic": "/ɪˈlek.trɪk fæn/",
+    "example": "Turn on the electric fan."
+  },
+  {
+    "index": 546,
+    "label": "electric guitar",
+    "en": "electric guitar",
+    "vi": "đàn guitar điện",
+    "phonetic": "/ɪˈlek.trɪk ɡɪˈtɑː/",
+    "example": "He plays the electric guitar."
+  },
+  {
+    "index": 547,
+    "label": "electric locomotive",
+    "en": "electric locomotive",
+    "vi": "đầu máy điện",
+    "phonetic": "/ɪˈlek.trɪk ˌləʊ.kəˈməʊ.tɪv/",
+    "example": "The electric locomotive pulls the train."
+  },
+  {
+    "index": 548,
+    "label": "entertainment center",
+    "en": "entertainment center",
+    "vi": "kệ tivi",
+    "phonetic": "/ˌen.təˈteɪn.mənt ˈsen.tər/",
+    "example": "The TV is in the entertainment center."
+  },
+  {
+    "index": 549,
+    "label": "envelope",
+    "en": "envelope",
+    "vi": "phong bì",
+    "phonetic": "/ˈen.və.ləʊp/",
+    "example": "She put the letter in an envelope."
+  },
+  {
+    "index": 550,
+    "label": "espresso maker",
+    "en": "espresso machine",
+    "vi": "máy pha espresso",
+    "phonetic": "/eˈspres.əʊ məˈʃiːn/",
+    "example": "The espresso machine is noisy."
+  },
+  {
+    "index": 551,
+    "label": "face powder",
+    "en": "face powder",
+    "vi": "phấn phủ",
+    "phonetic": "/feɪs ˈpaʊ.dər/",
+    "example": "She applied face powder."
+  },
+  {
+    "index": 552,
+    "label": "feather boa",
+    "en": "feather boa",
+    "vi": "khăn lông vũ",
+    "phonetic": "/ˈfeð.ə ˈbəʊ.ə/",
+    "example": "She wore a feather boa."
+  },
+  {
+    "index": 553,
+    "label": "file",
+    "en": "file cabinet",
+    "vi": "tủ hồ sơ",
+    "phonetic": "/faɪl ˈkæb.ɪ.nət/",
+    "example": "Documents are in the file cabinet."
+  },
+  {
+    "index": 554,
+    "label": "fireboat",
+    "en": "fireboat",
+    "vi": "tàu cứu hỏa",
+    "phonetic": "/ˈfaɪə.bəʊt/",
+    "example": "The fireboat sprayed water."
+  },
+  {
+    "index": 555,
+    "label": "fire engine",
+    "en": "fire truck",
+    "vi": "xe cứu hỏa",
+    "phonetic": "/ˈfaɪə trʌk/",
+    "example": "The fire truck is red."
+  },
+  {
+    "index": 556,
+    "label": "fire screen",
+    "en": "fire screen",
+    "vi": "tấm chắn lò sưởi",
+    "phonetic": "/ˈfaɪə skriːn/",
+    "example": "A fire screen stands by the fireplace."
+  },
+  {
+    "index": 557,
+    "label": "flagpole",
+    "en": "flagpole",
+    "vi": "cột cờ",
+    "phonetic": "/ˈflæɡ.pəʊl/",
+    "example": "The flag is on the flagpole."
+  },
+  {
+    "index": 558,
+    "label": "flute",
+    "en": "flute",
+    "vi": "cây sáo",
+    "phonetic": "/fluːt/",
+    "example": "She plays the flute."
+  },
+  {
+    "index": 559,
+    "label": "folding chair",
+    "en": "folding chair",
+    "vi": "ghế gấp",
+    "phonetic": "/ˈfəʊl.dɪŋ tʃeər/",
+    "example": "We brought a folding chair to the park."
+  },
+  {
+    "index": 560,
+    "label": "football helmet",
+    "en": "football helmet",
+    "vi": "mũ bóng bầu dục",
+    "phonetic": "/ˈfʊt.bɔːl ˈhel.mɪt/",
+    "example": "The player wears a football helmet."
+  },
+  {
+    "index": 561,
+    "label": "forklift",
+    "en": "forklift",
+    "vi": "xe nâng",
+    "phonetic": "/ˈfɔːk.lɪft/",
+    "example": "The forklift moves boxes."
+  },
+  {
+    "index": 562,
+    "label": "fountain",
+    "en": "fountain",
+    "vi": "đài phun nước",
+    "phonetic": "/ˈfaʊn.tɪn/",
+    "example": "Water sprays from the fountain."
+  },
+  {
+    "index": 563,
+    "label": "fountain pen",
+    "en": "fountain pen",
+    "vi": "bút máy",
+    "phonetic": "/ˈfaʊn.tɪn pen/",
+    "example": "He writes with a fountain pen."
+  },
+  {
+    "index": 564,
+    "label": "four-poster",
+    "en": "four-poster bed",
+    "vi": "giường bốn cọc",
+    "phonetic": "/ˌfɔː ˈpəʊ.stə bed/",
+    "example": "The four-poster bed is old."
+  },
+  {
+    "index": 565,
+    "label": "freight car",
+    "en": "freight car",
+    "vi": "toa chở hàng",
+    "phonetic": "/freɪt kɑː/",
+    "example": "A freight car carries cargo."
+  },
+  {
+    "index": 566,
+    "label": "French horn",
+    "en": "French horn",
+    "vi": "kèn horn",
+    "phonetic": "/frentʃ hɔːn/",
+    "example": "He plays the French horn."
+  },
+  {
+    "index": 567,
+    "label": "frying pan",
+    "en": "frying pan",
+    "vi": "chảo rán",
+    "phonetic": "/ˈfraɪ.ɪŋ pæn/",
+    "example": "Cook the eggs in a frying pan."
+  },
+  {
+    "index": 568,
+    "label": "fur coat",
+    "en": "fur coat",
+    "vi": "áo khoác lông thú",
+    "phonetic": "/fɜː kəʊt/",
+    "example": "She wore a fur coat."
+  },
+  {
+    "index": 569,
+    "label": "garbage truck",
+    "en": "garbage truck",
+    "vi": "xe chở rác",
+    "phonetic": "/ˈɡɑː.bɪdʒ trʌk/",
+    "example": "The garbage truck comes on Monday."
+  },
+  {
+    "index": 570,
+    "label": "gasmask",
+    "en": "gas mask",
+    "vi": "mặt nạ phòng độc",
+    "phonetic": "/ˈɡæs mɑːsk/",
+    "example": "He put on a gas mask."
+  },
+  {
+    "index": 571,
+    "label": "gas pump",
+    "en": "gas pump",
+    "vi": "cột bơm xăng",
+    "phonetic": "/ɡæs pʌmp/",
+    "example": "Fill up at the gas pump."
+  },
+  {
+    "index": 572,
+    "label": "goblet",
+    "en": "goblet",
+    "vi": "ly chân cao",
+    "phonetic": "/ˈɡɒb.lət/",
+    "example": "He raised the goblet."
+  },
+  {
+    "index": 573,
+    "label": "go-kart",
+    "en": "go-kart",
+    "vi": "xe go-kart",
+    "phonetic": "/ˈɡəʊ.kɑːt/",
+    "example": "The kids race go-karts."
+  },
+  {
+    "index": 574,
+    "label": "golf ball",
+    "en": "golf ball",
+    "vi": "bóng golf",
+    "phonetic": "/ˈɡɒlf bɔːl/",
+    "example": "He hit the golf ball."
+  },
+  {
+    "index": 575,
+    "label": "golfcart",
+    "en": "golf cart",
+    "vi": "xe golf",
+    "phonetic": "/ˈɡɒlf kɑːt/",
+    "example": "We drove the golf cart."
+  },
+  {
+    "index": 576,
+    "label": "gondola",
+    "en": "gondola",
+    "vi": "thuyền gondola",
+    "phonetic": "/ˈɡɒn.də.lə/",
+    "example": "We rode a gondola in Venice."
+  },
+  {
+    "index": 577,
+    "label": "gong",
+    "en": "gong",
+    "vi": "cái chiêng",
+    "phonetic": "/ɡɒŋ/",
+    "example": "He struck the gong."
+  },
+  {
+    "index": 578,
+    "label": "gown",
+    "en": "gown",
+    "vi": "áo choàng dài",
+    "phonetic": "/ɡaʊn/",
+    "example": "She wore a long gown."
+  },
+  {
+    "index": 579,
+    "label": "grand piano",
+    "en": "grand piano",
+    "vi": "đàn piano cánh",
+    "phonetic": "/ˌɡrænd piˈæn.əʊ/",
+    "example": "She plays the grand piano."
+  },
+  {
+    "index": 580,
+    "label": "greenhouse",
+    "en": "greenhouse",
+    "vi": "nhà kính",
+    "phonetic": "/ˈɡriːn.haʊs/",
+    "example": "Tomatoes grow in the greenhouse."
+  },
+  {
+    "index": 581,
+    "label": "grille",
+    "en": "radiator grille",
+    "vi": "lưới tản nhiệt",
+    "phonetic": "/ˈreɪ.di.eɪ.tə ɡrɪl/",
+    "example": "The car has a chrome grille."
+  },
+  {
+    "index": 582,
+    "label": "grocery store",
+    "en": "grocery store",
+    "vi": "cửa hàng tạp hóa",
+    "phonetic": "/ˈɡrəʊ.sər.i stɔː/",
+    "example": "I went to the grocery store."
+  },
+  {
+    "index": 583,
+    "label": "guillotine",
+    "en": "guillotine",
+    "vi": "máy chém",
+    "phonetic": "/ˈɡɪl.ə.tiːn/",
+    "example": "The guillotine is in the museum."
+  },
+  {
+    "index": 584,
+    "label": "hair slide",
+    "en": "hair clip",
+    "vi": "kẹp tóc",
+    "phonetic": "/heə klɪp/",
+    "example": "She wore a hair clip."
+  },
+  {
+    "index": 585,
+    "label": "hair spray",
+    "en": "hair spray",
+    "vi": "keo xịt tóc",
+    "phonetic": "/heə spreɪ/",
+    "example": "She used hair spray."
+  },
+  {
+    "index": 586,
+    "label": "half track",
+    "en": "half-track",
+    "vi": "xe bán xích",
+    "phonetic": "/ˈhɑːf træk/",
+    "example": "The half-track crossed the mud."
+  },
+  {
+    "index": 587,
+    "label": "hammer",
+    "en": "hammer",
+    "vi": "cái búa",
+    "phonetic": "/ˈhæm.ər/",
+    "example": "He hit the nail with a hammer."
+  },
+  {
+    "index": 588,
+    "label": "hamper",
+    "en": "laundry basket",
+    "vi": "giỏ đựng đồ giặt",
+    "phonetic": "/ˈlɔːn.dri ˈbɑː.skɪt/",
+    "example": "Put dirty clothes in the laundry basket."
+  },
+  {
+    "index": 589,
+    "label": "hand blower",
+    "en": "hand dryer",
+    "vi": "máy sấy tay",
+    "phonetic": "/hænd ˈdraɪ.ər/",
+    "example": "Use the hand dryer."
+  },
+  {
+    "index": 590,
+    "label": "hand-held computer",
+    "en": "handheld computer",
+    "vi": "máy tính cầm tay",
+    "phonetic": "/ˌhændˈheld kəmˈpjuː.tər/",
+    "example": "He used a handheld computer."
+  },
+  {
+    "index": 591,
+    "label": "handkerchief",
+    "en": "handkerchief",
+    "vi": "khăn tay",
+    "phonetic": "/ˈhæŋ.kə.tʃɪf/",
+    "example": "She wiped her face with a handkerchief."
+  },
+  {
+    "index": 592,
+    "label": "hard disc",
+    "en": "hard drive",
+    "vi": "ổ cứng",
+    "phonetic": "/hɑːd draɪv/",
+    "example": "My hard drive is full."
+  },
+  {
+    "index": 593,
+    "label": "harmonica",
+    "en": "harmonica",
+    "vi": "kèn harmonica",
+    "phonetic": "/hɑːˈmɒn.ɪ.kə/",
+    "example": "He plays the harmonica."
+  },
+  {
+    "index": 594,
+    "label": "harp",
+    "en": "harp",
+    "vi": "đàn hạc",
+    "phonetic": "/hɑːp/",
+    "example": "She plays the harp."
+  },
+  {
+    "index": 595,
+    "label": "harvester",
+    "en": "harvester",
+    "vi": "máy gặt",
+    "phonetic": "/ˈhɑː.vɪ.stər/",
+    "example": "The harvester cuts the wheat."
+  },
+  {
+    "index": 596,
+    "label": "hatchet",
+    "en": "hatchet",
+    "vi": "rìu nhỏ",
+    "phonetic": "/ˈhætʃ.ɪt/",
+    "example": "He chopped wood with a hatchet."
+  },
+  {
+    "index": 597,
+    "label": "holster",
+    "en": "holster",
+    "vi": "bao súng",
+    "phonetic": "/ˈhəʊl.stər/",
+    "example": "The gun is in the holster."
+  },
+  {
+    "index": 598,
+    "label": "home theater",
+    "en": "home theater",
+    "vi": "rạp hát tại gia",
+    "phonetic": "/həʊm ˈθɪə.tər/",
+    "example": "We watched a movie in the home theater."
+  },
+  {
+    "index": 599,
+    "label": "honeycomb",
+    "en": "honeycomb",
+    "vi": "tổ ong",
+    "phonetic": "/ˈhʌn.i.kəʊm/",
+    "example": "The honeycomb is full of honey."
+  },
+  {
+    "index": 600,
+    "label": "hook",
+    "en": "hook",
+    "vi": "cái móc",
+    "phonetic": "/hʊk/",
+    "example": "Hang your coat on the hook."
+  },
+  {
+    "index": 601,
+    "label": "hoopskirt",
+    "en": "hoopskirt",
+    "vi": "váy phồng",
+    "phonetic": "/ˈhuːp.skɜːt/",
+    "example": "She wore a hoopskirt."
+  },
+  {
+    "index": 602,
+    "label": "horizontal bar",
+    "en": "horizontal bar",
+    "vi": "xà đơn",
+    "phonetic": "/ˌhɒr.ɪˈzɒn.təl bɑː/",
+    "example": "He swings on the horizontal bar."
+  },
+  {
+    "index": 603,
+    "label": "horse cart",
+    "en": "horse cart",
+    "vi": "xe ngựa",
+    "phonetic": "/hɔːs kɑːt/",
+    "example": "A horse cart rolled by."
+  },
+  {
+    "index": 604,
+    "label": "hourglass",
+    "en": "hourglass",
+    "vi": "đồng hồ cát",
+    "phonetic": "/ˈaʊə.ɡlɑːs/",
+    "example": "Sand falls in the hourglass."
+  },
+  {
+    "index": 605,
+    "label": "iPod",
+    "en": "iPod",
+    "vi": "máy nghe nhạc iPod",
+    "phonetic": "/ˈaɪ.pɒd/",
+    "example": "He listens to music on an iPod."
+  },
+  {
+    "index": 606,
+    "label": "iron",
+    "en": "iron",
+    "vi": "bàn ủi",
+    "phonetic": "/ˈaɪ.ən/",
+    "example": "Use the iron on your shirt."
+  },
+  {
+    "index": 607,
+    "label": "jack-o'-lantern",
+    "en": "jack-o'-lantern",
+    "vi": "đèn bí ngô",
+    "phonetic": "/ˌdʒæk.əˈlæn.tən/",
+    "example": "We carved a jack-o'-lantern."
+  },
+  {
+    "index": 608,
+    "label": "jean",
+    "en": "jeans",
+    "vi": "quần jean",
+    "phonetic": "/dʒiːnz/",
+    "example": "She wears blue jeans to school."
+  },
+  {
+    "index": 609,
+    "label": "jeep",
+    "en": "jeep",
+    "vi": "xe jeep",
+    "phonetic": "/dʒiːp/",
+    "example": "The jeep drove off-road."
+  },
+  {
+    "index": 610,
+    "label": "jersey",
+    "en": "jersey",
+    "vi": "áo thể thao",
+    "phonetic": "/ˈdʒɜː.zi/",
+    "example": "He wore a football jersey."
+  },
+  {
+    "index": 611,
+    "label": "jigsaw puzzle",
+    "en": "jigsaw puzzle",
+    "vi": "trò xếp hình",
+    "phonetic": "/ˈdʒɪɡ.sɔː ˈpʌz.əl/",
+    "example": "We finished the jigsaw puzzle."
+  },
+  {
+    "index": 612,
+    "label": "jinrikisha",
+    "en": "rickshaw",
+    "vi": "xe kéo tay",
+    "phonetic": "/ˈrɪk.ʃɔː/",
+    "example": "The rickshaw carried two people."
+  },
+  {
+    "index": 613,
+    "label": "joystick",
+    "en": "joystick",
+    "vi": "cần điều khiển",
+    "phonetic": "/ˈdʒɔɪ.stɪk/",
+    "example": "He moves the character with a joystick."
+  },
+  {
+    "index": 614,
+    "label": "kimono",
+    "en": "kimono",
+    "vi": "áo kimono",
+    "phonetic": "/kɪˈməʊ.nəʊ/",
+    "example": "She wore a silk kimono."
+  },
+  {
+    "index": 615,
+    "label": "knee pad",
+    "en": "knee pad",
+    "vi": "miếng đệm đầu gối",
+    "phonetic": "/niː pæd/",
+    "example": "Wear a knee pad."
+  },
+  {
+    "index": 616,
+    "label": "knot",
+    "en": "knot",
+    "vi": "nút thắt",
+    "phonetic": "/nɒt/",
+    "example": "Tie a knot in the rope."
+  },
+  {
+    "index": 617,
+    "label": "lab coat",
+    "en": "lab coat",
+    "vi": "áo blouse phòng thí nghiệm",
+    "phonetic": "/læb kəʊt/",
+    "example": "The scientist wears a lab coat."
+  },
+  {
+    "index": 618,
+    "label": "ladle",
+    "en": "ladle",
+    "vi": "cái muôi",
+    "phonetic": "/ˈleɪ.dəl/",
+    "example": "Serve soup with a ladle."
+  },
+  {
+    "index": 619,
+    "label": "lampshade",
+    "en": "lampshade",
+    "vi": "chụp đèn",
+    "phonetic": "/ˈlæmp.ʃeɪd/",
+    "example": "The lampshade is white."
+  },
+  {
+    "index": 620,
+    "label": "laptop",
+    "en": "laptop",
+    "vi": "máy tính xách tay",
+    "phonetic": "/ˈlæp.tɒp/",
+    "example": "She works on her laptop."
+  },
+  {
+    "index": 621,
+    "label": "lawn mower",
+    "en": "lawn mower",
+    "vi": "máy cắt cỏ",
+    "phonetic": "/lɔːn ˈməʊ.ər/",
+    "example": "He pushed the lawn mower."
+  },
+  {
+    "index": 622,
+    "label": "lens cap",
+    "en": "lens cap",
+    "vi": "nắp ống kính",
+    "phonetic": "/lenz kæp/",
+    "example": "Remove the lens cap."
+  },
+  {
+    "index": 623,
+    "label": "letter opener",
+    "en": "letter opener",
+    "vi": "dao rọc thư",
+    "phonetic": "/ˈlet.ər ˈəʊ.pən.ər/",
+    "example": "Open the mail with a letter opener."
+  },
+  {
+    "index": 624,
+    "label": "library",
+    "en": "library",
+    "vi": "thư viện",
+    "phonetic": "/ˈlaɪ.brər.i/",
+    "example": "I borrow books from the library."
+  },
+  {
+    "index": 625,
+    "label": "lifeboat",
+    "en": "lifeboat",
+    "vi": "xuồng cứu hộ",
+    "phonetic": "/ˈlaɪf.bəʊt/",
+    "example": "They got into the lifeboat."
+  },
+  {
+    "index": 626,
+    "label": "lighter",
+    "en": "lighter",
+    "vi": "bật lửa",
+    "phonetic": "/ˈlaɪ.tər/",
+    "example": "Use a lighter to light the candle."
+  },
+  {
+    "index": 627,
+    "label": "limousine",
+    "en": "limousine",
+    "vi": "xe limousine",
+    "phonetic": "/ˌlɪm.əˈziːn/",
+    "example": "A limousine waited outside."
+  },
+  {
+    "index": 628,
+    "label": "liner",
+    "en": "ocean liner",
+    "vi": "tàu biển chở khách",
+    "phonetic": "/ˈəʊ.ʃən ˈlaɪ.nər/",
+    "example": "The ocean liner left the port."
+  },
+  {
+    "index": 629,
+    "label": "lipstick",
+    "en": "lipstick",
+    "vi": "son môi",
+    "phonetic": "/ˈlɪp.stɪk/",
+    "example": "She put on red lipstick."
+  },
+  {
+    "index": 630,
+    "label": "Loafer",
+    "en": "loafer",
+    "vi": "giày lười",
+    "phonetic": "/ˈləʊ.fər/",
+    "example": "He wears brown loafers."
+  },
+  {
+    "index": 631,
+    "label": "lotion",
+    "en": "lotion",
+    "vi": "kem dưỡng da",
+    "phonetic": "/ˈləʊ.ʃən/",
+    "example": "Apply lotion to your hands."
+  },
+  {
+    "index": 632,
+    "label": "loudspeaker",
+    "en": "speaker",
+    "vi": "loa",
+    "phonetic": "/ˈspiː.kər/",
+    "example": "The speaker plays music loudly."
+  },
+  {
+    "index": 633,
+    "label": "loupe",
+    "en": "magnifying glass",
+    "vi": "kính lúp",
+    "phonetic": "/ˈmæɡ.nɪ.faɪ.ɪŋ ɡlɑːs/",
+    "example": "Look through the magnifying glass."
+  },
+  {
+    "index": 634,
+    "label": "lumbermill",
+    "en": "sawmill",
+    "vi": "xưởng cưa",
+    "phonetic": "/ˈsɔː.mɪl/",
+    "example": "Logs go to the sawmill."
+  },
+  {
+    "index": 635,
+    "label": "magnetic compass",
+    "en": "compass",
+    "vi": "la bàn",
+    "phonetic": "/ˈkʌm.pəs/",
+    "example": "The compass points north."
+  },
+  {
+    "index": 636,
+    "label": "mailbag",
+    "en": "mailbag",
+    "vi": "túi thư",
+    "phonetic": "/ˈmeɪl.bæɡ/",
+    "example": "The mailman carries a mailbag."
+  },
+  {
+    "index": 637,
+    "label": "mailbox",
+    "en": "mailbox",
+    "vi": "hộp thư",
+    "phonetic": "/ˈmeɪl.bɒks/",
+    "example": "Check the mailbox."
+  },
+  {
+    "index": 638,
+    "label": "maillot",
+    "en": "swimsuit (one-piece)",
+    "vi": "đồ bơi một mảnh",
+    "phonetic": "/ˈswɪm.suːt/",
+    "example": "She wore a one-piece swimsuit."
+  },
+  {
+    "index": 639,
+    "label": "maillot",
+    "en": "tank suit",
+    "vi": "áo bơi liền thân",
+    "phonetic": "/tæŋk suːt/",
+    "example": "The swimmer wore a tank suit."
+  },
+  {
+    "index": 640,
+    "label": "manhole cover",
+    "en": "manhole cover",
+    "vi": "nắp cống",
+    "phonetic": "/ˈmæn.həʊl ˈkʌv.ər/",
+    "example": "Don't step on the manhole cover."
+  },
+  {
+    "index": 641,
+    "label": "maraca",
+    "en": "maraca",
+    "vi": "nhạc cụ maracas",
+    "phonetic": "/məˈræk.ə/",
+    "example": "He shakes the maraca."
+  },
+  {
+    "index": 642,
+    "label": "marimba",
+    "en": "marimba",
+    "vi": "đàn marimba",
+    "phonetic": "/məˈrɪm.bə/",
+    "example": "She plays the marimba."
+  },
+  {
+    "index": 643,
+    "label": "mask",
+    "en": "mask",
+    "vi": "mặt nạ",
+    "phonetic": "/mɑːsk/",
+    "example": "He wore a mask at the party."
+  },
+  {
+    "index": 644,
+    "label": "matchstick",
+    "en": "matchstick",
+    "vi": "que diêm",
+    "phonetic": "/ˈmætʃ.stɪk/",
+    "example": "Strike the matchstick."
+  },
+  {
+    "index": 645,
+    "label": "maypole",
+    "en": "maypole",
+    "vi": "cột hoa tháng Năm",
+    "phonetic": "/ˈmeɪ.pəʊl/",
+    "example": "Kids dance around the maypole."
+  },
+  {
+    "index": 646,
+    "label": "maze",
+    "en": "maze",
+    "vi": "mê cung",
+    "phonetic": "/meɪz/",
+    "example": "We got lost in the maze."
+  },
+  {
+    "index": 647,
+    "label": "measuring cup",
+    "en": "measuring cup",
+    "vi": "cốc đong",
+    "phonetic": "/ˈmeʒ.ər.ɪŋ kʌp/",
+    "example": "Use a measuring cup for flour."
+  },
+  {
+    "index": 648,
+    "label": "medicine chest",
+    "en": "medicine cabinet",
+    "vi": "tủ thuốc",
+    "phonetic": "/ˈmed.ɪ.sən ˈkæb.ɪ.nət/",
+    "example": "Pills are in the medicine cabinet."
+  },
+  {
+    "index": 649,
+    "label": "megalith",
+    "en": "megalith",
+    "vi": "đá cổ khổng lồ",
+    "phonetic": "/ˈmeɡ.ə.lɪθ/",
+    "example": "Stonehenge is a megalith."
+  },
+  {
+    "index": 650,
+    "label": "microphone",
+    "en": "microphone",
+    "vi": "micro",
+    "phonetic": "/ˈmaɪ.krə.fəʊn/",
+    "example": "The singer holds a microphone."
+  },
+  {
+    "index": 651,
+    "label": "microwave",
+    "en": "microwave",
+    "vi": "lò vi sóng",
+    "phonetic": "/ˈmaɪ.krə.weɪv/",
+    "example": "Heat it in the microwave."
+  },
+  {
+    "index": 652,
+    "label": "military uniform",
+    "en": "military uniform",
+    "vi": "quân phục",
+    "phonetic": "/ˈmɪl.ɪ.tri ˈjuː.nɪ.fɔːm/",
+    "example": "He wore a military uniform."
+  },
+  {
+    "index": 653,
+    "label": "milk can",
+    "en": "milk can",
+    "vi": "bình sữa",
+    "phonetic": "/mɪlk kæn/",
+    "example": "The farmer has a milk can."
+  },
+  {
+    "index": 654,
+    "label": "minibus",
+    "en": "minibus",
+    "vi": "xe buýt nhỏ",
+    "phonetic": "/ˈmɪn.i.bʌs/",
+    "example": "We took a minibus."
+  },
+  {
+    "index": 655,
+    "label": "miniskirt",
+    "en": "miniskirt",
+    "vi": "váy ngắn",
+    "phonetic": "/ˈmɪn.i.skɜːt/",
+    "example": "She wore a miniskirt."
+  },
+  {
+    "index": 656,
+    "label": "minivan",
+    "en": "minivan",
+    "vi": "xe minivan",
+    "phonetic": "/ˈmɪn.i.væn/",
+    "example": "The family drives a minivan."
+  },
+  {
+    "index": 657,
+    "label": "missile",
+    "en": "missile",
+    "vi": "tên lửa",
+    "phonetic": "/ˈmɪs.aɪl/",
+    "example": "The missile was launched."
+  },
+  {
+    "index": 658,
+    "label": "mitten",
+    "en": "mitten",
+    "vi": "găng tay hở ngón",
+    "phonetic": "/ˈmɪt.ən/",
+    "example": "Wear mittens in winter."
+  },
+  {
+    "index": 659,
+    "label": "mixing bowl",
+    "en": "mixing bowl",
+    "vi": "tô trộn bột",
+    "phonetic": "/ˈmɪk.sɪŋ bəʊl/",
+    "example": "Mix eggs in the mixing bowl."
+  },
+  {
+    "index": 660,
+    "label": "mobile home",
+    "en": "mobile home",
+    "vi": "nhà di động",
+    "phonetic": "/ˌməʊ.baɪl ˈhəʊm/",
+    "example": "They live in a mobile home."
+  },
+  {
+    "index": 661,
+    "label": "Model T",
+    "en": "Model T",
+    "vi": "xe Ford Model T",
+    "phonetic": "/ˈmɒd.əl tiː/",
+    "example": "The Model T is a classic car."
+  },
+  {
+    "index": 662,
+    "label": "modem",
+    "en": "modem",
+    "vi": "modem",
+    "phonetic": "/ˈməʊ.dem/",
+    "example": "Restart the modem."
+  },
+  {
+    "index": 663,
+    "label": "monastery",
+    "en": "monastery",
+    "vi": "tu viện",
+    "phonetic": "/ˈmɒn.ə.stri/",
+    "example": "Monks live in the monastery."
+  },
+  {
+    "index": 664,
+    "label": "monitor",
+    "en": "monitor",
+    "vi": "màn hình máy tính",
+    "phonetic": "/ˈmɒn.ɪ.tər/",
+    "example": "I need a bigger monitor."
+  },
+  {
+    "index": 665,
+    "label": "moped",
+    "en": "moped",
+    "vi": "xe gắn máy",
+    "phonetic": "/ˈməʊ.ped/",
+    "example": "He rides a moped."
+  },
+  {
+    "index": 666,
+    "label": "mortar",
+    "en": "mortar",
+    "vi": "cối giã",
+    "phonetic": "/ˈmɔː.tər/",
+    "example": "Grind the spices in a mortar."
+  },
+  {
+    "index": 667,
+    "label": "mortarboard",
+    "en": "mortarboard",
+    "vi": "mũ tốt nghiệp",
+    "phonetic": "/ˈmɔː.tə.bɔːd/",
+    "example": "She wore a mortarboard."
+  },
+  {
+    "index": 668,
+    "label": "mosque",
+    "en": "mosque",
+    "vi": "nhà thờ Hồi giáo",
+    "phonetic": "/mɒsk/",
+    "example": "They pray at the mosque."
+  },
+  {
+    "index": 669,
+    "label": "mosquito net",
+    "en": "mosquito net",
+    "vi": "màn chống muỗi",
+    "phonetic": "/mɒˈskiː.təʊ net/",
+    "example": "Sleep under a mosquito net."
+  },
+  {
+    "index": 670,
+    "label": "motor scooter",
+    "en": "scooter",
+    "vi": "xe tay ga",
+    "phonetic": "/ˈskuː.tər/",
+    "example": "He rides a scooter to work."
+  },
+  {
+    "index": 671,
+    "label": "mountain bike",
+    "en": "mountain bike",
+    "vi": "xe đạp địa hình",
+    "phonetic": "/ˈmaʊn.tɪn baɪk/",
+    "example": "She rides a mountain bike."
+  },
+  {
+    "index": 672,
+    "label": "mountain tent",
+    "en": "mountain tent",
+    "vi": "lều leo núi",
+    "phonetic": "/ˈmaʊn.tɪn tent/",
+    "example": "We slept in a mountain tent."
+  },
+  {
+    "index": 673,
+    "label": "mouse",
+    "en": "computer mouse",
+    "vi": "chuột máy tính",
+    "phonetic": "/kəmˈpjuː.tə maʊs/",
+    "example": "Click the button on the mouse."
+  },
+  {
+    "index": 674,
+    "label": "mousetrap",
+    "en": "mousetrap",
+    "vi": "bẫy chuột",
+    "phonetic": "/ˈmaʊs.træp/",
+    "example": "Set the mousetrap."
+  },
+  {
+    "index": 675,
+    "label": "moving van",
+    "en": "moving van",
+    "vi": "xe chuyển nhà",
+    "phonetic": "/ˈmuː.vɪŋ væn/",
+    "example": "The moving van is outside."
+  },
+  {
+    "index": 676,
+    "label": "muzzle",
+    "en": "muzzle",
+    "vi": "rọ mõm",
+    "phonetic": "/ˈmʌz.əl/",
+    "example": "The dog wears a muzzle."
+  },
+  {
+    "index": 677,
+    "label": "nail",
+    "en": "nail",
+    "vi": "cái đinh",
+    "phonetic": "/neɪl/",
+    "example": "Hit the nail with a hammer."
+  },
+  {
+    "index": 678,
+    "label": "neck brace",
+    "en": "neck brace",
+    "vi": "nẹp cổ",
+    "phonetic": "/nek breɪs/",
+    "example": "He wore a neck brace."
+  },
+  {
+    "index": 679,
+    "label": "necklace",
+    "en": "necklace",
+    "vi": "dây chuyền",
+    "phonetic": "/ˈnek.ləs/",
+    "example": "She wore a pearl necklace."
+  },
+  {
+    "index": 680,
+    "label": "nipple",
+    "en": "baby bottle nipple",
+    "vi": "núm vú bình sữa",
+    "phonetic": "/ˈbeɪ.bi ˈbɒt.əl ˈnɪp.əl/",
+    "example": "The baby bottle nipple is clean."
+  },
+  {
+    "index": 681,
+    "label": "notebook",
+    "en": "laptop",
+    "vi": "máy tính xách tay",
+    "phonetic": "/ˈlæp.tɒp/",
+    "example": "She works on her laptop."
+  },
+  {
+    "index": 682,
+    "label": "obelisk",
+    "en": "obelisk",
+    "vi": "tháp obelisk",
+    "phonetic": "/ˈɒb.ə.lɪsk/",
+    "example": "An obelisk stands in the square."
+  },
+  {
+    "index": 683,
+    "label": "oboe",
+    "en": "oboe",
+    "vi": "kèn oboe",
+    "phonetic": "/ˈəʊ.bəʊ/",
+    "example": "She plays the oboe."
+  },
+  {
+    "index": 684,
+    "label": "ocarina",
+    "en": "ocarina",
+    "vi": "kèn ocarina",
+    "phonetic": "/ˌɒk.əˈriː.nə/",
+    "example": "He plays the ocarina."
+  },
+  {
+    "index": 685,
+    "label": "odometer",
+    "en": "odometer",
+    "vi": "đồng hồ đo quãng đường",
+    "phonetic": "/əʊˈdɒm.ɪ.tər/",
+    "example": "The odometer shows 50,000 km."
+  },
+  {
+    "index": 686,
+    "label": "oil filter",
+    "en": "oil filter",
+    "vi": "lọc dầu",
+    "phonetic": "/ɔɪl ˈfɪl.tər/",
+    "example": "Change the oil filter."
+  },
+  {
+    "index": 687,
+    "label": "organ",
+    "en": "organ",
+    "vi": "đàn organ",
+    "phonetic": "/ˈɔː.ɡən/",
+    "example": "He plays the church organ."
+  },
+  {
+    "index": 688,
+    "label": "oscilloscope",
+    "en": "oscilloscope",
+    "vi": "máy hiện sóng",
+    "phonetic": "/əˈsɪl.ə.skəʊp/",
+    "example": "Check the signal on the oscilloscope."
+  },
+  {
+    "index": 689,
+    "label": "overskirt",
+    "en": "overskirt",
+    "vi": "váy ngoài",
+    "phonetic": "/ˈəʊ.və.skɜːt/",
+    "example": "She wore an overskirt."
+  },
+  {
+    "index": 690,
+    "label": "oxcart",
+    "en": "oxcart",
+    "vi": "xe bò",
+    "phonetic": "/ˈɒks.kɑːt/",
+    "example": "An oxcart moved slowly."
+  },
+  {
+    "index": 691,
+    "label": "oxygen mask",
+    "en": "oxygen mask",
+    "vi": "mặt nạ oxy",
+    "phonetic": "/ˈɒk.sɪ.dʒən mɑːsk/",
+    "example": "Put on the oxygen mask."
+  },
+  {
+    "index": 692,
+    "label": "packet",
+    "en": "packet",
+    "vi": "gói nhỏ",
+    "phonetic": "/ˈpæk.ɪt/",
+    "example": "Open the packet of chips."
+  },
+  {
+    "index": 693,
+    "label": "paddle",
+    "en": "paddle",
+    "vi": "mái chèo",
+    "phonetic": "/ˈpæd.əl/",
+    "example": "Use the paddle to row."
+  },
+  {
+    "index": 694,
+    "label": "paddlewheel",
+    "en": "paddle wheel",
+    "vi": "bánh guồng nước",
+    "phonetic": "/ˈpæd.əl wiːl/",
+    "example": "The boat has a paddle wheel."
+  },
+  {
+    "index": 695,
+    "label": "padlock",
+    "en": "padlock",
+    "vi": "ổ khóa",
+    "phonetic": "/ˈpæd.lɒk/",
+    "example": "Lock it with a padlock."
+  },
+  {
+    "index": 696,
+    "label": "paintbrush",
+    "en": "paintbrush",
+    "vi": "cọ vẽ",
+    "phonetic": "/ˈpeɪnt.brʌʃ/",
+    "example": "She holds a paintbrush."
+  },
+  {
+    "index": 697,
+    "label": "pajama",
+    "en": "pajamas",
+    "vi": "đồ ngủ",
+    "phonetic": "/pəˈdʒɑː.məz/",
+    "example": "He sleeps in pajamas."
+  },
+  {
+    "index": 698,
+    "label": "palace",
+    "en": "palace",
+    "vi": "cung điện",
+    "phonetic": "/ˈpæl.ɪs/",
+    "example": "The king lives in the palace."
+  },
+  {
+    "index": 699,
+    "label": "panpipe",
+    "en": "panpipes",
+    "vi": "sáo bẹt",
+    "phonetic": "/ˈpæn.paɪps/",
+    "example": "He plays the panpipes."
+  },
+  {
+    "index": 700,
+    "label": "paper towel",
+    "en": "paper towel",
+    "vi": "khăn giấy",
+    "phonetic": "/ˈpeɪ.pə ˈtaʊ.əl/",
+    "example": "Wipe it with a paper towel."
+  },
+  {
+    "index": 701,
+    "label": "parachute",
+    "en": "parachute",
+    "vi": "dù",
+    "phonetic": "/ˈpær.ə.ʃuːt/",
+    "example": "He jumped with a parachute."
+  },
+  {
+    "index": 702,
+    "label": "parallel bars",
+    "en": "parallel bars",
+    "vi": "xà kép",
+    "phonetic": "/ˈpær.ə.lel bɑːz/",
+    "example": "He trains on the parallel bars."
+  },
+  {
+    "index": 703,
+    "label": "park bench",
+    "en": "bench",
+    "vi": "ghế đá công viên",
+    "phonetic": "/bentʃ/",
+    "example": "They sit on a bench in the park."
+  },
+  {
+    "index": 704,
+    "label": "parking meter",
+    "en": "parking meter",
+    "vi": "đồng hồ đỗ xe",
+    "phonetic": "/ˈpɑː.kɪŋ ˈmiː.tər/",
+    "example": "Pay at the parking meter."
+  },
+  {
+    "index": 705,
+    "label": "passenger car",
+    "en": "passenger car",
+    "vi": "toa hành khách",
+    "phonetic": "/ˈpæs.ɪn.dʒə kɑː/",
+    "example": "Sit in the passenger car."
+  },
+  {
+    "index": 706,
+    "label": "patio",
+    "en": "patio",
+    "vi": "sân hiên",
+    "phonetic": "/ˈpæt.i.əʊ/",
+    "example": "We eat on the patio."
+  },
+  {
+    "index": 707,
+    "label": "pay-phone",
+    "en": "payphone",
+    "vi": "điện thoại công cộng",
+    "phonetic": "/ˈpeɪ.fəʊn/",
+    "example": "There is a payphone on the corner."
+  },
+  {
+    "index": 708,
+    "label": "pedestal",
+    "en": "pedestal",
+    "vi": "bệ đỡ",
+    "phonetic": "/ˈped.ɪ.stəl/",
+    "example": "The statue is on a pedestal."
+  },
+  {
+    "index": 709,
+    "label": "pencil box",
+    "en": "pencil case",
+    "vi": "hộp bút",
+    "phonetic": "/ˈpen.səl keɪs/",
+    "example": "My pencils are in the pencil case."
+  },
+  {
+    "index": 710,
+    "label": "pencil sharpener",
+    "en": "pencil sharpener",
+    "vi": "gọt bút chì",
+    "phonetic": "/ˈpen.səl ˈʃɑː.pən.ər/",
+    "example": "Use a pencil sharpener."
+  },
+  {
+    "index": 711,
+    "label": "perfume",
+    "en": "perfume",
+    "vi": "nước hoa",
+    "phonetic": "/ˈpɜː.fjuːm/",
+    "example": "She wears sweet perfume."
+  },
+  {
+    "index": 712,
+    "label": "Petri dish",
+    "en": "Petri dish",
+    "vi": "đĩa Petri",
+    "phonetic": "/ˈpiː.tri dɪʃ/",
+    "example": "Bacteria grow in the Petri dish."
+  },
+  {
+    "index": 713,
+    "label": "photocopier",
+    "en": "photocopier",
+    "vi": "máy photocopy",
+    "phonetic": "/ˈfəʊ.təʊˌkɒp.i.ər/",
+    "example": "Use the photocopier."
+  },
+  {
+    "index": 714,
+    "label": "pick",
+    "en": "guitar pick",
+    "vi": "miếng gảy đàn",
+    "phonetic": "/ˈɡɪˈtɑː pɪk/",
+    "example": "He holds a guitar pick."
+  },
+  {
+    "index": 715,
+    "label": "pickelhaube",
+    "en": "pickelhaube",
+    "vi": "mũ sắt Đức cổ",
+    "phonetic": "/ˈpɪk.əl.haʊ.bə/",
+    "example": "The pickelhaube has a spike."
+  },
+  {
+    "index": 716,
+    "label": "picket fence",
+    "en": "picket fence",
+    "vi": "hàng rào cọc",
+    "phonetic": "/ˈpɪk.ɪt fens/",
+    "example": "A white picket fence surrounds the house."
+  },
+  {
+    "index": 717,
+    "label": "pickup",
+    "en": "pickup truck",
+    "vi": "xe bán tải",
+    "phonetic": "/ˈpɪk.ʌp trʌk/",
+    "example": "He drives a pickup truck."
+  },
+  {
+    "index": 718,
+    "label": "pier",
+    "en": "pier",
+    "vi": "bến tàu nhô ra biển",
+    "phonetic": "/pɪər/",
+    "example": "We walked along the pier."
+  },
+  {
+    "index": 719,
+    "label": "piggy bank",
+    "en": "piggy bank",
+    "vi": "con heo đất",
+    "phonetic": "/ˈpɪɡ.i bæŋk/",
+    "example": "Put coins in the piggy bank."
+  },
+  {
+    "index": 720,
+    "label": "pill bottle",
+    "en": "pill bottle",
+    "vi": "lọ thuốc",
+    "phonetic": "/pɪl ˈbɒt.əl/",
+    "example": "Take the pill bottle."
+  },
+  {
+    "index": 721,
+    "label": "pillow",
+    "en": "pillow",
+    "vi": "cái gối",
+    "phonetic": "/ˈpɪl.əʊ/",
+    "example": "I sleep with a soft pillow."
+  },
+  {
+    "index": 722,
+    "label": "ping-pong ball",
+    "en": "ping-pong ball",
+    "vi": "bóng bàn",
+    "phonetic": "/ˈpɪŋ.pɒŋ bɔːl/",
+    "example": "The ping-pong ball is white."
+  },
+  {
+    "index": 723,
+    "label": "pinwheel",
+    "en": "pinwheel",
+    "vi": "chong chóng",
+    "phonetic": "/ˈpɪn.wiːl/",
+    "example": "The pinwheel spins in the wind."
+  },
+  {
+    "index": 724,
+    "label": "pirate",
+    "en": "pirate ship",
+    "vi": "tàu cướp biển",
+    "phonetic": "/ˈpaɪ.rət ʃɪp/",
+    "example": "The pirate ship sailed away."
+  },
+  {
+    "index": 725,
+    "label": "pitcher",
+    "en": "pitcher",
+    "vi": "bình rót",
+    "phonetic": "/ˈpɪtʃ.ər/",
+    "example": "Pour water from the pitcher."
+  },
+  {
+    "index": 726,
+    "label": "plane",
+    "en": "hand plane",
+    "vi": "bào gỗ",
+    "phonetic": "/hænd pleɪn/",
+    "example": "He smoothed the wood with a plane."
+  },
+  {
+    "index": 727,
+    "label": "planetarium",
+    "en": "planetarium",
+    "vi": "cung thiên văn",
+    "phonetic": "/ˌplæn.ɪˈteə.ri.əm/",
+    "example": "We visited the planetarium."
+  },
+  {
+    "index": 728,
+    "label": "plastic bag",
+    "en": "plastic bag",
+    "vi": "túi nhựa",
+    "phonetic": "/ˈplæs.tɪk bæɡ/",
+    "example": "Put it in a plastic bag."
+  },
+  {
+    "index": 729,
+    "label": "plate rack",
+    "en": "dish rack",
+    "vi": "giá úp chén",
+    "phonetic": "/dɪʃ ræk/",
+    "example": "Plates dry in the dish rack."
+  },
+  {
+    "index": 730,
+    "label": "plow",
+    "en": "plow",
+    "vi": "cái cày",
+    "phonetic": "/plaʊ/",
+    "example": "The farmer pulled the plow."
+  },
+  {
+    "index": 731,
+    "label": "plunger",
+    "en": "plunger",
+    "vi": "cây thông cống",
+    "phonetic": "/ˈplʌn.dʒər/",
+    "example": "Use a plunger on the sink."
+  },
+  {
+    "index": 732,
+    "label": "Polaroid camera",
+    "en": "Polaroid camera",
+    "vi": "máy ảnh lấy liền",
+    "phonetic": "/ˈpəʊ.lə.rɔɪd ˈkæm.rə/",
+    "example": "The Polaroid camera prints photos."
+  },
+  {
+    "index": 733,
+    "label": "pole",
+    "en": "pole",
+    "vi": "cây cột",
+    "phonetic": "/pəʊl/",
+    "example": "A flag is on the pole."
+  },
+  {
+    "index": 734,
+    "label": "police van",
+    "en": "police van",
+    "vi": "xe cảnh sát",
+    "phonetic": "/pəˈliːs væn/",
+    "example": "The police van stopped."
+  },
+  {
+    "index": 735,
+    "label": "poncho",
+    "en": "poncho",
+    "vi": "áo poncho",
+    "phonetic": "/ˈpɒn.tʃəʊ/",
+    "example": "He wore a rain poncho."
+  },
+  {
+    "index": 736,
+    "label": "pool table",
+    "en": "pool table",
+    "vi": "bàn bi-a",
+    "phonetic": "/puːl ˈteɪ.bəl/",
+    "example": "They play on the pool table."
+  },
+  {
+    "index": 737,
+    "label": "pop bottle",
+    "en": "soda bottle",
+    "vi": "chai nước ngọt",
+    "phonetic": "/ˈsəʊ.də ˈbɒt.əl/",
+    "example": "The soda bottle is cold."
+  },
+  {
+    "index": 738,
+    "label": "pot",
+    "en": "flowerpot",
+    "vi": "chậu hoa",
+    "phonetic": "/ˈflaʊ.ə.pɒt/",
+    "example": "The plant is in a flowerpot."
+  },
+  {
+    "index": 739,
+    "label": "potter's wheel",
+    "en": "potter's wheel",
+    "vi": "bàn xoay làm gốm",
+    "phonetic": "/ˈpɒt.əz wiːl/",
+    "example": "He shapes clay on a potter's wheel."
+  },
+  {
+    "index": 740,
+    "label": "power drill",
+    "en": "power drill",
+    "vi": "máy khoan",
+    "phonetic": "/ˈpaʊə drɪl/",
+    "example": "Use a power drill."
+  },
+  {
+    "index": 741,
+    "label": "prayer rug",
+    "en": "prayer rug",
+    "vi": "thảm cầu nguyện",
+    "phonetic": "/preə rʌɡ/",
+    "example": "He knelt on the prayer rug."
+  },
+  {
+    "index": 742,
+    "label": "printer",
+    "en": "printer",
+    "vi": "máy in",
+    "phonetic": "/ˈprɪn.tər/",
+    "example": "The printer is out of paper."
+  },
+  {
+    "index": 743,
+    "label": "prison",
+    "en": "prison",
+    "vi": "nhà tù",
+    "phonetic": "/ˈprɪz.ən/",
+    "example": "He is in prison."
+  },
+  {
+    "index": 744,
+    "label": "projectile",
+    "en": "projectile",
+    "vi": "đạn",
+    "phonetic": "/prəˈdʒek.taɪl/",
+    "example": "The projectile flew far."
+  },
+  {
+    "index": 745,
+    "label": "projector",
+    "en": "projector",
+    "vi": "máy chiếu",
+    "phonetic": "/prəˈdʒek.tər/",
+    "example": "Turn on the projector."
+  },
+  {
+    "index": 746,
+    "label": "puck",
+    "en": "puck",
+    "vi": "bóng khúc côn cầu",
+    "phonetic": "/pʌk/",
+    "example": "He hit the puck."
+  },
+  {
+    "index": 747,
+    "label": "punching bag",
+    "en": "punching bag",
+    "vi": "bao cát",
+    "phonetic": "/ˈpʌn.tʃɪŋ bæɡ/",
+    "example": "He hit the punching bag."
+  },
+  {
+    "index": 748,
+    "label": "purse",
+    "en": "purse",
+    "vi": "ví nữ / túi xách nhỏ",
+    "phonetic": "/pɜːs/",
+    "example": "She keeps her keys in her purse."
+  },
+  {
+    "index": 749,
+    "label": "quill",
+    "en": "quill",
+    "vi": "bút lông ngỗng",
+    "phonetic": "/kwɪl/",
+    "example": "He wrote with a quill."
+  },
+  {
+    "index": 750,
+    "label": "quilt",
+    "en": "quilt",
+    "vi": "chăn bông",
+    "phonetic": "/kwɪlt/",
+    "example": "The quilt is warm."
+  },
+  {
+    "index": 751,
+    "label": "racer",
+    "en": "race car",
+    "vi": "xe đua",
+    "phonetic": "/reɪs kɑː/",
+    "example": "The race car is fast."
+  },
+  {
+    "index": 752,
+    "label": "racket",
+    "en": "racket",
+    "vi": "vợt",
+    "phonetic": "/ˈræk.ɪt/",
+    "example": "Hold the tennis racket."
+  },
+  {
+    "index": 753,
+    "label": "radiator",
+    "en": "radiator",
+    "vi": "lò sưởi",
+    "phonetic": "/ˈreɪ.di.eɪ.tər/",
+    "example": "The radiator heats the room."
+  },
+  {
+    "index": 754,
+    "label": "radio",
+    "en": "radio",
+    "vi": "đài radio",
+    "phonetic": "/ˈreɪ.di.əʊ/",
+    "example": "Turn on the radio."
+  },
+  {
+    "index": 755,
+    "label": "radio telescope",
+    "en": "radio telescope",
+    "vi": "kính thiên văn vô tuyến",
+    "phonetic": "/ˈreɪ.di.əʊ ˈtel.ɪ.skəʊp/",
+    "example": "The radio telescope listens to space."
+  },
+  {
+    "index": 756,
+    "label": "rain barrel",
+    "en": "rain barrel",
+    "vi": "thùng hứng nước mưa",
+    "phonetic": "/reɪn ˈbær.əl/",
+    "example": "Water collects in the rain barrel."
+  },
+  {
+    "index": 757,
+    "label": "recreational vehicle",
+    "en": "RV",
+    "vi": "xe nhà di động",
+    "phonetic": "/ˌɑːr ˈviː/",
+    "example": "We traveled in an RV."
+  },
+  {
+    "index": 758,
+    "label": "reel",
+    "en": "reel",
+    "vi": "ống cuộn",
+    "phonetic": "/riːl/",
+    "example": "The fishing reel is spinning."
+  },
+  {
+    "index": 759,
+    "label": "reflex camera",
+    "en": "reflex camera",
+    "vi": "máy ảnh phản xạ",
+    "phonetic": "/ˈriː.fleks ˈkæm.rə/",
+    "example": "He bought a reflex camera."
+  },
+  {
+    "index": 760,
+    "label": "refrigerator",
+    "en": "refrigerator",
+    "vi": "tủ lạnh",
+    "phonetic": "/rɪˈfrɪdʒ.ə.reɪ.tər/",
+    "example": "Milk is in the refrigerator."
+  },
+  {
+    "index": 761,
+    "label": "remote control",
+    "en": "remote control",
+    "vi": "điều khiển từ xa",
+    "phonetic": "/rɪˌməʊt kənˈtrəʊl/",
+    "example": "Where is the remote control?"
+  },
+  {
+    "index": 762,
+    "label": "restaurant",
+    "en": "restaurant",
+    "vi": "nhà hàng",
+    "phonetic": "/ˈres.tər.ɒnt/",
+    "example": "We ate at a restaurant."
+  },
+  {
+    "index": 763,
+    "label": "revolver",
+    "en": "revolver",
+    "vi": "súng lục ổ quay",
+    "phonetic": "/rɪˈvɒl.vər/",
+    "example": "He carried a revolver."
+  },
+  {
+    "index": 764,
+    "label": "rifle",
+    "en": "rifle",
+    "vi": "súng trường",
+    "phonetic": "/ˈraɪ.fəl/",
+    "example": "The hunter holds a rifle."
+  },
+  {
+    "index": 765,
+    "label": "rocking chair",
+    "en": "rocking chair",
+    "vi": "ghế bập bênh",
+    "phonetic": "/ˈrɒk.ɪŋ tʃeər/",
+    "example": "Grandpa sits in a rocking chair."
+  },
+  {
+    "index": 766,
+    "label": "rotisserie",
+    "en": "rotisserie",
+    "vi": "lò quay thịt",
+    "phonetic": "/rəʊˈtɪs.ər.i/",
+    "example": "The chicken is on the rotisserie."
+  },
+  {
+    "index": 767,
+    "label": "rubber eraser",
+    "en": "eraser",
+    "vi": "cục tẩy",
+    "phonetic": "/ɪˈreɪ.zər/",
+    "example": "Use an eraser to fix the mistake."
+  },
+  {
+    "index": 768,
+    "label": "rugby ball",
+    "en": "rugby ball",
+    "vi": "bóng bầu dục",
+    "phonetic": "/ˈrʌɡ.bi bɔːl/",
+    "example": "He caught the rugby ball."
+  },
+  {
+    "index": 769,
+    "label": "rule",
+    "en": "ruler",
+    "vi": "cái thước kẻ",
+    "phonetic": "/ˈruː.lər/",
+    "example": "Draw a line with a ruler."
+  },
+  {
+    "index": 770,
+    "label": "running shoe",
+    "en": "running shoes",
+    "vi": "giày chạy bộ",
+    "phonetic": "/ˈrʌn.ɪŋ ʃuːz/",
+    "example": "He bought new running shoes."
+  },
+  {
+    "index": 771,
+    "label": "safe",
+    "en": "safe",
+    "vi": "két sắt",
+    "phonetic": "/seɪf/",
+    "example": "The money is in the safe."
+  },
+  {
+    "index": 772,
+    "label": "safety pin",
+    "en": "safety pin",
+    "vi": "kim băng",
+    "phonetic": "/ˈseɪf.ti pɪn/",
+    "example": "Fasten it with a safety pin."
+  },
+  {
+    "index": 773,
+    "label": "saltshaker",
+    "en": "salt shaker",
+    "vi": "lọ muối",
+    "phonetic": "/sɔːlt ˈʃeɪ.kər/",
+    "example": "Pass the salt shaker."
+  },
+  {
+    "index": 774,
+    "label": "sandal",
+    "en": "sandal",
+    "vi": "dép quai hậu",
+    "phonetic": "/ˈsæn.dəl/",
+    "example": "She wears sandals in summer."
+  },
+  {
+    "index": 775,
+    "label": "sarong",
+    "en": "sarong",
+    "vi": "xà rông",
+    "phonetic": "/səˈrɒŋ/",
+    "example": "She wore a sarong."
+  },
+  {
+    "index": 776,
+    "label": "sax",
+    "en": "saxophone",
+    "vi": "kèn saxophone",
+    "phonetic": "/ˈsæk.sə.fəʊn/",
+    "example": "He plays the saxophone."
+  },
+  {
+    "index": 777,
+    "label": "scabbard",
+    "en": "scabbard",
+    "vi": "bao kiếm",
+    "phonetic": "/ˈskæb.əd/",
+    "example": "The sword is in its scabbard."
+  },
+  {
+    "index": 778,
+    "label": "scale",
+    "en": "scale",
+    "vi": "cái cân",
+    "phonetic": "/skeɪl/",
+    "example": "Weigh it on the scale."
+  },
+  {
+    "index": 779,
+    "label": "school bus",
+    "en": "school bus",
+    "vi": "xe buýt trường học",
+    "phonetic": "/skuːl bʌs/",
+    "example": "The school bus is yellow."
+  },
+  {
+    "index": 780,
+    "label": "schooner",
+    "en": "schooner",
+    "vi": "thuyền buồm",
+    "phonetic": "/ˈskuː.nər/",
+    "example": "A schooner sailed by."
+  },
+  {
+    "index": 781,
+    "label": "scoreboard",
+    "en": "scoreboard",
+    "vi": "bảng tỉ số",
+    "phonetic": "/ˈskɔː.bɔːd/",
+    "example": "Look at the scoreboard."
+  },
+  {
+    "index": 782,
+    "label": "screen",
+    "en": "screen",
+    "vi": "màn hình",
+    "phonetic": "/skriːn/",
+    "example": "The screen is bright."
+  },
+  {
+    "index": 783,
+    "label": "screw",
+    "en": "screw",
+    "vi": "con ốc vít",
+    "phonetic": "/skruː/",
+    "example": "Tighten the screw."
+  },
+  {
+    "index": 784,
+    "label": "screwdriver",
+    "en": "screwdriver",
+    "vi": "tua vít",
+    "phonetic": "/ˈskruːˌdraɪ.vər/",
+    "example": "Use a screwdriver to tighten the screw."
+  },
+  {
+    "index": 785,
+    "label": "seat belt",
+    "en": "seat belt",
+    "vi": "dây an toàn",
+    "phonetic": "/siːt belt/",
+    "example": "Fasten your seat belt."
+  },
+  {
+    "index": 786,
+    "label": "sewing machine",
+    "en": "sewing machine",
+    "vi": "máy may",
+    "phonetic": "/ˈsəʊ.ɪŋ məˈʃiːn/",
+    "example": "She uses a sewing machine."
+  },
+  {
+    "index": 787,
+    "label": "shield",
+    "en": "shield",
+    "vi": "cái khiên",
+    "phonetic": "/ʃiːld/",
+    "example": "The knight holds a shield."
+  },
+  {
+    "index": 788,
+    "label": "shoe shop",
+    "en": "shoe shop",
+    "vi": "cửa hàng giày",
+    "phonetic": "/ʃuː ʃɒp/",
+    "example": "I bought shoes at the shoe shop."
+  },
+  {
+    "index": 789,
+    "label": "shoji",
+    "en": "shoji screen",
+    "vi": "cửa giấy shoji",
+    "phonetic": "/ˈʃəʊ.dʒi skriːn/",
+    "example": "The shoji screen slides open."
+  },
+  {
+    "index": 790,
+    "label": "shopping basket",
+    "en": "shopping basket",
+    "vi": "giỏ mua hàng",
+    "phonetic": "/ˈʃɒp.ɪŋ ˈbɑː.skɪt/",
+    "example": "Put it in the shopping basket."
+  },
+  {
+    "index": 791,
+    "label": "shopping cart",
+    "en": "shopping cart",
+    "vi": "xe đẩy mua hàng",
+    "phonetic": "/ˈʃɒp.ɪŋ kɑːt/",
+    "example": "Push the shopping cart."
+  },
+  {
+    "index": 792,
+    "label": "shovel",
+    "en": "shovel",
+    "vi": "cái xẻng",
+    "phonetic": "/ˈʃʌv.əl/",
+    "example": "Dig with a shovel."
+  },
+  {
+    "index": 793,
+    "label": "shower cap",
+    "en": "shower cap",
+    "vi": "mũ tắm",
+    "phonetic": "/ˈʃaʊ.ə kæp/",
+    "example": "She wore a shower cap."
+  },
+  {
+    "index": 794,
+    "label": "shower curtain",
+    "en": "shower curtain",
+    "vi": "rèm phòng tắm",
+    "phonetic": "/ˈʃaʊ.ə ˈkɜː.tən/",
+    "example": "Close the shower curtain."
+  },
+  {
+    "index": 795,
+    "label": "ski",
+    "en": "ski",
+    "vi": "ván trượt tuyết",
+    "phonetic": "/skiː/",
+    "example": "He put on his skis."
+  },
+  {
+    "index": 796,
+    "label": "ski mask",
+    "en": "ski mask",
+    "vi": "mặt nạ trượt tuyết",
+    "phonetic": "/skiː mɑːsk/",
+    "example": "He wore a ski mask."
+  },
+  {
+    "index": 797,
+    "label": "sleeping bag",
+    "en": "sleeping bag",
+    "vi": "túi ngủ",
+    "phonetic": "/ˈsliː.pɪŋ bæɡ/",
+    "example": "Sleep in a sleeping bag."
+  },
+  {
+    "index": 798,
+    "label": "slide rule",
+    "en": "slide rule",
+    "vi": "thước tính",
+    "phonetic": "/ˈslaɪd ruːl/",
+    "example": "Engineers used a slide rule."
+  },
+  {
+    "index": 799,
+    "label": "sliding door",
+    "en": "sliding door",
+    "vi": "cửa trượt",
+    "phonetic": "/ˌslaɪ.dɪŋ ˈdɔː/",
+    "example": "Open the sliding door."
+  },
+  {
+    "index": 800,
+    "label": "slot",
+    "en": "slot machine",
+    "vi": "máy đánh bạc",
+    "phonetic": "/slɒt məˈʃiːn/",
+    "example": "He played the slot machine."
+  },
+  {
+    "index": 801,
+    "label": "snorkel",
+    "en": "snorkel",
+    "vi": "ống thở lặn",
+    "phonetic": "/ˈsnɔː.kəl/",
+    "example": "Breathe through the snorkel."
+  },
+  {
+    "index": 802,
+    "label": "snowmobile",
+    "en": "snowmobile",
+    "vi": "xe trượt tuyết máy",
+    "phonetic": "/ˈsnəʊ.mə.biːl/",
+    "example": "He rode a snowmobile."
+  },
+  {
+    "index": 803,
+    "label": "snowplow",
+    "en": "snowplow",
+    "vi": "xe ủi tuyết",
+    "phonetic": "/ˈsnəʊ.plaʊ/",
+    "example": "The snowplow cleared the road."
+  },
+  {
+    "index": 804,
+    "label": "soap dispenser",
+    "en": "soap dispenser",
+    "vi": "bình xà phòng",
+    "phonetic": "/səʊp dɪˈspen.sər/",
+    "example": "Press the soap dispenser."
+  },
+  {
+    "index": 805,
+    "label": "soccer ball",
+    "en": "soccer ball",
+    "vi": "quả bóng đá",
+    "phonetic": "/ˈsɒk.ə bɔːl/",
+    "example": "He kicked the soccer ball."
+  },
+  {
+    "index": 806,
+    "label": "sock",
+    "en": "sock",
+    "vi": "cái tất",
+    "phonetic": "/sɒk/",
+    "example": "I lost a sock."
+  },
+  {
+    "index": 807,
+    "label": "solar dish",
+    "en": "solar dish",
+    "vi": "chảo năng lượng mặt trời",
+    "phonetic": "/ˈsəʊ.lə dɪʃ/",
+    "example": "The solar dish collects sunlight."
+  },
+  {
+    "index": 808,
+    "label": "sombrero",
+    "en": "sombrero",
+    "vi": "mũ sombrero",
+    "phonetic": "/sɒmˈbreə.rəʊ/",
+    "example": "He wore a sombrero."
+  },
+  {
+    "index": 809,
+    "label": "soup bowl",
+    "en": "soup bowl",
+    "vi": "tô súp",
+    "phonetic": "/suːp bəʊl/",
+    "example": "Fill the soup bowl."
+  },
+  {
+    "index": 810,
+    "label": "space bar",
+    "en": "space bar",
+    "vi": "phím cách",
+    "phonetic": "/speɪs bɑː/",
+    "example": "Press the space bar."
+  },
+  {
+    "index": 811,
+    "label": "space heater",
+    "en": "space heater",
+    "vi": "máy sưởi",
+    "phonetic": "/speɪs ˈhiː.tər/",
+    "example": "Turn on the space heater."
+  },
+  {
+    "index": 812,
+    "label": "space shuttle",
+    "en": "space shuttle",
+    "vi": "tàu con thoi",
+    "phonetic": "/speɪs ˈʃʌt.əl/",
+    "example": "The space shuttle launched."
+  },
+  {
+    "index": 813,
+    "label": "spatula",
+    "en": "spatula",
+    "vi": "cái xẻng lật",
+    "phonetic": "/ˈspætʃ.ə.lə/",
+    "example": "Flip the egg with a spatula."
+  },
+  {
+    "index": 814,
+    "label": "speedboat",
+    "en": "speedboat",
+    "vi": "ca nô cao tốc",
+    "phonetic": "/ˈspiːd.bəʊt/",
+    "example": "The speedboat raced across the lake."
+  },
+  {
+    "index": 815,
+    "label": "spider web",
+    "en": "spider web",
+    "vi": "mạng nhện",
+    "phonetic": "/ˈspaɪ.də web/",
+    "example": "A spider web hung in the corner."
+  },
+  {
+    "index": 816,
+    "label": "spindle",
+    "en": "spindle",
+    "vi": "con suốt",
+    "phonetic": "/ˈspɪn.dəl/",
+    "example": "Thread winds on the spindle."
+  },
+  {
+    "index": 817,
+    "label": "sports car",
+    "en": "sports car",
+    "vi": "xe thể thao",
+    "phonetic": "/spɔːts kɑː/",
+    "example": "He drives a red sports car."
+  },
+  {
+    "index": 818,
+    "label": "spotlight",
+    "en": "spotlight",
+    "vi": "đèn rọi",
+    "phonetic": "/ˈspɒt.laɪt/",
+    "example": "The singer stood in the spotlight."
+  },
+  {
+    "index": 819,
+    "label": "stage",
+    "en": "stage",
+    "vi": "sân khấu",
+    "phonetic": "/steɪdʒ/",
+    "example": "The band is on stage."
+  },
+  {
+    "index": 820,
+    "label": "steam locomotive",
+    "en": "steam locomotive",
+    "vi": "đầu máy hơi nước",
+    "phonetic": "/stiːm ˌləʊ.kəˈməʊ.tɪv/",
+    "example": "The steam locomotive puffed smoke."
+  },
+  {
+    "index": 821,
+    "label": "steel arch bridge",
+    "en": "steel arch bridge",
+    "vi": "cầu vòm thép",
+    "phonetic": "/stiːl ɑːtʃ brɪdʒ/",
+    "example": "The steel arch bridge is long."
+  },
+  {
+    "index": 822,
+    "label": "steel drum",
+    "en": "steel drum",
+    "vi": "trống thép",
+    "phonetic": "/stiːl drʌm/",
+    "example": "He plays the steel drum."
+  },
+  {
+    "index": 823,
+    "label": "stethoscope",
+    "en": "stethoscope",
+    "vi": "ống nghe",
+    "phonetic": "/ˈsteθ.ə.skəʊp/",
+    "example": "The doctor has a stethoscope."
+  },
+  {
+    "index": 824,
+    "label": "stole",
+    "en": "stole",
+    "vi": "khăn choàng",
+    "phonetic": "/stəʊl/",
+    "example": "She wore a silk stole."
+  },
+  {
+    "index": 825,
+    "label": "stone wall",
+    "en": "stone wall",
+    "vi": "tường đá",
+    "phonetic": "/stəʊn wɔːl/",
+    "example": "A stone wall surrounds the garden."
+  },
+  {
+    "index": 826,
+    "label": "stopwatch",
+    "en": "stopwatch",
+    "vi": "đồng hồ bấm giờ",
+    "phonetic": "/ˈstɒp.wɒtʃ/",
+    "example": "Start the stopwatch."
+  },
+  {
+    "index": 827,
+    "label": "stove",
+    "en": "stove",
+    "vi": "bếp nấu",
+    "phonetic": "/stəʊv/",
+    "example": "The soup is on the stove."
+  },
+  {
+    "index": 828,
+    "label": "strainer",
+    "en": "strainer",
+    "vi": "cái rây",
+    "phonetic": "/ˈstreɪ.nər/",
+    "example": "Drain it with a strainer."
+  },
+  {
+    "index": 829,
+    "label": "streetcar",
+    "en": "streetcar",
+    "vi": "xe điện",
+    "phonetic": "/ˈstriːt.kɑː/",
+    "example": "The streetcar runs downtown."
+  },
+  {
+    "index": 830,
+    "label": "stretcher",
+    "en": "stretcher",
+    "vi": "cái cáng",
+    "phonetic": "/ˈstretʃ.ər/",
+    "example": "They carried him on a stretcher."
+  },
+  {
+    "index": 831,
+    "label": "studio couch",
+    "en": "sofa bed",
+    "vi": "ghế sofa giường",
+    "phonetic": "/ˈsəʊ.fə bed/",
+    "example": "The sofa bed is comfy."
+  },
+  {
+    "index": 832,
+    "label": "stupa",
+    "en": "stupa",
+    "vi": "tháp phật",
+    "phonetic": "/ˈstuː.pə/",
+    "example": "Pilgrims visit the stupa."
+  },
+  {
+    "index": 833,
+    "label": "submarine",
+    "en": "submarine",
+    "vi": "tàu ngầm",
+    "phonetic": "/ˌsʌb.məˈriːn/",
+    "example": "The submarine dived deep."
+  },
+  {
+    "index": 834,
+    "label": "suit",
+    "en": "suit",
+    "vi": "bộ com lê",
+    "phonetic": "/suːt/",
+    "example": "He wore a dark suit."
+  },
+  {
+    "index": 835,
+    "label": "sundial",
+    "en": "sundial",
+    "vi": "đồng hồ mặt trời",
+    "phonetic": "/ˈsʌn.daɪ.əl/",
+    "example": "The sundial shows the time."
+  },
+  {
+    "index": 836,
+    "label": "sunglass",
+    "en": "sunglass lens",
+    "vi": "mắt kính râm",
+    "phonetic": "/ˈsʌn.ɡlɑːs lenz/",
+    "example": "The sunglass lens is dark."
+  },
+  {
+    "index": 837,
+    "label": "sunglasses",
+    "en": "sunglasses",
+    "vi": "kính râm",
+    "phonetic": "/ˈsʌnˌɡlɑː.sɪz/",
+    "example": "He puts on his sunglasses."
+  },
+  {
+    "index": 838,
+    "label": "sunscreen",
+    "en": "sunscreen",
+    "vi": "kem chống nắng",
+    "phonetic": "/ˈsʌn.skriːn/",
+    "example": "Put on sunscreen."
+  },
+  {
+    "index": 839,
+    "label": "suspension bridge",
+    "en": "suspension bridge",
+    "vi": "cầu treo",
+    "phonetic": "/səˈspen.ʃən brɪdʒ/",
+    "example": "A suspension bridge crosses the river."
+  },
+  {
+    "index": 840,
+    "label": "swab",
+    "en": "mop",
+    "vi": "cây lau nhà",
+    "phonetic": "/mɒp/",
+    "example": "Clean the floor with a mop."
+  },
+  {
+    "index": 841,
+    "label": "sweatshirt",
+    "en": "sweatshirt",
+    "vi": "áo nỉ",
+    "phonetic": "/ˈswet.ʃɜːt/",
+    "example": "She wore a gray sweatshirt."
+  },
+  {
+    "index": 842,
+    "label": "swimming trunks",
+    "en": "swimming trunks",
+    "vi": "quần bơi",
+    "phonetic": "/ˈswɪm.ɪŋ trʌŋks/",
+    "example": "He wore swimming trunks."
+  },
+  {
+    "index": 843,
+    "label": "swing",
+    "en": "swing",
+    "vi": "cái xích đu",
+    "phonetic": "/swɪŋ/",
+    "example": "The child plays on the swing."
+  },
+  {
+    "index": 844,
+    "label": "switch",
+    "en": "switch",
+    "vi": "công tắc",
+    "phonetic": "/swɪtʃ/",
+    "example": "Flip the light switch."
+  },
+  {
+    "index": 845,
+    "label": "syringe",
+    "en": "syringe",
+    "vi": "ống tiêm",
+    "phonetic": "/sɪˈrɪndʒ/",
+    "example": "The nurse holds a syringe."
+  },
+  {
+    "index": 846,
+    "label": "table lamp",
+    "en": "table lamp",
+    "vi": "đèn bàn",
+    "phonetic": "/ˈteɪ.bəl læmp/",
+    "example": "Turn on the table lamp to read."
+  },
+  {
+    "index": 847,
+    "label": "tank",
+    "en": "tank",
+    "vi": "xe tăng",
+    "phonetic": "/tæŋk/",
+    "example": "The tank rolled forward."
+  },
+  {
+    "index": 848,
+    "label": "tape player",
+    "en": "tape player",
+    "vi": "máy phát băng",
+    "phonetic": "/teɪp ˈpleɪ.ər/",
+    "example": "The tape player is old."
+  },
+  {
+    "index": 849,
+    "label": "teapot",
+    "en": "teapot",
+    "vi": "ấm trà",
+    "phonetic": "/ˈtiː.pɒt/",
+    "example": "She poured tea from the teapot."
+  },
+  {
+    "index": 850,
+    "label": "teddy",
+    "en": "teddy bear",
+    "vi": "gấu bông",
+    "phonetic": "/ˈted.i beər/",
+    "example": "The child hugs a teddy bear."
+  },
+  {
+    "index": 851,
+    "label": "television",
+    "en": "television",
+    "vi": "ti vi",
+    "phonetic": "/ˈtel.ɪˌvɪʒ.ən/",
+    "example": "They watch television in the evening."
+  },
+  {
+    "index": 852,
+    "label": "tennis ball",
+    "en": "tennis ball",
+    "vi": "bóng tennis",
+    "phonetic": "/ˈten.ɪs bɔːl/",
+    "example": "The dog chased the tennis ball."
+  },
+  {
+    "index": 853,
+    "label": "thatch",
+    "en": "thatched roof",
+    "vi": "mái tranh",
+    "phonetic": "/θætʃt ruːf/",
+    "example": "The cottage has a thatched roof."
+  },
+  {
+    "index": 854,
+    "label": "theater curtain",
+    "en": "stage curtain",
+    "vi": "màn sân khấu",
+    "phonetic": "/steɪdʒ ˈkɜː.tən/",
+    "example": "The stage curtain opened."
+  },
+  {
+    "index": 855,
+    "label": "thimble",
+    "en": "thimble",
+    "vi": "cái đê may",
+    "phonetic": "/ˈθɪm.bəl/",
+    "example": "She wore a thimble."
+  },
+  {
+    "index": 856,
+    "label": "thresher",
+    "en": "thresher",
+    "vi": "máy đập lúa",
+    "phonetic": "/ˈθreʃ.ər/",
+    "example": "The thresher separates the grain."
+  },
+  {
+    "index": 857,
+    "label": "throne",
+    "en": "throne",
+    "vi": "ngai vàng",
+    "phonetic": "/θrəʊn/",
+    "example": "The king sits on the throne."
+  },
+  {
+    "index": 858,
+    "label": "tile roof",
+    "en": "tile roof",
+    "vi": "mái ngói",
+    "phonetic": "/taɪl ruːf/",
+    "example": "The house has a tile roof."
+  },
+  {
+    "index": 859,
+    "label": "toaster",
+    "en": "toaster",
+    "vi": "máy nướng bánh mì",
+    "phonetic": "/ˈtəʊ.stər/",
+    "example": "Bread is in the toaster."
+  },
+  {
+    "index": 860,
+    "label": "tobacco shop",
+    "en": "tobacco shop",
+    "vi": "tiệm thuốc lá",
+    "phonetic": "/təˈbæk.əʊ ʃɒp/",
+    "example": "He went to the tobacco shop."
+  },
+  {
+    "index": 861,
+    "label": "toilet seat",
+    "en": "toilet seat",
+    "vi": "nắp bồn cầu",
+    "phonetic": "/ˈtɔɪ.lət siːt/",
+    "example": "Put the toilet seat down."
+  },
+  {
+    "index": 862,
+    "label": "torch",
+    "en": "torch",
+    "vi": "đuốc",
+    "phonetic": "/tɔːtʃ/",
+    "example": "He carried a torch."
+  },
+  {
+    "index": 863,
+    "label": "totem pole",
+    "en": "totem pole",
+    "vi": "cột tô-tem",
+    "phonetic": "/ˈtəʊ.təm pəʊl/",
+    "example": "The totem pole is carved."
+  },
+  {
+    "index": 864,
+    "label": "tow truck",
+    "en": "tow truck",
+    "vi": "xe cứu hộ",
+    "phonetic": "/təʊ trʌk/",
+    "example": "The tow truck pulled the car."
+  },
+  {
+    "index": 865,
+    "label": "toyshop",
+    "en": "toy shop",
+    "vi": "cửa hàng đồ chơi",
+    "phonetic": "/tɔɪ ʃɒp/",
+    "example": "Kids love the toy shop."
+  },
+  {
+    "index": 866,
+    "label": "tractor",
+    "en": "tractor",
+    "vi": "máy kéo",
+    "phonetic": "/ˈtræk.tər/",
+    "example": "The farmer drives a tractor."
+  },
+  {
+    "index": 867,
+    "label": "trailer truck",
+    "en": "trailer truck",
+    "vi": "xe đầu kéo",
+    "phonetic": "/ˈtreɪ.lə trʌk/",
+    "example": "The trailer truck is long."
+  },
+  {
+    "index": 868,
+    "label": "tray",
+    "en": "tray",
+    "vi": "cái khay",
+    "phonetic": "/treɪ/",
+    "example": "Carry the food on a tray."
+  },
+  {
+    "index": 869,
+    "label": "trench coat",
+    "en": "trench coat",
+    "vi": "áo măng tô",
+    "phonetic": "/trentʃ kəʊt/",
+    "example": "He wore a trench coat."
+  },
+  {
+    "index": 870,
+    "label": "tricycle",
+    "en": "tricycle",
+    "vi": "xe đạp ba bánh",
+    "phonetic": "/ˈtraɪ.sɪ.kəl/",
+    "example": "The child rides a tricycle."
+  },
+  {
+    "index": 871,
+    "label": "trimaran",
+    "en": "trimaran",
+    "vi": "thuyền ba thân",
+    "phonetic": "/ˈtraɪ.mə.ræn/",
+    "example": "The trimaran is fast."
+  },
+  {
+    "index": 872,
+    "label": "tripod",
+    "en": "tripod",
+    "vi": "chân máy ảnh",
+    "phonetic": "/ˈtraɪ.pɒd/",
+    "example": "Put the camera on a tripod."
+  },
+  {
+    "index": 873,
+    "label": "triumphal arch",
+    "en": "triumphal arch",
+    "vi": "khải hoàn môn",
+    "phonetic": "/traɪˈʌm.fəl ɑːtʃ/",
+    "example": "The triumphal arch is in Paris."
+  },
+  {
+    "index": 874,
+    "label": "trolleybus",
+    "en": "trolleybus",
+    "vi": "xe buýt điện",
+    "phonetic": "/ˈtrɒl.i.bʌs/",
+    "example": "The trolleybus runs on wires."
+  },
+  {
+    "index": 875,
+    "label": "trombone",
+    "en": "trombone",
+    "vi": "kèn trombone",
+    "phonetic": "/trɒmˈbəʊn/",
+    "example": "He plays the trombone."
+  },
+  {
+    "index": 876,
+    "label": "tub",
+    "en": "tub",
+    "vi": "cái bồn",
+    "phonetic": "/tʌb/",
+    "example": "Wash it in the tub."
+  },
+  {
+    "index": 877,
+    "label": "turnstile",
+    "en": "turnstile",
+    "vi": "cổng xoay",
+    "phonetic": "/ˈtɜːn.staɪl/",
+    "example": "Pass through the turnstile."
+  },
+  {
+    "index": 878,
+    "label": "typewriter keyboard",
+    "en": "typewriter",
+    "vi": "máy đánh chữ",
+    "phonetic": "/ˈtaɪpˌraɪ.tər/",
+    "example": "He writes on a typewriter."
+  },
+  {
+    "index": 879,
+    "label": "umbrella",
+    "en": "umbrella",
+    "vi": "cái ô",
+    "phonetic": "/ʌmˈbrel.ə/",
+    "example": "Take an umbrella, it is raining."
+  },
+  {
+    "index": 880,
+    "label": "unicycle",
+    "en": "unicycle",
+    "vi": "xe đạp một bánh",
+    "phonetic": "/ˈjuː.nɪ.saɪ.kəl/",
+    "example": "He rides a unicycle."
+  },
+  {
+    "index": 881,
+    "label": "upright",
+    "en": "upright piano",
+    "vi": "đàn piano đứng",
+    "phonetic": "/ˈʌp.raɪt piˈæn.əʊ/",
+    "example": "There is an upright piano at home."
+  },
+  {
+    "index": 882,
+    "label": "vacuum",
+    "en": "vacuum cleaner",
+    "vi": "máy hút bụi",
+    "phonetic": "/ˈvæk.juːm ˈkliː.nər/",
+    "example": "Use the vacuum cleaner."
+  },
+  {
+    "index": 883,
+    "label": "vase",
+    "en": "vase",
+    "vi": "bình hoa",
+    "phonetic": "/vɑːz/",
+    "example": "She put the flowers in a vase."
+  },
+  {
+    "index": 884,
+    "label": "vault",
+    "en": "vault",
+    "vi": "hầm chứa",
+    "phonetic": "/vɔːlt/",
+    "example": "The gold is in the vault."
+  },
+  {
+    "index": 885,
+    "label": "velvet",
+    "en": "velvet",
+    "vi": "vải nhung",
+    "phonetic": "/ˈvel.vɪt/",
+    "example": "The dress is made of velvet."
+  },
+  {
+    "index": 886,
+    "label": "vending machine",
+    "en": "vending machine",
+    "vi": "máy bán hàng tự động",
+    "phonetic": "/ˈven.dɪŋ məˈʃiːn/",
+    "example": "Buy a drink from the vending machine."
+  },
+  {
+    "index": 887,
+    "label": "vestment",
+    "en": "vestment",
+    "vi": "lễ phục",
+    "phonetic": "/ˈvest.mənt/",
+    "example": "The priest wore a vestment."
+  },
+  {
+    "index": 888,
+    "label": "viaduct",
+    "en": "viaduct",
+    "vi": "cầu cạn",
+    "phonetic": "/ˈvaɪ.ə.dʌkt/",
+    "example": "The train crosses the viaduct."
+  },
+  {
+    "index": 889,
+    "label": "violin",
+    "en": "violin",
+    "vi": "đàn violin",
+    "phonetic": "/ˌvaɪ.əˈlɪn/",
+    "example": "She plays the violin."
+  },
+  {
+    "index": 890,
+    "label": "volleyball",
+    "en": "volleyball",
+    "vi": "bóng chuyền",
+    "phonetic": "/ˈvɒl.i.bɔːl/",
+    "example": "We play volleyball at the beach."
+  },
+  {
+    "index": 891,
+    "label": "waffle iron",
+    "en": "waffle iron",
+    "vi": "khuôn bánh waffle",
+    "phonetic": "/ˈwɒf.əl ˈaɪ.ən/",
+    "example": "Heat the waffle iron."
+  },
+  {
+    "index": 892,
+    "label": "wall clock",
+    "en": "wall clock",
+    "vi": "đồng hồ treo tường",
+    "phonetic": "/wɔːl klɒk/",
+    "example": "The wall clock is five minutes slow."
+  },
+  {
+    "index": 893,
+    "label": "wallet",
+    "en": "wallet",
+    "vi": "ví nam",
+    "phonetic": "/ˈwɒl.ɪt/",
+    "example": "He keeps his money in a wallet."
+  },
+  {
+    "index": 894,
+    "label": "wardrobe",
+    "en": "wardrobe",
+    "vi": "tủ quần áo",
+    "phonetic": "/ˈwɔː.drəʊb/",
+    "example": "Clothes are in the wardrobe."
+  },
+  {
+    "index": 895,
+    "label": "warplane",
+    "en": "warplane",
+    "vi": "máy bay chiến đấu",
+    "phonetic": "/ˈwɔː.pleɪn/",
+    "example": "A warplane flew overhead."
+  },
+  {
+    "index": 896,
+    "label": "washbasin",
+    "en": "washbasin",
+    "vi": "bồn rửa mặt",
+    "phonetic": "/ˈwɒʃˌbeɪ.sən/",
+    "example": "Wash your hands in the washbasin."
+  },
+  {
+    "index": 897,
+    "label": "washer",
+    "en": "washing machine",
+    "vi": "máy giặt",
+    "phonetic": "/ˈwɒʃ.ɪŋ məˈʃiːn/",
+    "example": "Put clothes in the washing machine."
+  },
+  {
+    "index": 898,
+    "label": "water bottle",
+    "en": "water bottle",
+    "vi": "chai nước",
+    "phonetic": "/ˈwɔː.tər ˌbɒt.əl/",
+    "example": "Bring a water bottle to class."
+  },
+  {
+    "index": 899,
+    "label": "water jug",
+    "en": "water jug",
+    "vi": "bình nước",
+    "phonetic": "/ˈwɔː.tə dʒʌɡ/",
+    "example": "The water jug is full."
+  },
+  {
+    "index": 900,
+    "label": "water tower",
+    "en": "water tower",
+    "vi": "tháp nước",
+    "phonetic": "/ˈwɔː.tə ˈtaʊ.ər/",
+    "example": "The water tower is tall."
+  },
+  {
+    "index": 901,
+    "label": "whiskey jug",
+    "en": "whiskey jug",
+    "vi": "bình rượu whisky",
+    "phonetic": "/ˈwɪs.ki dʒʌɡ/",
+    "example": "The whiskey jug is made of clay."
+  },
+  {
+    "index": 902,
+    "label": "whistle",
+    "en": "whistle",
+    "vi": "cái còi",
+    "phonetic": "/ˈwɪs.əl/",
+    "example": "The referee blew the whistle."
+  },
+  {
+    "index": 903,
+    "label": "wig",
+    "en": "wig",
+    "vi": "bộ tóc giả",
+    "phonetic": "/wɪɡ/",
+    "example": "She wore a wig."
+  },
+  {
+    "index": 904,
+    "label": "window screen",
+    "en": "window screen",
+    "vi": "lưới cửa sổ",
+    "phonetic": "/ˈwɪn.dəʊ skriːn/",
+    "example": "The window screen keeps insects out."
+  },
+  {
+    "index": 905,
+    "label": "window shade",
+    "en": "window shade",
+    "vi": "rèm cuốn",
+    "phonetic": "/ˈwɪn.dəʊ ʃeɪd/",
+    "example": "Pull down the window shade."
+  },
+  {
+    "index": 906,
+    "label": "Windsor tie",
+    "en": "Windsor tie",
+    "vi": "cà vạt Windsor",
+    "phonetic": "/ˈwɪn.zə taɪ/",
+    "example": "He wore a Windsor tie."
+  },
+  {
+    "index": 907,
+    "label": "wine bottle",
+    "en": "wine bottle",
+    "vi": "chai rượu vang",
+    "phonetic": "/waɪn ˈbɒt.əl/",
+    "example": "Open the wine bottle."
+  },
+  {
+    "index": 908,
+    "label": "wing",
+    "en": "airplane wing",
+    "vi": "cánh máy bay",
+    "phonetic": "/ˈeə.pleɪn wɪŋ/",
+    "example": "Look at the airplane wing."
+  },
+  {
+    "index": 909,
+    "label": "wok",
+    "en": "wok",
+    "vi": "cái chảo xào",
+    "phonetic": "/wɒk/",
+    "example": "Stir-fry it in a wok."
+  },
+  {
+    "index": 910,
+    "label": "wooden spoon",
+    "en": "wooden spoon",
+    "vi": "muỗng gỗ",
+    "phonetic": "/ˈwʊd.ən spuːn/",
+    "example": "Stir with a wooden spoon."
+  },
+  {
+    "index": 911,
+    "label": "wool",
+    "en": "wool",
+    "vi": "len",
+    "phonetic": "/wʊl/",
+    "example": "The sweater is made of wool."
+  },
+  {
+    "index": 912,
+    "label": "worm fence",
+    "en": "worm fence",
+    "vi": "hàng rào zigzag",
+    "phonetic": "/wɜːm fens/",
+    "example": "A worm fence zigzags across the field."
+  },
+  {
+    "index": 913,
+    "label": "wreck",
+    "en": "shipwreck",
+    "vi": "xác tàu đắm",
+    "phonetic": "/ˈʃɪp.rek/",
+    "example": "The shipwreck lies on the seabed."
+  },
+  {
+    "index": 914,
+    "label": "yawl",
+    "en": "yawl",
+    "vi": "thuyền buồm yawl",
+    "phonetic": "/jɔːl/",
+    "example": "A yawl sailed along the coast."
+  },
+  {
+    "index": 915,
+    "label": "yurt",
+    "en": "yurt",
+    "vi": "lều yurt",
+    "phonetic": "/jɜːt/",
+    "example": "Nomads live in a yurt."
+  },
+  {
+    "index": 916,
+    "label": "web site",
+    "en": "website",
+    "vi": "trang web",
+    "phonetic": "/ˈweb.saɪt/",
+    "example": "Visit our website."
+  },
+  {
+    "index": 917,
+    "label": "comic book",
+    "en": "comic book",
+    "vi": "truyện tranh",
+    "phonetic": "/ˈkɒm.ɪk bʊk/",
+    "example": "He reads a comic book."
+  },
+  {
+    "index": 918,
+    "label": "crossword puzzle",
+    "en": "crossword puzzle",
+    "vi": "ô chữ",
+    "phonetic": "/ˈkrɒs.wɜːd ˈpʌz.əl/",
+    "example": "She solves a crossword puzzle."
+  },
+  {
+    "index": 919,
+    "label": "street sign",
+    "en": "street sign",
+    "vi": "biển tên đường",
+    "phonetic": "/striːt saɪn/",
+    "example": "Read the street sign."
+  },
+  {
+    "index": 920,
+    "label": "traffic light",
+    "en": "traffic light",
+    "vi": "đèn giao thông",
+    "phonetic": "/ˈtræf.ɪk laɪt/",
+    "example": "Stop at the red traffic light."
+  },
+  {
+    "index": 921,
+    "label": "book jacket",
+    "en": "book cover",
+    "vi": "bìa sách",
+    "phonetic": "/bʊk ˈkʌv.ər/",
+    "example": "The book cover is colorful."
+  },
+  {
+    "index": 922,
+    "label": "menu",
+    "en": "menu",
+    "vi": "thực đơn",
+    "phonetic": "/ˈmen.juː/",
+    "example": "Please show me the menu."
+  },
+  {
+    "index": 923,
+    "label": "plate",
+    "en": "plate",
+    "vi": "cái đĩa",
+    "phonetic": "/pleɪt/",
+    "example": "Put the rice on the plate."
+  },
+  {
+    "index": 924,
+    "label": "guacamole",
+    "en": "guacamole",
+    "vi": "sốt bơ guacamole",
+    "phonetic": "/ˌɡwɑː.kəˈməʊ.li/",
+    "example": "Dip chips in guacamole."
+  },
+  {
+    "index": 925,
+    "label": "consomme",
+    "en": "consommé",
+    "vi": "súp trong",
+    "phonetic": "/kənˈsɒm.eɪ/",
+    "example": "The consommé is clear."
+  },
+  {
+    "index": 926,
+    "label": "hot pot",
+    "en": "hot pot",
+    "vi": "lẩu",
+    "phonetic": "/ˈhɒt pɒt/",
+    "example": "We ate hot pot in winter."
+  },
+  {
+    "index": 927,
+    "label": "trifle",
+    "en": "trifle",
+    "vi": "bánh trifle",
+    "phonetic": "/ˈtraɪ.fəl/",
+    "example": "Trifle is a layered dessert."
+  },
+  {
+    "index": 928,
+    "label": "ice cream",
+    "en": "ice cream",
+    "vi": "kem",
+    "phonetic": "/ˌaɪs ˈkriːm/",
+    "example": "I love chocolate ice cream."
+  },
+  {
+    "index": 929,
+    "label": "ice lolly",
+    "en": "popsicle",
+    "vi": "kem que",
+    "phonetic": "/ˈpɒp.sɪ.kəl/",
+    "example": "Eat a popsicle in summer."
+  },
+  {
+    "index": 930,
+    "label": "French loaf",
+    "en": "baguette",
+    "vi": "bánh mì baguette",
+    "phonetic": "/bæɡˈet/",
+    "example": "Buy a fresh baguette."
+  },
+  {
+    "index": 931,
+    "label": "bagel",
+    "en": "bagel",
+    "vi": "bánh vòng bagel",
+    "phonetic": "/ˈbeɪ.ɡəl/",
+    "example": "He ate a bagel with cheese."
+  },
+  {
+    "index": 932,
+    "label": "pretzel",
+    "en": "pretzel",
+    "vi": "bánh quy xoắn",
+    "phonetic": "/ˈpret.səl/",
+    "example": "A pretzel is salty."
+  },
+  {
+    "index": 933,
+    "label": "cheeseburger",
+    "en": "cheeseburger",
+    "vi": "bánh hamburger phô mai",
+    "phonetic": "/ˈtʃiːzˌbɜː.ɡər/",
+    "example": "He ordered a cheeseburger."
+  },
+  {
+    "index": 934,
+    "label": "hotdog",
+    "en": "hot dog",
+    "vi": "xúc xích kẹp bánh",
+    "phonetic": "/ˈhɒt.dɒɡ/",
+    "example": "She ate a hot dog."
+  },
+  {
+    "index": 935,
+    "label": "mashed potato",
+    "en": "mashed potato",
+    "vi": "khoai tây nghiền",
+    "phonetic": "/mæʃt pəˈteɪ.təʊ/",
+    "example": "Mashed potato is creamy."
+  },
+  {
+    "index": 936,
+    "label": "head cabbage",
+    "en": "cabbage",
+    "vi": "bắp cải",
+    "phonetic": "/ˈkæb.ɪdʒ/",
+    "example": "Cut the cabbage."
+  },
+  {
+    "index": 937,
+    "label": "broccoli",
+    "en": "broccoli",
+    "vi": "bông cải xanh",
+    "phonetic": "/ˈbrɒk.əl.i/",
+    "example": "Eat your broccoli."
+  },
+  {
+    "index": 938,
+    "label": "cauliflower",
+    "en": "cauliflower",
+    "vi": "súp lơ trắng",
+    "phonetic": "/ˈkɒl.ɪˌflaʊ.ər/",
+    "example": "Cauliflower is white."
+  },
+  {
+    "index": 939,
+    "label": "zucchini",
+    "en": "zucchini",
+    "vi": "bí ngòi",
+    "phonetic": "/zuːˈkiː.ni/",
+    "example": "Slice the zucchini."
+  },
+  {
+    "index": 940,
+    "label": "spaghetti squash",
+    "en": "spaghetti squash",
+    "vi": "bí spaghetti",
+    "phonetic": "/spəˈɡet.i skwɒʃ/",
+    "example": "Roast the spaghetti squash."
+  },
+  {
+    "index": 941,
+    "label": "acorn squash",
+    "en": "acorn squash",
+    "vi": "bí sồi",
+    "phonetic": "/ˈeɪ.kɔːn skwɒʃ/",
+    "example": "Bake the acorn squash."
+  },
+  {
+    "index": 942,
+    "label": "butternut squash",
+    "en": "butternut squash",
+    "vi": "bí đỏ butternut",
+    "phonetic": "/ˈbʌt.ə.nʌt skwɒʃ/",
+    "example": "Make soup with butternut squash."
+  },
+  {
+    "index": 943,
+    "label": "cucumber",
+    "en": "cucumber",
+    "vi": "quả dưa chuột",
+    "phonetic": "/ˈkjuː.kʌm.bər/",
+    "example": "Add cucumber to the salad."
+  },
+  {
+    "index": 944,
+    "label": "artichoke",
+    "en": "artichoke",
+    "vi": "atiso",
+    "phonetic": "/ˈɑː.tɪ.tʃəʊk/",
+    "example": "An artichoke is a vegetable."
+  },
+  {
+    "index": 945,
+    "label": "bell pepper",
+    "en": "bell pepper",
+    "vi": "ớt chuông",
+    "phonetic": "/ˈbel ˌpep.ər/",
+    "example": "Slice the bell pepper."
+  },
+  {
+    "index": 946,
+    "label": "cardoon",
+    "en": "cardoon",
+    "vi": "cây cardoon",
+    "phonetic": "/kɑːˈduːn/",
+    "example": "Cardoon looks like celery."
+  },
+  {
+    "index": 947,
+    "label": "mushroom",
+    "en": "mushroom",
+    "vi": "nấm",
+    "phonetic": "/ˈmʌʃ.ruːm/",
+    "example": "Cook the mushroom."
+  },
+  {
+    "index": 948,
+    "label": "Granny Smith",
+    "en": "Granny Smith apple",
+    "vi": "táo xanh",
+    "phonetic": "/ˌɡræn.i ˈsmɪθ/",
+    "example": "A Granny Smith apple is sour."
+  },
+  {
+    "index": 949,
+    "label": "strawberry",
+    "en": "strawberry",
+    "vi": "quả dâu tây",
+    "phonetic": "/ˈstrɔː.bər.i/",
+    "example": "These strawberries are sweet."
+  },
+  {
+    "index": 950,
+    "label": "orange",
+    "en": "orange",
+    "vi": "quả cam",
+    "phonetic": "/ˈɒr.ɪndʒ/",
+    "example": "She drinks orange juice."
+  },
+  {
+    "index": 951,
+    "label": "lemon",
+    "en": "lemon",
+    "vi": "quả chanh",
+    "phonetic": "/ˈlem.ən/",
+    "example": "Add a slice of lemon to the tea."
+  },
+  {
+    "index": 952,
+    "label": "fig",
+    "en": "fig",
+    "vi": "quả sung",
+    "phonetic": "/fɪɡ/",
+    "example": "A fig is sweet."
+  },
+  {
+    "index": 953,
+    "label": "pineapple",
+    "en": "pineapple",
+    "vi": "quả dứa",
+    "phonetic": "/ˈpaɪnˌæp.əl/",
+    "example": "I like pineapple juice."
+  },
+  {
+    "index": 954,
+    "label": "banana",
+    "en": "banana",
+    "vi": "quả chuối",
+    "phonetic": "/bəˈnɑː.nə/",
+    "example": "I eat a banana for breakfast."
+  },
+  {
+    "index": 955,
+    "label": "jackfruit",
+    "en": "jackfruit",
+    "vi": "quả mít",
+    "phonetic": "/ˈdʒæk.fruːt/",
+    "example": "Jackfruit is huge."
+  },
+  {
+    "index": 956,
+    "label": "custard apple",
+    "en": "custard apple",
+    "vi": "quả na",
+    "phonetic": "/ˈkʌs.təd ˈæp.əl/",
+    "example": "A custard apple is creamy."
+  },
+  {
+    "index": 957,
+    "label": "pomegranate",
+    "en": "pomegranate",
+    "vi": "quả lựu",
+    "phonetic": "/ˈpɒm.ɪˌɡræn.ɪt/",
+    "example": "The pomegranate has red seeds."
+  },
+  {
+    "index": 958,
+    "label": "hay",
+    "en": "hay",
+    "vi": "cỏ khô",
+    "phonetic": "/heɪ/",
+    "example": "Horses eat hay."
+  },
+  {
+    "index": 959,
+    "label": "carbonara",
+    "en": "carbonara",
+    "vi": "mì Ý carbonara",
+    "phonetic": "/ˌkɑː.bəˈnɑː.rə/",
+    "example": "I ordered pasta carbonara."
+  },
+  {
+    "index": 960,
+    "label": "chocolate sauce",
+    "en": "chocolate sauce",
+    "vi": "sốt sô cô la",
+    "phonetic": "/ˈtʃɒk.lət sɔːs/",
+    "example": "Add chocolate sauce."
+  },
+  {
+    "index": 961,
+    "label": "dough",
+    "en": "dough",
+    "vi": "bột nhào",
+    "phonetic": "/dəʊ/",
+    "example": "Knead the dough."
+  },
+  {
+    "index": 962,
+    "label": "meat loaf",
+    "en": "meatloaf",
+    "vi": "bánh thịt nướng",
+    "phonetic": "/ˈmiːt.ləʊf/",
+    "example": "Mom made meatloaf."
+  },
+  {
+    "index": 963,
+    "label": "pizza",
+    "en": "pizza",
+    "vi": "bánh pizza",
+    "phonetic": "/ˈpiːt.sə/",
+    "example": "We ordered a large pizza."
+  },
+  {
+    "index": 964,
+    "label": "potpie",
+    "en": "pot pie",
+    "vi": "bánh nướng nhân",
+    "phonetic": "/ˈpɒt ˌpaɪ/",
+    "example": "A chicken pot pie is warm."
+  },
+  {
+    "index": 965,
+    "label": "burrito",
+    "en": "burrito",
+    "vi": "bánh burrito",
+    "phonetic": "/bəˈriː.təʊ/",
+    "example": "He ate a burrito."
+  },
+  {
+    "index": 966,
+    "label": "red wine",
+    "en": "red wine",
+    "vi": "rượu vang đỏ",
+    "phonetic": "/red waɪn/",
+    "example": "Pour some red wine."
+  },
+  {
+    "index": 967,
+    "label": "espresso",
+    "en": "espresso",
+    "vi": "cà phê espresso",
+    "phonetic": "/eˈspres.əʊ/",
+    "example": "He drinks an espresso."
+  },
+  {
+    "index": 968,
+    "label": "cup",
+    "en": "cup",
+    "vi": "cái tách",
+    "phonetic": "/kʌp/",
+    "example": "She drinks tea from a small cup."
+  },
+  {
+    "index": 969,
+    "label": "eggnog",
+    "en": "eggnog",
+    "vi": "đồ uống trứng sữa",
+    "phonetic": "/ˈeɡ.nɒɡ/",
+    "example": "Eggnog is a holiday drink."
+  },
+  {
+    "index": 970,
+    "label": "alp",
+    "en": "alp",
+    "vi": "đỉnh núi Alps",
+    "phonetic": "/ælp/",
+    "example": "Snow covers the alp."
+  },
+  {
+    "index": 971,
+    "label": "bubble",
+    "en": "bubble",
+    "vi": "bong bóng",
+    "phonetic": "/ˈbʌb.əl/",
+    "example": "Blow a soap bubble."
+  },
+  {
+    "index": 972,
+    "label": "cliff",
+    "en": "cliff",
+    "vi": "vách đá",
+    "phonetic": "/klɪf/",
+    "example": "Stand back from the cliff."
+  },
+  {
+    "index": 973,
+    "label": "coral reef",
+    "en": "coral reef",
+    "vi": "rạn san hô",
+    "phonetic": "/ˈkɒr.əl riːf/",
+    "example": "Fish live on the coral reef."
+  },
+  {
+    "index": 974,
+    "label": "geyser",
+    "en": "geyser",
+    "vi": "mạch nước phun",
+    "phonetic": "/ˈɡiː.zər/",
+    "example": "The geyser erupts every hour."
+  },
+  {
+    "index": 975,
+    "label": "lakeside",
+    "en": "lakeside",
+    "vi": "bờ hồ",
+    "phonetic": "/ˈleɪk.saɪd/",
+    "example": "We camped at the lakeside."
+  },
+  {
+    "index": 976,
+    "label": "promontory",
+    "en": "promontory",
+    "vi": "mũi đất",
+    "phonetic": "/ˈprɒm.ən.tri/",
+    "example": "A promontory juts into the sea."
+  },
+  {
+    "index": 977,
+    "label": "sandbar",
+    "en": "sandbar",
+    "vi": "bãi cát ngầm",
+    "phonetic": "/ˈsænd.bɑː/",
+    "example": "Birds rest on the sandbar."
+  },
+  {
+    "index": 978,
+    "label": "seashore",
+    "en": "seashore",
+    "vi": "bờ biển",
+    "phonetic": "/ˈsiː.ʃɔː/",
+    "example": "We walked along the seashore."
+  },
+  {
+    "index": 979,
+    "label": "valley",
+    "en": "valley",
+    "vi": "thung lũng",
+    "phonetic": "/ˈvæl.i/",
+    "example": "A river runs through the valley."
+  },
+  {
+    "index": 980,
+    "label": "volcano",
+    "en": "volcano",
+    "vi": "núi lửa",
+    "phonetic": "/vɒlˈkeɪ.nəʊ/",
+    "example": "The volcano erupted."
+  },
+  {
+    "index": 981,
+    "label": "ballplayer",
+    "en": "baseball player",
+    "vi": "cầu thủ bóng chày",
+    "phonetic": "/ˈbeɪs.bɔːl ˈpleɪ.ər/",
+    "example": "The baseball player ran fast."
+  },
+  {
+    "index": 982,
+    "label": "groom",
+    "en": "groom",
+    "vi": "chú rể",
+    "phonetic": "/ɡruːm/",
+    "example": "The groom smiled."
+  },
+  {
+    "index": 983,
+    "label": "scuba diver",
+    "en": "scuba diver",
+    "vi": "thợ lặn",
+    "phonetic": "/ˈskuː.bə ˈdaɪ.vər/",
+    "example": "A scuba diver explored the reef."
+  },
+  {
+    "index": 984,
+    "label": "rapeseed",
+    "en": "rapeseed",
+    "vi": "hoa cải dầu",
+    "phonetic": "/ˈreɪp.siːd/",
+    "example": "Rapeseed fields are yellow."
+  },
+  {
+    "index": 985,
+    "label": "daisy",
+    "en": "daisy",
+    "vi": "hoa cúc",
+    "phonetic": "/ˈdeɪ.zi/",
+    "example": "She picked a daisy."
+  },
+  {
+    "index": 986,
+    "label": "yellow lady's slipper",
+    "en": "lady's slipper orchid",
+    "vi": "lan hài vàng",
+    "phonetic": "/ˈleɪ.diz ˈslɪp.ər/",
+    "example": "The lady's slipper is a rare orchid."
+  },
+  {
+    "index": 987,
+    "label": "corn",
+    "en": "corn",
+    "vi": "bắp ngô",
+    "phonetic": "/kɔːn/",
+    "example": "We grilled corn."
+  },
+  {
+    "index": 988,
+    "label": "acorn",
+    "en": "acorn",
+    "vi": "quả sồi",
+    "phonetic": "/ˈeɪ.kɔːn/",
+    "example": "A squirrel found an acorn."
+  },
+  {
+    "index": 989,
+    "label": "hip",
+    "en": "rose hip",
+    "vi": "quả tầm xuân",
+    "phonetic": "/rəʊz hɪp/",
+    "example": "Rose hip tea is sour."
+  },
+  {
+    "index": 990,
+    "label": "buckeye",
+    "en": "buckeye",
+    "vi": "hạt dẻ ngựa",
+    "phonetic": "/ˈbʌk.aɪ/",
+    "example": "A buckeye is a shiny brown nut."
+  },
+  {
+    "index": 991,
+    "label": "coral fungus",
+    "en": "coral fungus",
+    "vi": "nấm san hô",
+    "phonetic": "/ˈkɒr.əl ˈfʌŋ.ɡəs/",
+    "example": "Coral fungus looks like coral."
+  },
+  {
+    "index": 992,
+    "label": "agaric",
+    "en": "agaric",
+    "vi": "nấm tán",
+    "phonetic": "/ˈæɡ.ər.ɪk/",
+    "example": "An agaric grows in the forest."
+  },
+  {
+    "index": 993,
+    "label": "gyromitra",
+    "en": "false morel",
+    "vi": "nấm morel giả",
+    "phonetic": "/fɔːls məˈrel/",
+    "example": "A false morel can be poisonous."
+  },
+  {
+    "index": 994,
+    "label": "stinkhorn",
+    "en": "stinkhorn",
+    "vi": "nấm thối",
+    "phonetic": "/ˈstɪŋk.hɔːn/",
+    "example": "A stinkhorn smells bad."
+  },
+  {
+    "index": 995,
+    "label": "earthstar",
+    "en": "earthstar",
+    "vi": "nấm sao đất",
+    "phonetic": "/ˈɜːθ.stɑː/",
+    "example": "An earthstar opens like a star."
+  },
+  {
+    "index": 996,
+    "label": "hen-of-the-woods",
+    "en": "hen-of-the-woods",
+    "vi": "nấm gà rừng",
+    "phonetic": "/hen əv ðə wʊdz/",
+    "example": "Hen-of-the-woods is an edible mushroom."
+  },
+  {
+    "index": 997,
+    "label": "bolete",
+    "en": "bolete",
+    "vi": "nấm sữa",
+    "phonetic": "/bəʊˈliːt/",
+    "example": "A bolete has a thick stem."
+  },
+  {
+    "index": 998,
+    "label": "ear",
+    "en": "ear of corn",
+    "vi": "bắp ngô",
+    "phonetic": "/ɪər əv kɔːn/",
+    "example": "Eat an ear of corn."
+  },
+  {
+    "index": 999,
+    "label": "toilet tissue",
+    "en": "toilet paper",
+    "vi": "giấy vệ sinh",
+    "phonetic": "/ˈtɔɪ.lət ˈpeɪ.pər/",
+    "example": "We need more toilet paper."
+  }
+]

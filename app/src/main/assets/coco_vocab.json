@@ -1,0 +1,642 @@
+[
+  {
+    "index": 0,
+    "label": "person",
+    "en": "person",
+    "vi": "người",
+    "phonetic": "/ˈpɜː.sən/",
+    "example": "A person is standing at the door."
+  },
+  {
+    "index": 1,
+    "label": "bicycle",
+    "en": "bicycle",
+    "vi": "xe đạp",
+    "phonetic": "/ˈbaɪ.sɪ.kəl/",
+    "example": "She rides a bicycle to school."
+  },
+  {
+    "index": 2,
+    "label": "car",
+    "en": "car",
+    "vi": "xe hơi",
+    "phonetic": "/kɑːr/",
+    "example": "His car is parked outside."
+  },
+  {
+    "index": 3,
+    "label": "motorcycle",
+    "en": "motorcycle",
+    "vi": "xe máy",
+    "phonetic": "/ˈməʊ.təˌsaɪ.kəl/",
+    "example": "He drives a motorcycle."
+  },
+  {
+    "index": 4,
+    "label": "airplane",
+    "en": "airplane",
+    "vi": "máy bay",
+    "phonetic": "/ˈeə.pleɪn/",
+    "example": "The airplane takes off at noon."
+  },
+  {
+    "index": 5,
+    "label": "bus",
+    "en": "bus",
+    "vi": "xe buýt",
+    "phonetic": "/bʌs/",
+    "example": "I go to work by bus."
+  },
+  {
+    "index": 6,
+    "label": "train",
+    "en": "train",
+    "vi": "tàu hỏa",
+    "phonetic": "/treɪn/",
+    "example": "The train is late today."
+  },
+  {
+    "index": 7,
+    "label": "truck",
+    "en": "truck",
+    "vi": "xe tải",
+    "phonetic": "/trʌk/",
+    "example": "The truck carries rice."
+  },
+  {
+    "index": 8,
+    "label": "boat",
+    "en": "boat",
+    "vi": "con thuyền",
+    "phonetic": "/bəʊt/",
+    "example": "The boat sails on the river."
+  },
+  {
+    "index": 9,
+    "label": "traffic light",
+    "en": "traffic light",
+    "vi": "đèn giao thông",
+    "phonetic": "/ˈtræf.ɪk laɪt/",
+    "example": "Stop at the red traffic light."
+  },
+  {
+    "index": 10,
+    "label": "fire hydrant",
+    "en": "fire hydrant",
+    "vi": "trụ cứu hỏa",
+    "phonetic": "/ˈfaɪə ˈhaɪ.drənt/",
+    "example": "The fire hydrant is on the corner."
+  },
+  {
+    "index": 12,
+    "label": "stop sign",
+    "en": "stop sign",
+    "vi": "biển báo dừng",
+    "phonetic": "/ˈstɒp saɪn/",
+    "example": "Stop at the stop sign."
+  },
+  {
+    "index": 13,
+    "label": "parking meter",
+    "en": "parking meter",
+    "vi": "đồng hồ đỗ xe",
+    "phonetic": "/ˈpɑː.kɪŋ ˈmiː.tər/",
+    "example": "Pay at the parking meter."
+  },
+  {
+    "index": 14,
+    "label": "bench",
+    "en": "bench",
+    "vi": "ghế dài",
+    "phonetic": "/bentʃ/",
+    "example": "They sit on a bench in the park."
+  },
+  {
+    "index": 15,
+    "label": "bird",
+    "en": "bird",
+    "vi": "con chim",
+    "phonetic": "/bɜːd/",
+    "example": "A bird is singing in the tree."
+  },
+  {
+    "index": 16,
+    "label": "cat",
+    "en": "cat",
+    "vi": "con mèo",
+    "phonetic": "/kæt/",
+    "example": "The cat sleeps on the sofa."
+  },
+  {
+    "index": 17,
+    "label": "dog",
+    "en": "dog",
+    "vi": "con chó",
+    "phonetic": "/dɒɡ/",
+    "example": "The dog runs in the garden."
+  },
+  {
+    "index": 18,
+    "label": "horse",
+    "en": "horse",
+    "vi": "con ngựa",
+    "phonetic": "/hɔːs/",
+    "example": "She rides a horse."
+  },
+  {
+    "index": 19,
+    "label": "sheep",
+    "en": "sheep",
+    "vi": "con cừu",
+    "phonetic": "/ʃiːp/",
+    "example": "The sheep eat grass."
+  },
+  {
+    "index": 20,
+    "label": "cow",
+    "en": "cow",
+    "vi": "con bò",
+    "phonetic": "/kaʊ/",
+    "example": "The cow gives milk."
+  },
+  {
+    "index": 21,
+    "label": "elephant",
+    "en": "elephant",
+    "vi": "con voi",
+    "phonetic": "/ˈel.ɪ.fənt/",
+    "example": "The elephant has a long trunk."
+  },
+  {
+    "index": 22,
+    "label": "bear",
+    "en": "bear",
+    "vi": "con gấu",
+    "phonetic": "/beər/",
+    "example": "A bear lives in the forest."
+  },
+  {
+    "index": 23,
+    "label": "zebra",
+    "en": "zebra",
+    "vi": "ngựa vằn",
+    "phonetic": "/ˈzeb.rə/",
+    "example": "The zebra has black and white stripes."
+  },
+  {
+    "index": 24,
+    "label": "giraffe",
+    "en": "giraffe",
+    "vi": "hươu cao cổ",
+    "phonetic": "/dʒɪˈrɑːf/",
+    "example": "The giraffe has a long neck."
+  },
+  {
+    "index": 26,
+    "label": "backpack",
+    "en": "backpack",
+    "vi": "ba lô",
+    "phonetic": "/ˈbæk.pæk/",
+    "example": "He carries his books in a backpack."
+  },
+  {
+    "index": 27,
+    "label": "umbrella",
+    "en": "umbrella",
+    "vi": "cái ô",
+    "phonetic": "/ʌmˈbrel.ə/",
+    "example": "Take an umbrella, it is raining."
+  },
+  {
+    "index": 30,
+    "label": "handbag",
+    "en": "handbag",
+    "vi": "túi xách tay",
+    "phonetic": "/ˈhænd.bæɡ/",
+    "example": "She put her phone in her handbag."
+  },
+  {
+    "index": 31,
+    "label": "tie",
+    "en": "tie",
+    "vi": "cà vạt",
+    "phonetic": "/taɪ/",
+    "example": "He wears a tie to work."
+  },
+  {
+    "index": 32,
+    "label": "suitcase",
+    "en": "suitcase",
+    "vi": "va li",
+    "phonetic": "/ˈsuːt.keɪs/",
+    "example": "Pack your suitcase for the trip."
+  },
+  {
+    "index": 33,
+    "label": "frisbee",
+    "en": "frisbee",
+    "vi": "đĩa bay",
+    "phonetic": "/ˈfrɪz.bi/",
+    "example": "The dog caught the frisbee."
+  },
+  {
+    "index": 34,
+    "label": "skis",
+    "en": "skis",
+    "vi": "ván trượt tuyết",
+    "phonetic": "/skiːz/",
+    "example": "He put on his skis."
+  },
+  {
+    "index": 35,
+    "label": "snowboard",
+    "en": "snowboard",
+    "vi": "ván trượt tuyết đơn",
+    "phonetic": "/ˈsnəʊ.bɔːd/",
+    "example": "She learns to snowboard."
+  },
+  {
+    "index": 36,
+    "label": "sports ball",
+    "en": "ball",
+    "vi": "quả bóng",
+    "phonetic": "/bɔːl/",
+    "example": "The children play with a ball."
+  },
+  {
+    "index": 37,
+    "label": "kite",
+    "en": "kite",
+    "vi": "con diều",
+    "phonetic": "/kaɪt/",
+    "example": "The kite flies high in the sky."
+  },
+  {
+    "index": 38,
+    "label": "baseball bat",
+    "en": "baseball bat",
+    "vi": "gậy bóng chày",
+    "phonetic": "/ˈbeɪs.bɔːl bæt/",
+    "example": "He swings the baseball bat."
+  },
+  {
+    "index": 39,
+    "label": "baseball glove",
+    "en": "baseball glove",
+    "vi": "găng tay bóng chày",
+    "phonetic": "/ˈbeɪs.bɔːl ɡlʌv/",
+    "example": "He catches the ball with a baseball glove."
+  },
+  {
+    "index": 40,
+    "label": "skateboard",
+    "en": "skateboard",
+    "vi": "ván trượt",
+    "phonetic": "/ˈskeɪt.bɔːd/",
+    "example": "He rides a skateboard in the park."
+  },
+  {
+    "index": 41,
+    "label": "surfboard",
+    "en": "surfboard",
+    "vi": "ván lướt sóng",
+    "phonetic": "/ˈsɜːf.bɔːd/",
+    "example": "She carries her surfboard to the beach."
+  },
+  {
+    "index": 42,
+    "label": "tennis racket",
+    "en": "tennis racket",
+    "vi": "vợt tennis",
+    "phonetic": "/ˈten.ɪs ˈræk.ɪt/",
+    "example": "She holds a tennis racket."
+  },
+  {
+    "index": 43,
+    "label": "bottle",
+    "en": "bottle",
+    "vi": "cái chai",
+    "phonetic": "/ˈbɒt.əl/",
+    "example": "There is a bottle of water on the table."
+  },
+  {
+    "index": 45,
+    "label": "wine glass",
+    "en": "wine glass",
+    "vi": "ly rượu vang",
+    "phonetic": "/ˈwaɪn ɡlɑːs/",
+    "example": "She holds a wine glass."
+  },
+  {
+    "index": 46,
+    "label": "cup",
+    "en": "cup",
+    "vi": "cái tách",
+    "phonetic": "/kʌp/",
+    "example": "She drinks tea from a small cup."
+  },
+  {
+    "index": 47,
+    "label": "fork",
+    "en": "fork",
+    "vi": "cái nĩa",
+    "phonetic": "/fɔːk/",
+    "example": "Eat the noodles with a fork."
+  },
+  {
+    "index": 48,
+    "label": "knife",
+    "en": "knife",
+    "vi": "con dao",
+    "phonetic": "/naɪf/",
+    "example": "Cut the bread with a knife."
+  },
+  {
+    "index": 49,
+    "label": "spoon",
+    "en": "spoon",
+    "vi": "cái muỗng",
+    "phonetic": "/spuːn/",
+    "example": "Stir the soup with a spoon."
+  },
+  {
+    "index": 50,
+    "label": "bowl",
+    "en": "bowl",
+    "vi": "cái tô",
+    "phonetic": "/bəʊl/",
+    "example": "Put the rice in the bowl."
+  },
+  {
+    "index": 51,
+    "label": "banana",
+    "en": "banana",
+    "vi": "quả chuối",
+    "phonetic": "/bəˈnɑː.nə/",
+    "example": "I eat a banana for breakfast."
+  },
+  {
+    "index": 52,
+    "label": "apple",
+    "en": "apple",
+    "vi": "quả táo",
+    "phonetic": "/ˈæp.əl/",
+    "example": "An apple a day keeps the doctor away."
+  },
+  {
+    "index": 53,
+    "label": "sandwich",
+    "en": "sandwich",
+    "vi": "bánh sandwich",
+    "phonetic": "/ˈsæn.wɪdʒ/",
+    "example": "She eats a sandwich for lunch."
+  },
+  {
+    "index": 54,
+    "label": "orange",
+    "en": "orange",
+    "vi": "quả cam",
+    "phonetic": "/ˈɒr.ɪndʒ/",
+    "example": "She drinks orange juice."
+  },
+  {
+    "index": 55,
+    "label": "broccoli",
+    "en": "broccoli",
+    "vi": "bông cải xanh",
+    "phonetic": "/ˈbrɒk.əl.i/",
+    "example": "Eat your broccoli."
+  },
+  {
+    "index": 56,
+    "label": "carrot",
+    "en": "carrot",
+    "vi": "cà rốt",
+    "phonetic": "/ˈkær.ət/",
+    "example": "Rabbits love carrots."
+  },
+  {
+    "index": 57,
+    "label": "hot dog",
+    "en": "hot dog",
+    "vi": "xúc xích kẹp bánh",
+    "phonetic": "/ˈhɒt.dɒɡ/",
+    "example": "She ate a hot dog."
+  },
+  {
+    "index": 58,
+    "label": "pizza",
+    "en": "pizza",
+    "vi": "bánh pizza",
+    "phonetic": "/ˈpiːt.sə/",
+    "example": "We ordered a large pizza."
+  },
+  {
+    "index": 59,
+    "label": "donut",
+    "en": "donut",
+    "vi": "bánh donut",
+    "phonetic": "/ˈdəʊ.nʌt/",
+    "example": "He bought a donut."
+  },
+  {
+    "index": 60,
+    "label": "cake",
+    "en": "cake",
+    "vi": "bánh ngọt",
+    "phonetic": "/keɪk/",
+    "example": "She baked a birthday cake."
+  },
+  {
+    "index": 61,
+    "label": "chair",
+    "en": "chair",
+    "vi": "cái ghế",
+    "phonetic": "/tʃeər/",
+    "example": "Please sit on the chair."
+  },
+  {
+    "index": 62,
+    "label": "couch",
+    "en": "sofa",
+    "vi": "ghế sofa",
+    "phonetic": "/ˈsəʊ.fə/",
+    "example": "They watch TV on the sofa."
+  },
+  {
+    "index": 63,
+    "label": "potted plant",
+    "en": "potted plant",
+    "vi": "chậu cây",
+    "phonetic": "/ˈpɒt.ɪd plɑːnt/",
+    "example": "The potted plant is by the window."
+  },
+  {
+    "index": 64,
+    "label": "bed",
+    "en": "bed",
+    "vi": "cái giường",
+    "phonetic": "/bed/",
+    "example": "I go to bed at ten."
+  },
+  {
+    "index": 66,
+    "label": "dining table",
+    "en": "dining table",
+    "vi": "bàn ăn",
+    "phonetic": "/ˈdaɪ.nɪŋ ˈteɪ.bəl/",
+    "example": "The family sits at the dining table."
+  },
+  {
+    "index": 69,
+    "label": "toilet",
+    "en": "toilet",
+    "vi": "bồn cầu",
+    "phonetic": "/ˈtɔɪ.lət/",
+    "example": "The toilet is clean."
+  },
+  {
+    "index": 71,
+    "label": "tv",
+    "en": "television",
+    "vi": "ti vi",
+    "phonetic": "/ˈtel.ɪˌvɪʒ.ən/",
+    "example": "They watch television in the evening."
+  },
+  {
+    "index": 72,
+    "label": "laptop",
+    "en": "laptop",
+    "vi": "máy tính xách tay",
+    "phonetic": "/ˈlæp.tɒp/",
+    "example": "She works on her laptop."
+  },
+  {
+    "index": 73,
+    "label": "mouse",
+    "en": "computer mouse",
+    "vi": "chuột máy tính",
+    "phonetic": "/kəmˈpjuː.tə maʊs/",
+    "example": "Click the button on the mouse."
+  },
+  {
+    "index": 74,
+    "label": "remote",
+    "en": "remote control",
+    "vi": "điều khiển từ xa",
+    "phonetic": "/rɪˌməʊt kənˈtrəʊl/",
+    "example": "Where is the remote control?"
+  },
+  {
+    "index": 75,
+    "label": "keyboard",
+    "en": "keyboard",
+    "vi": "bàn phím",
+    "phonetic": "/ˈkiː.bɔːd/",
+    "example": "I type fast on this keyboard."
+  },
+  {
+    "index": 76,
+    "label": "cell phone",
+    "en": "mobile phone",
+    "vi": "điện thoại di động",
+    "phonetic": "/ˈməʊ.baɪl fəʊn/",
+    "example": "My mobile phone is on the desk."
+  },
+  {
+    "index": 77,
+    "label": "microwave",
+    "en": "microwave",
+    "vi": "lò vi sóng",
+    "phonetic": "/ˈmaɪ.krə.weɪv/",
+    "example": "Heat it in the microwave."
+  },
+  {
+    "index": 78,
+    "label": "oven",
+    "en": "oven",
+    "vi": "lò nướng",
+    "phonetic": "/ˈʌv.ən/",
+    "example": "Bake the bread in the oven."
+  },
+  {
+    "index": 79,
+    "label": "toaster",
+    "en": "toaster",
+    "vi": "máy nướng bánh mì",
+    "phonetic": "/ˈtəʊ.stər/",
+    "example": "The bread is in the toaster."
+  },
+  {
+    "index": 80,
+    "label": "sink",
+    "en": "sink",
+    "vi": "bồn rửa",
+    "phonetic": "/sɪŋk/",
+    "example": "Wash the dishes in the sink."
+  },
+  {
+    "index": 81,
+    "label": "refrigerator",
+    "en": "refrigerator",
+    "vi": "tủ lạnh",
+    "phonetic": "/rɪˈfrɪdʒ.ə.reɪ.tər/",
+    "example": "Milk is in the refrigerator."
+  },
+  {
+    "index": 83,
+    "label": "book",
+    "en": "book",
+    "vi": "quyển sách",
+    "phonetic": "/bʊk/",
+    "example": "She reads a book every night."
+  },
+  {
+    "index": 84,
+    "label": "clock",
+    "en": "clock",
+    "vi": "đồng hồ",
+    "phonetic": "/klɒk/",
+    "example": "The clock shows seven o'clock."
+  },
+  {
+    "index": 85,
+    "label": "vase",
+    "en": "vase",
+    "vi": "bình hoa",
+    "phonetic": "/vɑːz/",
+    "example": "She put the flowers in a vase."
+  },
+  {
+    "index": 86,
+    "label": "scissors",
+    "en": "scissors",
+    "vi": "cái kéo",
+    "phonetic": "/ˈsɪz.əz/",
+    "example": "Cut the paper with scissors."
+  },
+  {
+    "index": 87,
+    "label": "teddy bear",
+    "en": "teddy bear",
+    "vi": "gấu bông",
+    "phonetic": "/ˈted.i beər/",
+    "example": "The child hugs a teddy bear."
+  },
+  {
+    "index": 88,
+    "label": "hair drier",
+    "en": "hair dryer",
+    "vi": "máy sấy tóc",
+    "phonetic": "/ˈheə ˌdraɪ.ər/",
+    "example": "She dries her hair with a hair dryer."
+  },
+  {
+    "index": 89,
+    "label": "toothbrush",
+    "en": "toothbrush",
+    "vi": "bàn chải đánh răng",
+    "phonetic": "/ˈtuːθ.brʌʃ/",
+    "example": "Brush your teeth with a toothbrush."
+  }
+]

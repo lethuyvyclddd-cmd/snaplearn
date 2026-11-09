@@ -1,0 +1,7 @@
+<resources>
+    <string name="btn_gallery">Chọn ảnh từ thư viện</string>
+    <string name="msg_gallery_error">Không mở được ảnh: %1$s</string>
+    <string name="msg_crop_hint">Kéo ảnh và chụm hai ngón để đưa vật vào giữa khung</string>
+    <string name="btn_crop_use">Dùng ảnh này</string>
+    <string name="btn_crop_reset">Đặt lại</string>
+</resources>

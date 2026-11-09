@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">SnapLearn</string>
+    <string name="app_tagline">Chụp đồ vật, học từ vựng tiếng Anh</string>
+    <string name="btn_capture">Chụp ảnh</string>
+    <string name="btn_retake">Chụp lại</string>
+    <string name="btn_save">Lưu vào sổ</string>
+    <string name="btn_saved">Đã lưu ✓</string>
+    <string name="btn_listen">Nghe</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_notebook">Sổ từ vựng</string>
+    <string name="title_notebook">Sổ từ vựng</string>
+    <string name="desc_result">Ảnh sau khi xử lý</string>
+    <string name="desc_thumb">Ảnh của từ</string>
+    <string name="msg_camera_hint">Đặt vật thể vào giữa khung vuông</string>
+    <string name="msg_need_camera">Cần cấp quyền camera để chụp ảnh</string>
+    <string name="msg_camera_error">Không mở được camera: %1$s</string>
+    <string name="msg_capture_error">Chụp ảnh thất bại: %1$s</string>
+    <string name="msg_model_error">Không nạp được mô hình: %1$s</string>
+    <string name="msg_no_model">Chưa có file mô hình efficientnet_lite0.tflite trong thư mục assets</string>
+    <string name="msg_saved">Đã lưu vào sổ từ vựng</string>
+    <string name="msg_save_error">Không lưu được: %1$s</string>
+    <string name="msg_no_tts">Máy chưa có giọng đọc tiếng Anh. Hãy cài trong Cài đặt &gt; Văn bản thành giọng nói.</string>
+    <string name="msg_notebook_empty">Chưa có từ nào.\nHãy chụp một đồ vật và bấm \"Lưu vào sổ\".</string>
+    <string name="res_confidence">Độ tin cậy: %1$d%%</string>
+    <string name="res_no_vocab">Chưa có trong từ điển</string>
+    <string name="res_uncertain_title">Chưa chắc chắn</string>
+    <string name="res_uncertain">Độ tin cậy chỉ %1$d%%. Hãy chụp gần hơn, rõ hơn hoặc chọn đáp án bên dưới.</string>
+    <string name="res_maybe">Có thể là:</string>
+    <string name="res_not_right">Không đúng? Chọn từ khác:</string>
+    <string name="btn_quiz">Ôn tập (Quiz)</string>
+    <string name="title_quiz">Ôn tập từ vựng</string>
+    <string name="quiz_empty">Sổ từ vựng đang trống.\nHãy chụp đồ vật và bấm \"Lưu vào sổ\" trước khi ôn tập.</string>
+    <string name="quiz_progress">Câu %1$d/%2$d  -  Đúng: %3$d</string>
+    <string name="quiz_q_photo">Đây là gì? (chọn từ tiếng Anh)</string>
+    <string name="quiz_q_meaning">Từ này nghĩa là gì?</string>
+    <string name="quiz_q_listen">Nghe và chọn từ đúng</string>
+    <string name="quiz_correct">Chính xác!</string>
+    <string name="quiz_wrong">Chưa đúng. Đáp án: %1$s</string>
+    <string name="quiz_next">Câu tiếp theo</string>
+    <string name="quiz_finish">Xem kết quả</string>
+    <string name="quiz_score">%1$d / %2$d</string>
+    <string name="quiz_retry">Làm lại</string>
+    <string name="quiz_exit">Thoát</string>
+    <string name="quiz_msg_great">Tuyệt vời! Bạn nhớ rất tốt.</string>
+    <string name="quiz_msg_good">Khá tốt! Ôn thêm một chút nữa nhé.</string>
+    <string name="quiz_msg_try">Cố gắng lên! Hãy xem lại sổ từ vựng rồi làm lại.</string>
+    <string name="btn_history">Lịch sử nhận dạng</string>
+    <string name="title_history">Lịch sử nhận dạng</string>
+    <string name="btn_clear_all">Xóa tất cả</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="msg_history_empty">Chưa có lần nhận dạng nào.\nHãy chụp một đồ vật để bắt đầu.</string>
+    <string name="dlg_clear_title">Xóa lịch sử?</string>
+    <string name="dlg_clear_message">Toàn bộ lịch sử nhận dạng sẽ bị xóa. Sổ từ vựng không bị ảnh hưởng.</string>
+
+    <!-- Mới thêm cho giao diện đẹp hơn -->
+    <string name="notebook_count">%1$d từ đã lưu</string>
+    <string name="history_count">%1$d lần nhận dạng gần đây</string>
+
+    <!-- ===== Đăng nhập / Đăng ký (Firebase) ===== -->
+    <!-- Đăng nhập -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_subtitle">Chào mừng trở lại! Đăng nhập để tiếp tục học từ vựng.</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="link_to_register">Chưa có tài khoản? <b>Đăng ký</b></string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+
+    <!-- Đăng ký -->
+    <string name="register_title">Tạo tài khoản</string>
+    <string name="register_subtitle">Chỉ mất một phút để bắt đầu học cùng Snap &amp; Learn.</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="link_to_login">Đã có tài khoản? <b>Đăng nhập</b></string>
+
+    <!-- Ô nhập -->
+    <string name="hint_name">Tên hiển thị</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_confirm">Nhập lại mật khẩu</string>
+
+    <!-- Thông báo lỗi nhập liệu -->
+    <string name="err_name_empty">Vui lòng nhập tên</string>
+    <string name="err_email_empty">Vui lòng nhập email</string>
+    <string name="err_email_invalid">Email không hợp lệ</string>
+    <string name="err_password_empty">Vui lòng nhập mật khẩu</string>
+    <string name="err_password_short">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="err_confirm_mismatch">Mật khẩu nhập lại không khớp</string>
+
+    <!-- Lỗi từ Firebase -->
+    <string name="err_wrong_credential">Email hoặc mật khẩu không đúng</string>
+    <string name="err_email_in_use">Email này đã được đăng ký</string>
+    <string name="err_weak_password">Mật khẩu quá yếu, hãy chọn mật khẩu dài hơn</string>
+    <string name="err_network">Không có kết nối mạng. Hãy kiểm tra Internet rồi thử lại</string>
+    <string name="err_too_many">Thử quá nhiều lần. Vui lòng đợi một lúc rồi thử lại</string>
+    <string name="err_unknown">Đã xảy ra lỗi: %1$s</string>
+
+    <!-- Quên mật khẩu -->
+    <string name="reset_title">Đặt lại mật khẩu</string>
+    <string name="reset_message">Nhập email đã đăng ký, chúng tôi sẽ gửi liên kết đặt lại mật khẩu.</string>
+    <string name="reset_send">Gửi</string>
+    <string name="reset_sent">Đã gửi email đặt lại mật khẩu tới %1$s</string>
+
+    <!-- Màn hình chính -->
+    <string name="welcome_user">Xin chào, %1$s 👋</string>
+    <string name="btn_logout">Đăng xuất</string>
+    <string name="logout_done">Đã đăng xuất</string>
+</resources>
